@@ -1,2330 +1,2546 @@
 [{
   "id": 1,
-  "firstName": "Saw",
-  "lastName": "Shreve",
-  "department": "STU",
-  "device": [
+  "firstName": "Costanza",
+  "lastName": "Dawson",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG372654",
+      "ug": "UG410639",
+      "type": "Laptop",
+      "mac": "AB-DB-39-2F-FE-A0",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "warrantyStart": "2019-06-16T13:14:22Z",
+      "warrantyEnd": "2029-04-13T14:28:37Z"
+    },
+    {
+      "ug": "UG079314",
       "type": "Desktop",
-      "mac": "1F-92-B6-A6-49-FE",
-      "manufacturer": "HP",
+      "mac": "95-51-6C-65-09-8F",
+      "manufacturer": "Stone",
       "model": "EliteBook",
-      "warrantyStart": "2020-05-21T09:24:24Z",
-      "warrantyEnd": "2024-03-06T18:41:40Z"
+      "warrantyStart": "2018-02-05T13:34:01Z",
+      "warrantyEnd": "2026-07-18T13:46:10Z"
+    },
+    {
+      "ug": "UG679078",
+      "type": "Laptop",
+      "mac": "30-CA-DA-38-92-60",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2017-10-21T19:11:11Z",
+      "warrantyEnd": "2023-04-28T07:19:13Z"
     }
   ]
 }, {
   "id": 2,
-  "firstName": "Ola",
-  "lastName": "Bread",
-  "department": "STU",
-  "device": [
+  "firstName": "Stephani",
+  "lastName": "Wormell",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG370998",
+      "ug": "UG260193",
       "type": "Laptop",
-      "mac": "D9-61-D0-F6-EA-6D",
-      "manufacturer": "Stone",
+      "mac": "4E-A2-F9-7F-62-B9",
+      "manufacturer": "HP",
       "model": "MiniBook",
-      "warrantyStart": "2021-03-30T21:29:15Z",
-      "warrantyEnd": "2024-09-24T18:27:30Z"
+      "warrantyStart": "2020-11-10T08:23:50Z",
+      "warrantyEnd": "2023-03-20T14:34:46Z"
     },
     {
-      "ug": "UG789007",
-      "type": "Desktop",
-      "mac": "BA-0A-5B-37-80-0F",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "warrantyStart": "2016-12-07T18:27:48Z",
-      "warrantyEnd": "2026-07-07T18:52:41Z"
+      "ug": "UG654273",
+      "type": "Laptop",
+      "mac": "FF-9E-BD-A5-FA-EA",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "warrantyStart": "2010-09-27T04:46:08Z",
+      "warrantyEnd": "2029-03-21T08:15:01Z"
     }
   ]
 }, {
   "id": 3,
-  "firstName": "Mallissa",
-  "lastName": "Scollick",
-  "department": "STU",
-  "device": [
+  "firstName": "Karee",
+  "lastName": "Canter",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG152309",
+      "ug": "UG935963",
       "type": "Laptop",
-      "mac": "3F-CE-AD-F6-66-BD",
-      "manufacturer": "HP",
+      "mac": "64-52-89-3D-2E-08",
+      "manufacturer": "Dell",
       "model": "ProBook",
-      "warrantyStart": "2015-11-26T01:45:49Z",
-      "warrantyEnd": "2028-11-11T02:53:35Z"
+      "warrantyStart": "2012-09-26T12:25:34Z",
+      "warrantyEnd": "2029-12-19T17:04:27Z"
+    },
+    {
+      "ug": "UG818936",
+      "type": "Desktop",
+      "mac": "03-10-6A-7E-84-D9",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2015-03-26T04:33:09Z",
+      "warrantyEnd": "2027-03-11T21:50:22Z"
     }
   ]
 }, {
   "id": 4,
-  "firstName": "Calla",
-  "lastName": "Hazeldene",
-  "department": "STU",
-  "device": [
+  "firstName": "Riordan",
+  "lastName": "Lomas",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG439816",
+      "ug": "UG289457",
       "type": "Laptop",
-      "mac": "1F-40-D7-EF-48-7F",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "warrantyStart": "2016-05-14T04:45:31Z",
-      "warrantyEnd": "2027-07-22T07:38:16Z"
-    },
-    {
-      "ug": "UG748117",
-      "type": "Desktop",
-      "mac": "3B-60-3A-C5-3A-E7",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "warrantyStart": "2019-02-02T11:22:04Z",
-      "warrantyEnd": "2023-11-26T20:33:14Z"
-    },
-    {
-      "ug": "UG212753",
-      "type": "Laptop",
-      "mac": "65-BF-FF-7E-F1-C6",
-      "manufacturer": "HP",
+      "mac": "29-37-6E-D4-38-07",
+      "manufacturer": "Dell",
       "model": "ProBook",
-      "warrantyStart": "2021-02-19T21:03:14Z",
-      "warrantyEnd": "2025-10-21T22:35:00Z"
+      "warrantyStart": "2021-02-21T05:04:58Z",
+      "warrantyEnd": "2029-11-06T04:24:24Z"
+    },
+    {
+      "ug": "UG256003",
+      "type": "Desktop",
+      "mac": "37-ED-B5-45-37-08",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2013-10-26T13:21:56Z",
+      "warrantyEnd": "2030-01-15T06:49:09Z"
     }
   ]
 }, {
   "id": 5,
-  "firstName": "Cleveland",
-  "lastName": "Archbell",
-  "department": "LID",
-  "device": [
+  "firstName": "Binnie",
+  "lastName": "Chinery",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG667702",
+      "ug": "UG147922",
       "type": "Desktop",
-      "mac": "10-00-EC-63-75-4A",
+      "mac": "B3-CA-97-81-6F-A7",
       "manufacturer": "HP",
-      "model": "ProBook",
-      "warrantyStart": "2016-02-22T01:26:32Z",
-      "warrantyEnd": "2026-12-28T22:41:39Z"
+      "model": "EliteBook",
+      "warrantyStart": "2011-11-29T11:30:18Z",
+      "warrantyEnd": "2023-07-17T14:55:49Z"
     }
   ]
 }, {
   "id": 6,
-  "firstName": "Bev",
-  "lastName": "Blazhevich",
-  "department": "STU",
-  "device": [
+  "firstName": "Linea",
+  "lastName": "Oldis",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG747899",
+      "ug": "UG232663",
       "type": "Desktop",
-      "mac": "37-15-65-C6-BB-CD",
-      "manufacturer": "Asus",
+      "mac": "41-46-58-AE-27-0E",
+      "manufacturer": "Lenovo",
       "model": "ProBook",
-      "warrantyStart": "2017-05-31T20:09:59Z",
-      "warrantyEnd": "2030-07-19T22:20:39Z"
+      "warrantyStart": "2018-04-17T00:13:51Z",
+      "warrantyEnd": "2028-08-14T06:00:18Z"
+    },
+    {
+      "ug": "UG747272",
+      "type": "Desktop",
+      "mac": "67-0B-F4-72-8C-20",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "warrantyStart": "2015-12-25T15:18:33Z",
+      "warrantyEnd": "2025-06-08T20:17:49Z"
     }
   ]
 }, {
   "id": 7,
-  "firstName": "Ingeberg",
-  "lastName": "Roddell",
-  "department": "LID",
-  "device": [
+  "firstName": "Thedric",
+  "lastName": "Inkpin",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG989446",
-      "type": "Desktop",
-      "mac": "B6-49-68-A3-CD-B5",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2021-06-26T16:32:54Z",
-      "warrantyEnd": "2023-11-19T19:23:41Z"
-    },
-    {
-      "ug": "UG554883",
+      "ug": "UG421239",
       "type": "Laptop",
-      "mac": "61-1F-30-CF-72-F1",
+      "mac": "4C-8B-0D-F9-D7-1D",
       "manufacturer": "Lenovo",
       "model": "ProBook",
-      "warrantyStart": "2012-12-27T20:34:28Z",
-      "warrantyEnd": "2028-03-14T14:35:21Z"
+      "warrantyStart": "2019-12-21T07:47:28Z",
+      "warrantyEnd": "2022-11-12T00:00:05Z"
+    },
+    {
+      "ug": "UG438059",
+      "type": "Laptop",
+      "mac": "2A-D0-D8-F5-86-D0",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2014-11-08T08:33:05Z",
+      "warrantyEnd": "2024-01-26T06:24:33Z"
     }
   ]
 }, {
   "id": 8,
-  "firstName": "Ingemar",
-  "lastName": "MacGillacolm",
-  "department": "DIR",
-  "device": [
+  "firstName": "Jasper",
+  "lastName": "Baldock",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG837737",
+      "ug": "UG359391",
       "type": "Laptop",
-      "mac": "3E-33-AF-1B-E5-CF",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "warrantyStart": "2016-03-17T13:44:29Z",
-      "warrantyEnd": "2029-08-20T21:13:03Z"
+      "mac": "4C-1C-34-F4-87-7B",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2016-10-10T04:24:52Z",
+      "warrantyEnd": "2028-02-20T10:23:48Z"
     },
     {
-      "ug": "UG243831",
-      "type": "Laptop",
-      "mac": "26-9A-8A-AB-52-71",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2016-03-01T11:36:52Z",
-      "warrantyEnd": "2029-01-16T05:39:49Z"
+      "ug": "UG294653",
+      "type": "Desktop",
+      "mac": "7E-D4-5E-E8-23-78",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "warrantyStart": "2019-12-07T02:46:48Z",
+      "warrantyEnd": "2024-08-31T00:55:38Z"
     }
   ]
 }, {
   "id": 9,
-  "firstName": "Hobie",
-  "lastName": "Guyon",
-  "department": "STU",
-  "device": [
+  "firstName": "Angil",
+  "lastName": "Windham",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG102104",
+      "ug": "UG593241",
       "type": "Laptop",
-      "mac": "06-87-FB-48-DE-E1",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "warrantyStart": "2020-06-06T17:37:45Z",
-      "warrantyEnd": "2024-05-27T21:57:30Z"
+      "mac": "13-1A-53-93-02-73",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2017-07-20T15:32:58Z",
+      "warrantyEnd": "2025-10-20T20:04:09Z"
     },
     {
-      "ug": "UG983981",
+      "ug": "UG851837",
       "type": "Desktop",
-      "mac": "A6-17-EE-18-A8-E6",
-      "manufacturer": "HP",
+      "mac": "41-F3-76-AE-6B-1D",
+      "manufacturer": "Lenovo",
       "model": "MiniBook",
-      "warrantyStart": "2016-07-02T01:53:50Z",
-      "warrantyEnd": "2028-04-06T14:36:10Z"
+      "warrantyStart": "2017-01-09T13:32:21Z",
+      "warrantyEnd": "2028-03-07T09:43:25Z"
+    },
+    {
+      "ug": "UG030693",
+      "type": "Laptop",
+      "mac": "CE-EE-CA-C3-8F-C9",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2016-10-29T06:26:51Z",
+      "warrantyEnd": "2024-05-10T05:44:37Z"
     }
   ]
 }, {
   "id": 10,
-  "firstName": "Guillemette",
-  "lastName": "Berthouloume",
-  "department": "STU",
-  "device": [
+  "firstName": "Nigel",
+  "lastName": "Longhorn",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG299569",
+      "ug": "UG513334",
       "type": "Laptop",
-      "mac": "10-2C-3A-3F-B3-4D",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "warrantyStart": "2012-07-07T23:11:40Z",
-      "warrantyEnd": "2024-08-09T13:19:37Z"
+      "mac": "99-D2-AC-C8-2E-8E",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "warrantyStart": "2019-06-23T09:52:14Z",
+      "warrantyEnd": "2026-10-31T13:41:42Z"
     }
   ]
 }, {
   "id": 11,
-  "firstName": "Marianna",
-  "lastName": "Squires",
-  "department": "AHED",
-  "device": [
+  "firstName": "Alie",
+  "lastName": "Morrilly",
+  "department": "DIR",
+  "devices": [
     {
-      "ug": "UG202504",
+      "ug": "UG259668",
       "type": "Laptop",
-      "mac": "F0-9E-05-F3-2F-56",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2017-05-03T01:50:52Z",
-      "warrantyEnd": "2024-11-25T16:25:01Z"
+      "mac": "A2-D3-CE-11-2C-64",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "warrantyStart": "2013-09-13T00:52:21Z",
+      "warrantyEnd": "2026-05-03T23:54:54Z"
     },
     {
-      "ug": "UG675651",
-      "type": "Laptop",
-      "mac": "80-59-3C-95-92-58",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "warrantyStart": "2014-02-22T21:03:37Z",
-      "warrantyEnd": "2025-08-01T19:37:45Z"
+      "ug": "UG267404",
+      "type": "Desktop",
+      "mac": "2B-67-4C-B0-92-C3",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2022-02-15T17:19:14Z",
+      "warrantyEnd": "2029-03-09T11:45:52Z"
     }
   ]
 }, {
   "id": 12,
-  "firstName": "Tan",
-  "lastName": "McFadyen",
-  "department": "STU",
-  "device": [
+  "firstName": "Bronnie",
+  "lastName": "Roots",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG442863",
-      "type": "Desktop",
-      "mac": "01-59-DD-AD-F7-06",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2018-08-07T04:44:04Z",
-      "warrantyEnd": "2025-01-23T16:33:05Z"
-    },
-    {
-      "ug": "UG407947",
+      "ug": "UG284214",
       "type": "Laptop",
-      "mac": "F2-C5-D2-A1-C0-F8",
-      "manufacturer": "Dell",
+      "mac": "CB-76-DA-22-F8-02",
+      "manufacturer": "Acer",
       "model": "MiniBook",
-      "warrantyStart": "2019-01-30T15:47:02Z",
-      "warrantyEnd": "2025-09-14T13:57:45Z"
+      "warrantyStart": "2014-01-02T23:57:15Z",
+      "warrantyEnd": "2023-12-03T09:23:14Z"
     },
     {
-      "ug": "UG704534",
+      "ug": "UG040237",
       "type": "Desktop",
-      "mac": "C3-46-E6-6C-69-5E",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "warrantyStart": "2019-01-19T10:32:37Z",
-      "warrantyEnd": "2023-04-26T08:46:13Z"
+      "mac": "F0-5F-3B-3F-C3-9A",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "warrantyStart": "2015-05-28T06:04:09Z",
+      "warrantyEnd": "2027-01-29T08:46:09Z"
     }
   ]
 }, {
   "id": 13,
-  "firstName": "Whitney",
-  "lastName": "Floyed",
+  "firstName": "Marguerite",
+  "lastName": "Sketcher",
   "department": "AHED",
-  "device": [
+  "devices": [
     {
-      "ug": "UG388683",
-      "type": "Desktop",
-      "mac": "5E-AA-E9-13-6D-39",
-      "manufacturer": "HP",
+      "ug": "UG526972",
+      "type": "Laptop",
+      "mac": "26-6C-21-1F-58-7C",
+      "manufacturer": "Asus",
       "model": "MiniBook",
-      "warrantyStart": "2017-06-16T17:38:37Z",
-      "warrantyEnd": "2025-11-06T05:52:07Z"
+      "warrantyStart": "2019-03-01T19:00:43Z",
+      "warrantyEnd": "2026-12-11T17:39:32Z"
     },
     {
-      "ug": "UG529715",
+      "ug": "UG992872",
       "type": "Desktop",
-      "mac": "32-AD-99-26-9A-A7",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2017-01-16T03:30:07Z",
-      "warrantyEnd": "2028-04-03T13:39:32Z"
+      "mac": "DD-A6-0C-77-77-6D",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2019-11-13T20:52:00Z",
+      "warrantyEnd": "2027-03-18T03:44:45Z"
+    },
+    {
+      "ug": "UG892897",
+      "type": "Laptop",
+      "mac": "94-4B-2B-98-68-F4",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2021-01-10T13:21:56Z",
+      "warrantyEnd": "2023-10-25T07:39:11Z"
     }
   ]
 }, {
   "id": 14,
-  "firstName": "Drud",
-  "lastName": "Chesshyre",
-  "department": "FMD",
-  "device": [
+  "firstName": "Broddy",
+  "lastName": "McGovern",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG028015",
+      "ug": "UG807249",
       "type": "Laptop",
-      "mac": "81-14-04-49-20-23",
+      "mac": "19-9E-CE-FB-95-8E",
       "manufacturer": "HP",
       "model": "MiniBook",
-      "warrantyStart": "2019-02-07T12:42:17Z",
-      "warrantyEnd": "2028-03-11T16:27:09Z"
+      "warrantyStart": "2018-09-25T08:00:53Z",
+      "warrantyEnd": "2024-08-25T19:12:39Z"
     }
   ]
 }, {
   "id": 15,
-  "firstName": "Sibyl",
-  "lastName": "Scoggins",
-  "department": "DIR",
-  "device": [
+  "firstName": "Vic",
+  "lastName": "Doogan",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG592775",
-      "type": "Laptop",
-      "mac": "39-BA-24-2D-04-60",
-      "manufacturer": "Dell",
+      "ug": "UG726508",
+      "type": "Desktop",
+      "mac": "ED-10-BF-DC-A2-AD",
+      "manufacturer": "Asus",
       "model": "ProBook",
-      "warrantyStart": "2016-11-03T21:37:04Z",
-      "warrantyEnd": "2027-03-04T19:09:24Z"
+      "warrantyStart": "2017-05-02T04:50:25Z",
+      "warrantyEnd": "2026-08-17T10:55:58Z"
+    },
+    {
+      "ug": "UG112328",
+      "type": "Laptop",
+      "mac": "7E-27-FB-FA-94-BD",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2014-03-23T22:07:18Z",
+      "warrantyEnd": "2027-03-31T17:40:01Z"
+    },
+    {
+      "ug": "UG604249",
+      "type": "Laptop",
+      "mac": "BD-DC-4E-2F-21-AC",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "warrantyStart": "2015-07-26T14:23:35Z",
+      "warrantyEnd": "2022-12-11T05:06:58Z"
     }
   ]
 }, {
   "id": 16,
-  "firstName": "Templeton",
-  "lastName": "Lippatt",
-  "department": "STU",
-  "device": [
+  "firstName": "Teriann",
+  "lastName": "Gladebeck",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG726970",
+      "ug": "UG731436",
       "type": "Desktop",
-      "mac": "64-78-A6-B9-FE-9F",
-      "manufacturer": "Acer",
+      "mac": "B4-BA-BF-65-6B-5C",
+      "manufacturer": "Stone",
       "model": "EliteBook",
-      "warrantyStart": "2019-09-30T04:24:59Z",
-      "warrantyEnd": "2026-05-20T02:04:43Z"
+      "warrantyStart": "2019-04-25T19:02:42Z",
+      "warrantyEnd": "2025-07-14T00:38:14Z"
     },
     {
-      "ug": "UG444428",
+      "ug": "UG611730",
       "type": "Desktop",
-      "mac": "C3-79-9D-2E-2E-08",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "warrantyStart": "2019-11-07T14:25:48Z",
-      "warrantyEnd": "2023-04-09T10:13:18Z"
+      "mac": "C7-89-6B-D0-B3-18",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2016-04-12T18:05:51Z",
+      "warrantyEnd": "2030-06-19T04:13:00Z"
     }
   ]
 }, {
   "id": 17,
-  "firstName": "Sylas",
-  "lastName": "McCrystal",
-  "department": "LID",
-  "device": [
+  "firstName": "Hendrick",
+  "lastName": "Oylett",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG865217",
+      "ug": "UG018326",
       "type": "Laptop",
-      "mac": "B9-AD-11-E5-12-46",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "warrantyStart": "2016-06-12T21:28:34Z",
-      "warrantyEnd": "2023-06-25T01:00:11Z"
+      "mac": "69-3F-59-92-29-A2",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2015-04-24T20:10:26Z",
+      "warrantyEnd": "2027-05-21T12:32:25Z"
+    },
+    {
+      "ug": "UG782462",
+      "type": "Laptop",
+      "mac": "E2-21-F1-C2-79-93",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "warrantyStart": "2016-04-13T06:36:47Z",
+      "warrantyEnd": "2027-02-19T21:19:17Z"
+    },
+    {
+      "ug": "UG732368",
+      "type": "Desktop",
+      "mac": "2E-C5-09-82-4C-90",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2021-10-10T22:45:16Z",
+      "warrantyEnd": "2030-06-15T12:32:31Z"
     }
   ]
 }, {
   "id": 18,
-  "firstName": "Jerad",
-  "lastName": "Uebel",
-  "department": "LID",
-  "device": [
+  "firstName": "Merrie",
+  "lastName": "Smalls",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG672547",
-      "type": "Desktop",
-      "mac": "FF-71-E3-01-8F-5B",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "warrantyStart": "2012-02-12T08:09:31Z",
-      "warrantyEnd": "2028-05-23T02:53:31Z"
+      "ug": "UG805733",
+      "type": "Laptop",
+      "mac": "1A-55-08-86-C7-F2",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2014-03-17T04:53:06Z",
+      "warrantyEnd": "2028-09-01T16:54:04Z"
     },
     {
-      "ug": "UG530711",
-      "type": "Desktop",
-      "mac": "87-BF-02-3B-DE-F8",
-      "manufacturer": "Dell",
+      "ug": "UG867450",
+      "type": "Laptop",
+      "mac": "1B-C5-40-02-CE-28",
+      "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "warrantyStart": "2011-06-02T12:38:55Z",
-      "warrantyEnd": "2029-01-25T04:40:32Z"
-    },
-    {
-      "ug": "UG037405",
-      "type": "Desktop",
-      "mac": "55-41-2A-D7-DE-D9",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "warrantyStart": "2017-11-23T01:03:14Z",
-      "warrantyEnd": "2024-02-20T05:18:25Z"
+      "warrantyStart": "2011-11-28T14:41:32Z",
+      "warrantyEnd": "2030-03-05T17:16:32Z"
     }
   ]
 }, {
   "id": 19,
-  "firstName": "Astrix",
-  "lastName": "Randles",
-  "department": "AHED",
-  "device": [
+  "firstName": "Hyacintha",
+  "lastName": "Anyene",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG133716",
+      "ug": "UG599400",
       "type": "Desktop",
-      "mac": "3B-71-DF-FD-4F-B5",
+      "mac": "2C-7A-77-04-E0-11",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "warrantyStart": "2016-12-25T13:15:54Z",
+      "warrantyEnd": "2023-01-23T07:04:43Z"
+    },
+    {
+      "ug": "UG213799",
+      "type": "Desktop",
+      "mac": "1D-73-1B-E1-79-2A",
       "manufacturer": "Acer",
       "model": "EliteBook",
-      "warrantyStart": "2018-06-09T01:37:03Z",
-      "warrantyEnd": "2025-11-09T10:40:34Z"
-    },
-    {
-      "ug": "UG976715",
-      "type": "Laptop",
-      "mac": "17-0B-44-1B-66-B1",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "warrantyStart": "2019-07-25T07:08:18Z",
-      "warrantyEnd": "2024-06-09T16:05:45Z"
-    },
-    {
-      "ug": "UG381113",
-      "type": "Laptop",
-      "mac": "6F-D7-89-0B-C1-4E",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "warrantyStart": "2012-12-22T07:04:53Z",
-      "warrantyEnd": "2024-10-26T13:03:46Z"
+      "warrantyStart": "2018-12-18T10:55:32Z",
+      "warrantyEnd": "2023-08-31T20:07:52Z"
     }
   ]
 }, {
   "id": 20,
-  "firstName": "Danny",
-  "lastName": "Andreichik",
-  "department": "FMD",
-  "device": [
+  "firstName": "Bessie",
+  "lastName": "Yellop",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG090185",
-      "type": "Desktop",
-      "mac": "5F-A9-46-4B-5D-0A",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "warrantyStart": "2016-01-26T02:53:59Z",
-      "warrantyEnd": "2028-08-11T02:51:15Z"
-    },
-    {
-      "ug": "UG196689",
+      "ug": "UG336223",
       "type": "Laptop",
-      "mac": "D3-98-2F-10-62-52",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "warrantyStart": "2019-09-04T17:06:30Z",
-      "warrantyEnd": "2023-10-31T22:02:59Z"
-    },
-    {
-      "ug": "UG011664",
-      "type": "Laptop",
-      "mac": "95-24-5C-1B-56-23",
-      "manufacturer": "Stone",
+      "mac": "92-62-0D-C8-6C-0C",
+      "manufacturer": "Acer",
       "model": "MiniBook",
-      "warrantyStart": "2022-08-20T00:18:50Z",
-      "warrantyEnd": "2028-04-25T00:51:02Z"
+      "warrantyStart": "2014-05-21T16:29:50Z",
+      "warrantyEnd": "2023-02-19T11:51:42Z"
     }
   ]
 }, {
   "id": 21,
-  "firstName": "Bella",
-  "lastName": "Pirie",
+  "firstName": "Walther",
+  "lastName": "Pasque",
   "department": "LID",
-  "device": [
+  "devices": [
     {
-      "ug": "UG890247",
+      "ug": "UG907180",
       "type": "Laptop",
-      "mac": "85-AA-D8-AC-B3-D8",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2021-03-26T15:21:21Z",
-      "warrantyEnd": "2029-11-30T20:14:26Z"
-    },
-    {
-      "ug": "UG839669",
-      "type": "Desktop",
-      "mac": "E4-06-14-F3-32-04",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "warrantyStart": "2014-06-12T14:01:25Z",
-      "warrantyEnd": "2026-01-23T03:58:56Z"
+      "mac": "E9-90-93-5D-11-FE",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "warrantyStart": "2019-10-11T20:34:42Z",
+      "warrantyEnd": "2027-02-22T22:43:25Z"
     }
   ]
 }, {
   "id": 22,
-  "firstName": "Melania",
-  "lastName": "Viccary",
-  "department": "FMD",
-  "device": [
+  "firstName": "Ignatius",
+  "lastName": "Shaves",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG740854",
+      "ug": "UG739616",
       "type": "Laptop",
-      "mac": "42-94-8A-FE-68-36",
+      "mac": "1E-BE-D0-33-E4-99",
       "manufacturer": "HP",
       "model": "EliteBook",
-      "warrantyStart": "2016-08-27T07:39:35Z",
-      "warrantyEnd": "2028-08-19T02:51:32Z"
+      "warrantyStart": "2020-09-21T03:11:19Z",
+      "warrantyEnd": "2025-03-08T11:20:09Z"
     },
     {
-      "ug": "UG610922",
+      "ug": "UG608635",
       "type": "Laptop",
-      "mac": "07-31-49-49-90-CF",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2018-08-15T09:33:12Z",
-      "warrantyEnd": "2027-10-11T10:15:43Z"
+      "mac": "E5-B2-31-51-37-CD",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "warrantyStart": "2012-04-10T17:04:44Z",
+      "warrantyEnd": "2024-12-23T06:33:26Z"
     },
     {
-      "ug": "UG295765",
+      "ug": "UG306762",
       "type": "Laptop",
-      "mac": "E9-7D-FC-EB-AE-89",
+      "mac": "F8-60-A3-E2-13-A3",
       "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "warrantyStart": "2013-06-14T01:05:14Z",
-      "warrantyEnd": "2026-05-04T11:32:31Z"
+      "warrantyStart": "2015-05-31T19:16:46Z",
+      "warrantyEnd": "2023-09-01T21:13:46Z"
     }
   ]
 }, {
   "id": 23,
-  "firstName": "Farica",
-  "lastName": "Kalvin",
-  "department": "LID",
-  "device": [
+  "firstName": "Misha",
+  "lastName": "Jearum",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG333810",
-      "type": "Laptop",
-      "mac": "95-B2-33-2F-7F-BD",
-      "manufacturer": "Dell",
+      "ug": "UG713910",
+      "type": "Desktop",
+      "mac": "F1-D6-27-50-87-C5",
+      "manufacturer": "Asus",
       "model": "ProBook",
-      "warrantyStart": "2011-06-17T02:38:40Z",
-      "warrantyEnd": "2028-09-18T08:52:34Z"
+      "warrantyStart": "2013-06-15T12:26:11Z",
+      "warrantyEnd": "2027-06-17T23:03:00Z"
+    },
+    {
+      "ug": "UG205435",
+      "type": "Laptop",
+      "mac": "4A-9D-88-A6-96-AE",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "warrantyStart": "2018-06-28T12:12:59Z",
+      "warrantyEnd": "2026-05-21T05:32:44Z"
+    },
+    {
+      "ug": "UG477835",
+      "type": "Desktop",
+      "mac": "33-97-A9-3E-E2-37",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "warrantyStart": "2014-12-26T06:49:13Z",
+      "warrantyEnd": "2024-10-06T05:10:22Z"
     }
   ]
 }, {
   "id": 24,
-  "firstName": "Peri",
-  "lastName": "Reston",
-  "department": "STU",
-  "device": [
+  "firstName": "Ayn",
+  "lastName": "Houlson",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG034792",
-      "type": "Desktop",
-      "mac": "8A-FD-3A-19-E7-85",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "warrantyStart": "2015-05-20T14:30:42Z",
-      "warrantyEnd": "2029-07-07T01:14:11Z"
+      "ug": "UG394391",
+      "type": "Laptop",
+      "mac": "E3-11-0E-7F-FD-DB",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "warrantyStart": "2022-05-24T08:46:50Z",
+      "warrantyEnd": "2028-11-10T10:17:33Z"
     },
     {
-      "ug": "UG522445",
-      "type": "Desktop",
-      "mac": "98-B1-95-DD-9D-CF",
+      "ug": "UG232918",
+      "type": "Laptop",
+      "mac": "9B-73-B7-20-82-9B",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "warrantyStart": "2018-09-01T04:15:39Z",
+      "warrantyEnd": "2027-03-29T22:37:26Z"
+    },
+    {
+      "ug": "UG128321",
+      "type": "Laptop",
+      "mac": "A3-3D-F5-F6-3C-BA",
       "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "warrantyStart": "2013-01-22T08:54:39Z",
-      "warrantyEnd": "2028-09-18T05:45:10Z"
+      "model": "ProBook",
+      "warrantyStart": "2018-01-27T14:04:57Z",
+      "warrantyEnd": "2023-12-01T15:29:17Z"
     }
   ]
 }, {
   "id": 25,
-  "firstName": "Garrik",
-  "lastName": "Leveret",
-  "department": "LID",
-  "device": [
+  "firstName": "Phillida",
+  "lastName": "Burstowe",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG245299",
+      "ug": "UG798898",
       "type": "Laptop",
-      "mac": "51-B4-21-EE-B0-81",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2021-08-18T01:27:07Z",
-      "warrantyEnd": "2025-05-09T17:44:45Z"
+      "mac": "6A-8B-E3-0C-49-B1",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2018-06-29T10:51:43Z",
+      "warrantyEnd": "2029-08-28T05:32:16Z"
     },
     {
-      "ug": "UG507750",
-      "type": "Laptop",
-      "mac": "8F-83-92-78-F3-9B",
-      "manufacturer": "Stone",
+      "ug": "UG452299",
+      "type": "Desktop",
+      "mac": "D6-F4-3E-2A-4E-89",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "warrantyStart": "2011-06-03T18:46:15Z",
+      "warrantyEnd": "2025-04-03T17:09:19Z"
+    },
+    {
+      "ug": "UG434988",
+      "type": "Desktop",
+      "mac": "D0-29-84-08-95-A2",
+      "manufacturer": "HP",
       "model": "EliteBook",
-      "warrantyStart": "2022-01-23T12:39:35Z",
-      "warrantyEnd": "2029-06-02T01:02:35Z"
+      "warrantyStart": "2011-09-28T07:55:54Z",
+      "warrantyEnd": "2030-06-01T04:26:19Z"
     }
   ]
 }, {
   "id": 26,
-  "firstName": "Burgess",
-  "lastName": "Afield",
-  "department": "FMD",
-  "device": [
+  "firstName": "Ario",
+  "lastName": "Dicke",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG376342",
+      "ug": "UG531811",
       "type": "Desktop",
-      "mac": "29-45-34-44-73-AA",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2010-10-18T09:38:58Z",
-      "warrantyEnd": "2028-03-04T23:41:32Z"
+      "mac": "17-08-B8-2E-4C-BA",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2022-04-30T06:47:27Z",
+      "warrantyEnd": "2023-10-22T23:56:23Z"
+    },
+    {
+      "ug": "UG847594",
+      "type": "Desktop",
+      "mac": "05-75-F1-46-7D-8E",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "warrantyStart": "2017-06-27T01:32:34Z",
+      "warrantyEnd": "2026-07-15T11:26:12Z"
     }
   ]
 }, {
   "id": 27,
-  "firstName": "Maxi",
-  "lastName": "McAlroy",
+  "firstName": "Arabele",
+  "lastName": "Sommerled",
   "department": "FMD",
-  "device": [
+  "devices": [
     {
-      "ug": "UG301562",
-      "type": "Desktop",
-      "mac": "DB-FA-4F-42-E6-15",
-      "manufacturer": "Dell",
+      "ug": "UG464724",
+      "type": "Laptop",
+      "mac": "A1-DE-F7-C4-BC-90",
+      "manufacturer": "Asus",
       "model": "EliteBook",
-      "warrantyStart": "2021-04-23T06:55:30Z",
-      "warrantyEnd": "2023-05-04T09:05:34Z"
+      "warrantyStart": "2018-02-02T14:35:08Z",
+      "warrantyEnd": "2025-02-16T02:47:24Z"
     },
     {
-      "ug": "UG488830",
-      "type": "Desktop",
-      "mac": "0F-D1-9C-7A-1E-A0",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "warrantyStart": "2013-07-20T04:02:54Z",
-      "warrantyEnd": "2028-07-05T13:11:21Z"
+      "ug": "UG661438",
+      "type": "Laptop",
+      "mac": "E1-A7-B2-12-09-96",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2022-07-14T21:37:36Z",
+      "warrantyEnd": "2029-07-13T01:37:04Z"
     }
   ]
 }, {
   "id": 28,
-  "firstName": "Libbie",
-  "lastName": "Gowler",
-  "department": "LID",
-  "device": [
+  "firstName": "Kakalina",
+  "lastName": "Surgison",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG006895",
+      "ug": "UG888127",
+      "type": "Desktop",
+      "mac": "34-35-C3-9F-DA-AB",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2012-03-23T14:14:33Z",
+      "warrantyEnd": "2028-01-30T13:24:45Z"
+    },
+    {
+      "ug": "UG902587",
       "type": "Laptop",
-      "mac": "5A-7E-94-9E-EF-5B",
+      "mac": "62-2F-F6-75-68-2C",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2012-06-18T21:37:52Z",
+      "warrantyEnd": "2023-07-17T19:43:27Z"
+    },
+    {
+      "ug": "UG970677",
+      "type": "Laptop",
+      "mac": "01-34-7F-2C-B3-ED",
       "manufacturer": "Asus",
-      "model": "MiniBook",
-      "warrantyStart": "2010-12-27T14:58:04Z",
-      "warrantyEnd": "2027-01-29T11:15:20Z"
+      "model": "EliteBook",
+      "warrantyStart": "2018-11-29T07:20:55Z",
+      "warrantyEnd": "2029-07-13T12:11:38Z"
     }
   ]
 }, {
   "id": 29,
-  "firstName": "Andromache",
-  "lastName": "Caplin",
-  "department": "STU",
-  "device": [
+  "firstName": "Lucy",
+  "lastName": "Gedge",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG077743",
-      "type": "Desktop",
-      "mac": "20-12-45-BE-06-5F",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2017-07-30T18:45:55Z",
-      "warrantyEnd": "2026-06-23T06:40:40Z"
+      "ug": "UG978133",
+      "type": "Laptop",
+      "mac": "98-20-66-6C-4F-91",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2013-11-05T05:52:41Z",
+      "warrantyEnd": "2023-02-23T20:32:32Z"
+    },
+    {
+      "ug": "UG035007",
+      "type": "Laptop",
+      "mac": "E7-0E-D4-00-64-A3",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "warrantyStart": "2017-06-10T02:50:57Z",
+      "warrantyEnd": "2030-04-04T13:30:09Z"
     }
   ]
 }, {
   "id": 30,
-  "firstName": "Ingemar",
-  "lastName": "Yeskov",
+  "firstName": "Skye",
+  "lastName": "Carvilla",
   "department": "STU",
-  "device": [
+  "devices": [
     {
-      "ug": "UG994103",
+      "ug": "UG772793",
       "type": "Desktop",
-      "mac": "AD-EF-DF-2B-3F-59",
-      "manufacturer": "Acer",
+      "mac": "E7-A0-30-9F-28-8D",
+      "manufacturer": "Asus",
       "model": "EliteBook",
-      "warrantyStart": "2021-11-19T02:34:36Z",
-      "warrantyEnd": "2023-03-03T19:29:13Z"
+      "warrantyStart": "2021-12-04T19:19:07Z",
+      "warrantyEnd": "2023-10-23T00:50:43Z"
+    },
+    {
+      "ug": "UG868349",
+      "type": "Laptop",
+      "mac": "00-CF-66-48-F0-C5",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2021-03-03T15:53:19Z",
+      "warrantyEnd": "2028-06-15T18:33:43Z"
     }
   ]
 }, {
   "id": 31,
-  "firstName": "Estel",
-  "lastName": "Wellfare",
-  "department": "STU",
-  "device": [
+  "firstName": "Steffi",
+  "lastName": "Goodright",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG655817",
+      "ug": "UG833554",
       "type": "Laptop",
-      "mac": "97-51-3A-5F-44-0D",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "warrantyStart": "2011-02-23T18:22:32Z",
-      "warrantyEnd": "2026-07-02T07:31:43Z"
+      "mac": "C7-CB-14-F6-F0-0A",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "warrantyStart": "2011-02-08T21:01:24Z",
+      "warrantyEnd": "2026-06-18T15:36:58Z"
     },
     {
-      "ug": "UG384681",
-      "type": "Laptop",
-      "mac": "C0-AC-14-DF-26-B2",
+      "ug": "UG625235",
+      "type": "Desktop",
+      "mac": "07-3B-05-D5-44-83",
       "manufacturer": "Asus",
       "model": "MiniBook",
-      "warrantyStart": "2016-07-11T04:25:33Z",
-      "warrantyEnd": "2025-07-24T00:57:42Z"
-    },
-    {
-      "ug": "UG090520",
-      "type": "Desktop",
-      "mac": "0A-4A-44-B4-E3-67",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "warrantyStart": "2014-11-25T07:32:35Z",
-      "warrantyEnd": "2024-10-05T12:55:14Z"
+      "warrantyStart": "2014-05-25T13:08:22Z",
+      "warrantyEnd": "2025-01-06T23:54:02Z"
     }
   ]
 }, {
   "id": 32,
-  "firstName": "Corrie",
-  "lastName": "Exroll",
-  "department": "AHED",
-  "device": [
+  "firstName": "Esme",
+  "lastName": "Kennler",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG610281",
-      "type": "Desktop",
-      "mac": "00-5C-86-BA-B8-05",
-      "manufacturer": "Stone",
+      "ug": "UG773759",
+      "type": "Laptop",
+      "mac": "F5-DE-18-D7-6A-3B",
+      "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "warrantyStart": "2018-01-25T08:54:02Z",
-      "warrantyEnd": "2027-10-05T02:26:59Z"
+      "warrantyStart": "2015-12-13T23:58:38Z",
+      "warrantyEnd": "2024-08-11T23:37:13Z"
     }
   ]
 }, {
   "id": 33,
-  "firstName": "Rowen",
-  "lastName": "Gudger",
-  "department": "LID",
-  "device": [
+  "firstName": "Stavros",
+  "lastName": "Tuiller",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG835342",
-      "type": "Laptop",
-      "mac": "A1-EF-11-2F-10-BD",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "warrantyStart": "2019-02-23T18:54:01Z",
-      "warrantyEnd": "2024-08-27T08:05:24Z"
-    },
-    {
-      "ug": "UG520957",
-      "type": "Laptop",
-      "mac": "F6-D1-67-0E-9A-EA",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "warrantyStart": "2022-06-03T09:03:25Z",
-      "warrantyEnd": "2025-01-19T14:31:06Z"
-    },
-    {
-      "ug": "UG480843",
-      "type": "Laptop",
-      "mac": "DD-B0-0C-2C-B4-2D",
+      "ug": "UG658842",
+      "type": "Desktop",
+      "mac": "7B-64-66-4C-7D-2B",
       "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2012-06-04T19:30:38Z",
+      "warrantyEnd": "2025-09-25T19:17:52Z"
+    },
+    {
+      "ug": "UG322536",
+      "type": "Laptop",
+      "mac": "14-D3-6D-21-38-6F",
+      "manufacturer": "HP",
       "model": "ProBook",
-      "warrantyStart": "2020-06-19T16:13:38Z",
-      "warrantyEnd": "2026-04-28T22:27:50Z"
+      "warrantyStart": "2011-08-22T23:12:11Z",
+      "warrantyEnd": "2028-01-13T13:58:55Z"
     }
   ]
 }, {
   "id": 34,
-  "firstName": "Ev",
-  "lastName": "O' Donohoe",
-  "department": "DIR",
-  "device": [
+  "firstName": "Caterina",
+  "lastName": "Furmagier",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG009942",
-      "type": "Desktop",
-      "mac": "5E-E5-ED-00-DF-08",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "warrantyStart": "2011-07-24T09:22:47Z",
-      "warrantyEnd": "2030-01-10T10:18:34Z"
-    },
-    {
-      "ug": "UG395473",
+      "ug": "UG378137",
       "type": "Laptop",
-      "mac": "59-75-A1-F7-EE-9C",
-      "manufacturer": "Dell",
+      "mac": "B0-E9-1D-EE-21-5A",
+      "manufacturer": "HP",
       "model": "ProBook",
-      "warrantyStart": "2013-07-13T14:40:21Z",
-      "warrantyEnd": "2028-07-07T03:14:18Z"
+      "warrantyStart": "2013-08-29T14:00:03Z",
+      "warrantyEnd": "2024-02-22T17:38:43Z"
     }
   ]
 }, {
   "id": 35,
-  "firstName": "Shantee",
-  "lastName": "Rowsell",
-  "department": "STU",
-  "device": [
+  "firstName": "Roanne",
+  "lastName": "Noell",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG985950",
+      "ug": "UG234081",
+      "type": "Laptop",
+      "mac": "22-5E-41-5F-52-07",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "warrantyStart": "2017-03-22T21:37:00Z",
+      "warrantyEnd": "2023-02-15T04:59:43Z"
+    },
+    {
+      "ug": "UG115146",
       "type": "Desktop",
-      "mac": "46-2F-D4-5D-DF-BA",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "warrantyStart": "2013-07-28T07:06:49Z",
-      "warrantyEnd": "2027-03-03T08:20:42Z"
+      "mac": "85-10-CA-8E-A0-89",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2016-06-13T18:23:00Z",
+      "warrantyEnd": "2025-01-13T19:29:45Z"
     }
   ]
 }, {
   "id": 36,
-  "firstName": "Bartlett",
-  "lastName": "Winsbury",
+  "firstName": "Karilynn",
+  "lastName": "MacKenney",
   "department": "STU",
-  "device": [
+  "devices": [
     {
-      "ug": "UG881012",
+      "ug": "UG924071",
       "type": "Laptop",
-      "mac": "17-81-62-B2-4B-F8",
-      "manufacturer": "Acer",
+      "mac": "96-D5-18-0A-21-29",
+      "manufacturer": "HP",
       "model": "EliteBook",
-      "warrantyStart": "2019-03-24T04:51:54Z",
-      "warrantyEnd": "2027-03-30T20:44:21Z"
+      "warrantyStart": "2014-05-16T02:57:05Z",
+      "warrantyEnd": "2023-02-15T12:24:06Z"
+    },
+    {
+      "ug": "UG988235",
+      "type": "Desktop",
+      "mac": "14-4F-9F-4B-48-93",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2016-11-17T08:56:44Z",
+      "warrantyEnd": "2025-12-28T14:20:02Z"
+    },
+    {
+      "ug": "UG032348",
+      "type": "Laptop",
+      "mac": "AB-98-86-46-89-E9",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2016-11-02T16:20:25Z",
+      "warrantyEnd": "2029-10-16T00:32:11Z"
     }
   ]
 }, {
   "id": 37,
-  "firstName": "Rand",
-  "lastName": "Pendered",
-  "department": "FMD",
-  "device": [
+  "firstName": "Marlowe",
+  "lastName": "Elden",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG465909",
-      "type": "Laptop",
-      "mac": "3D-1F-99-D9-F3-30",
-      "manufacturer": "Asus",
+      "ug": "UG845561",
+      "type": "Desktop",
+      "mac": "69-F7-F5-6A-77-BA",
+      "manufacturer": "Acer",
       "model": "ProBook",
-      "warrantyStart": "2020-11-15T21:52:46Z",
-      "warrantyEnd": "2028-02-20T03:26:13Z"
+      "warrantyStart": "2011-05-05T16:50:48Z",
+      "warrantyEnd": "2025-08-31T05:45:07Z"
+    },
+    {
+      "ug": "UG686752",
+      "type": "Laptop",
+      "mac": "75-A5-D3-4E-79-E3",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2012-06-06T21:33:40Z",
+      "warrantyEnd": "2023-06-09T02:21:40Z"
+    },
+    {
+      "ug": "UG300723",
+      "type": "Laptop",
+      "mac": "7C-95-8C-B0-95-00",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2012-02-16T13:41:06Z",
+      "warrantyEnd": "2026-02-11T06:51:19Z"
     }
   ]
 }, {
   "id": 38,
-  "firstName": "Faythe",
-  "lastName": "Cockshot",
-  "department": "DIR",
-  "device": [
+  "firstName": "Damiano",
+  "lastName": "Raison",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG796041",
-      "type": "Desktop",
-      "mac": "40-34-B5-9D-60-B7",
+      "ug": "UG455858",
+      "type": "Laptop",
+      "mac": "4A-BB-05-CC-8A-A7",
       "manufacturer": "Asus",
       "model": "ProBook",
-      "warrantyStart": "2021-12-10T11:28:07Z",
-      "warrantyEnd": "2024-08-29T08:02:34Z"
+      "warrantyStart": "2015-12-11T23:37:36Z",
+      "warrantyEnd": "2023-12-01T15:50:44Z"
     }
   ]
 }, {
   "id": 39,
-  "firstName": "Ginger",
-  "lastName": "Rowly",
+  "firstName": "Cordie",
+  "lastName": "Bysshe",
   "department": "FMD",
-  "device": [
+  "devices": [
     {
-      "ug": "UG526508",
-      "type": "Laptop",
-      "mac": "7C-F8-97-94-71-BD",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "warrantyStart": "2019-08-30T20:57:42Z",
-      "warrantyEnd": "2028-01-20T21:31:55Z"
-    },
-    {
-      "ug": "UG085665",
-      "type": "Laptop",
-      "mac": "4E-D9-E2-50-5A-3A",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "warrantyStart": "2013-12-29T18:58:26Z",
-      "warrantyEnd": "2028-10-12T00:27:50Z"
-    },
-    {
-      "ug": "UG391814",
+      "ug": "UG012268",
       "type": "Desktop",
-      "mac": "B3-27-C7-4A-3A-35",
-      "manufacturer": "Asus",
+      "mac": "E0-9F-35-A0-19-2A",
+      "manufacturer": "Stone",
       "model": "ProBook",
-      "warrantyStart": "2016-11-20T21:13:51Z",
-      "warrantyEnd": "2027-10-25T18:17:42Z"
+      "warrantyStart": "2017-07-01T07:25:44Z",
+      "warrantyEnd": "2027-11-13T06:55:29Z"
+    },
+    {
+      "ug": "UG260647",
+      "type": "Desktop",
+      "mac": "28-77-7E-25-D1-EA",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "warrantyStart": "2011-12-23T08:51:10Z",
+      "warrantyEnd": "2026-03-11T13:11:18Z"
+    },
+    {
+      "ug": "UG593659",
+      "type": "Laptop",
+      "mac": "6A-6F-0D-71-D3-65",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2016-09-16T16:19:10Z",
+      "warrantyEnd": "2027-08-28T20:30:36Z"
     }
   ]
 }, {
   "id": 40,
-  "firstName": "Darryl",
-  "lastName": "Nannini",
+  "firstName": "Nikki",
+  "lastName": "Whitehouse",
   "department": "DIR",
-  "device": [
+  "devices": [
     {
-      "ug": "UG062019",
+      "ug": "UG585901",
       "type": "Laptop",
-      "mac": "07-14-BE-AC-28-93",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "warrantyStart": "2012-02-14T15:29:24Z",
-      "warrantyEnd": "2030-03-20T12:32:39Z"
-    },
-    {
-      "ug": "UG855972",
-      "type": "Laptop",
-      "mac": "D2-9A-40-51-CE-57",
+      "mac": "D4-96-0E-1C-18-C2",
       "manufacturer": "Acer",
-      "model": "MiniBook",
-      "warrantyStart": "2018-02-20T10:51:27Z",
-      "warrantyEnd": "2028-08-13T14:48:10Z"
+      "model": "EliteBook",
+      "warrantyStart": "2017-07-11T02:23:15Z",
+      "warrantyEnd": "2023-11-25T22:47:31Z"
     },
     {
-      "ug": "UG657971",
-      "type": "Laptop",
-      "mac": "30-62-AB-50-B5-45",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2011-08-15T15:08:52Z",
-      "warrantyEnd": "2029-03-30T07:08:49Z"
+      "ug": "UG880765",
+      "type": "Desktop",
+      "mac": "B9-A5-74-2E-06-25",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2016-06-18T02:51:24Z",
+      "warrantyEnd": "2026-11-14T05:28:08Z"
     }
   ]
 }, {
   "id": 41,
-  "firstName": "Edna",
-  "lastName": "Joynes",
-  "department": "AHED",
-  "device": [
+  "firstName": "Ronna",
+  "lastName": "Curley",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG143338",
+      "ug": "UG675500",
+      "type": "Desktop",
+      "mac": "9A-18-69-E5-23-AF",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2014-03-07T10:45:33Z",
+      "warrantyEnd": "2028-06-27T06:04:27Z"
+    },
+    {
+      "ug": "UG929053",
       "type": "Laptop",
-      "mac": "5B-15-9F-D5-50-81",
-      "manufacturer": "Acer",
+      "mac": "1A-59-56-2D-C6-FD",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2014-04-25T22:02:58Z",
+      "warrantyEnd": "2024-08-16T09:29:27Z"
+    },
+    {
+      "ug": "UG886125",
+      "type": "Laptop",
+      "mac": "B6-F2-D2-75-CA-44",
+      "manufacturer": "Stone",
       "model": "MiniBook",
-      "warrantyStart": "2011-08-09T22:40:21Z",
-      "warrantyEnd": "2028-02-25T21:07:40Z"
+      "warrantyStart": "2011-12-28T15:39:54Z",
+      "warrantyEnd": "2022-12-06T12:26:28Z"
     }
   ]
 }, {
   "id": 42,
-  "firstName": "Ham",
-  "lastName": "Proudlock",
-  "department": "AHED",
-  "device": [
+  "firstName": "Aland",
+  "lastName": "Grieg",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG653892",
-      "type": "Desktop",
-      "mac": "CB-7D-C5-61-22-4A",
+      "ug": "UG098993",
+      "type": "Laptop",
+      "mac": "3B-C7-E8-86-8C-3C",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2018-09-05T02:06:29Z",
+      "warrantyEnd": "2023-06-22T04:28:04Z"
+    },
+    {
+      "ug": "UG461685",
+      "type": "Laptop",
+      "mac": "CC-D3-09-34-64-86",
       "manufacturer": "HP",
       "model": "MiniBook",
-      "warrantyStart": "2020-12-09T12:10:22Z",
-      "warrantyEnd": "2029-08-13T17:30:35Z"
-    },
-    {
-      "ug": "UG619403",
-      "type": "Laptop",
-      "mac": "F0-4C-B1-9D-57-7D",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "warrantyStart": "2013-03-01T21:03:52Z",
-      "warrantyEnd": "2024-02-14T21:09:03Z"
-    },
-    {
-      "ug": "UG063670",
-      "type": "Desktop",
-      "mac": "3B-F3-DD-D3-67-7B",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "warrantyStart": "2011-11-27T02:46:07Z",
-      "warrantyEnd": "2024-10-07T12:05:40Z"
+      "warrantyStart": "2018-10-09T12:48:54Z",
+      "warrantyEnd": "2025-06-12T05:25:49Z"
     }
   ]
 }, {
   "id": 43,
-  "firstName": "Dana",
-  "lastName": "Basant",
-  "department": "STU",
-  "device": [
+  "firstName": "Colman",
+  "lastName": "Catmull",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG682024",
+      "ug": "UG612335",
       "type": "Laptop",
-      "mac": "88-97-31-00-4A-1A",
-      "manufacturer": "Lenovo",
+      "mac": "DD-C4-0D-40-FE-06",
+      "manufacturer": "HP",
       "model": "MiniBook",
-      "warrantyStart": "2014-04-17T06:43:19Z",
-      "warrantyEnd": "2030-04-21T09:37:41Z"
+      "warrantyStart": "2018-02-04T20:54:28Z",
+      "warrantyEnd": "2023-10-26T03:14:24Z"
     },
     {
-      "ug": "UG051803",
-      "type": "Laptop",
-      "mac": "8D-C7-42-71-C9-0C",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2020-09-10T07:32:49Z",
-      "warrantyEnd": "2024-08-24T03:56:27Z"
-    },
-    {
-      "ug": "UG942296",
+      "ug": "UG414480",
       "type": "Desktop",
-      "mac": "7D-90-0D-C1-D4-B5",
-      "manufacturer": "Acer",
+      "mac": "C4-E6-57-75-1C-51",
+      "manufacturer": "HP",
       "model": "MiniBook",
-      "warrantyStart": "2012-01-28T05:36:38Z",
-      "warrantyEnd": "2026-10-08T12:12:41Z"
+      "warrantyStart": "2012-09-19T07:08:41Z",
+      "warrantyEnd": "2030-09-06T19:16:43Z"
     }
   ]
 }, {
   "id": 44,
-  "firstName": "Joellen",
-  "lastName": "Carse",
-  "department": "AHED",
-  "device": [
+  "firstName": "Layne",
+  "lastName": "Rainforth",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG168401",
-      "type": "Desktop",
-      "mac": "41-95-24-A8-F6-B3",
-      "manufacturer": "Dell",
+      "ug": "UG107946",
+      "type": "Laptop",
+      "mac": "4B-0A-E7-96-17-03",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "warrantyStart": "2011-07-04T23:30:00Z",
+      "warrantyEnd": "2029-01-06T06:55:38Z"
+    },
+    {
+      "ug": "UG642201",
+      "type": "Laptop",
+      "mac": "33-A7-4C-0F-2C-AC",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "warrantyStart": "2020-11-04T23:26:49Z",
+      "warrantyEnd": "2030-02-02T18:11:21Z"
+    },
+    {
+      "ug": "UG221395",
+      "type": "Laptop",
+      "mac": "EE-7F-7B-14-45-42",
+      "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "warrantyStart": "2012-05-25T11:00:22Z",
-      "warrantyEnd": "2028-10-16T05:05:11Z"
+      "warrantyStart": "2018-05-30T17:07:07Z",
+      "warrantyEnd": "2028-07-07T11:09:23Z"
     }
   ]
 }, {
   "id": 45,
-  "firstName": "Carry",
-  "lastName": "Bending",
-  "department": "AHED",
-  "device": [
+  "firstName": "Tades",
+  "lastName": "Beatey",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG802920",
+      "ug": "UG297445",
       "type": "Laptop",
-      "mac": "04-BB-9F-24-B5-AF",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "warrantyStart": "2020-10-18T08:57:14Z",
-      "warrantyEnd": "2025-05-06T09:31:57Z"
-    },
-    {
-      "ug": "UG166486",
-      "type": "Desktop",
-      "mac": "10-93-AA-50-69-9F",
-      "manufacturer": "Dell",
+      "mac": "84-7E-39-1A-8D-A6",
+      "manufacturer": "Acer",
       "model": "MiniBook",
-      "warrantyStart": "2016-06-03T09:33:27Z",
-      "warrantyEnd": "2030-05-21T23:26:01Z"
-    },
-    {
-      "ug": "UG615906",
-      "type": "Desktop",
-      "mac": "49-83-A4-0D-77-43",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "warrantyStart": "2012-08-07T01:52:50Z",
-      "warrantyEnd": "2025-10-19T18:29:31Z"
+      "warrantyStart": "2021-12-20T15:46:15Z",
+      "warrantyEnd": "2026-01-18T08:37:54Z"
     }
   ]
 }, {
   "id": 46,
-  "firstName": "Beverie",
-  "lastName": "Campaigne",
-  "department": "LID",
-  "device": [
+  "firstName": "Jeanelle",
+  "lastName": "Ciotti",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG541605",
-      "type": "Desktop",
-      "mac": "63-66-36-D1-B5-E5",
+      "ug": "UG235608",
+      "type": "Laptop",
+      "mac": "BD-CE-D8-A1-0D-08",
       "manufacturer": "Acer",
       "model": "ProBook",
-      "warrantyStart": "2012-08-03T00:09:31Z",
-      "warrantyEnd": "2025-06-06T23:41:34Z"
+      "warrantyStart": "2013-07-14T06:25:46Z",
+      "warrantyEnd": "2024-05-07T07:46:53Z"
     },
     {
-      "ug": "UG726613",
-      "type": "Laptop",
-      "mac": "62-AA-13-9A-D0-DB",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2015-10-11T20:10:43Z",
-      "warrantyEnd": "2026-06-18T03:55:38Z"
-    },
-    {
-      "ug": "UG438401",
+      "ug": "UG284835",
       "type": "Desktop",
-      "mac": "CA-46-73-B5-CD-95",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2022-02-08T19:16:51Z",
-      "warrantyEnd": "2028-04-26T05:43:20Z"
+      "mac": "B4-C3-0F-7D-5D-DC",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2020-11-20T13:48:42Z",
+      "warrantyEnd": "2030-04-10T00:17:59Z"
     }
   ]
 }, {
   "id": 47,
-  "firstName": "Cristine",
-  "lastName": "Wheowall",
-  "department": "DIR",
-  "device": [
+  "firstName": "Antin",
+  "lastName": "Warrack",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG616886",
+      "ug": "UG338965",
       "type": "Desktop",
-      "mac": "96-2F-38-DA-8E-FB",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "warrantyStart": "2010-10-31T06:27:32Z",
-      "warrantyEnd": "2027-05-04T06:57:08Z"
+      "mac": "FC-82-61-78-1E-3D",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2021-10-15T22:32:19Z",
+      "warrantyEnd": "2024-11-03T14:01:15Z"
     },
     {
-      "ug": "UG384647",
-      "type": "Laptop",
-      "mac": "46-B9-A0-ED-C2-D8",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "warrantyStart": "2013-05-10T02:11:06Z",
-      "warrantyEnd": "2030-06-15T23:32:29Z"
-    },
-    {
-      "ug": "UG253102",
+      "ug": "UG088907",
       "type": "Desktop",
-      "mac": "6B-84-CF-11-B2-69",
-      "manufacturer": "Acer",
+      "mac": "E0-23-BC-96-36-64",
+      "manufacturer": "Lenovo",
       "model": "ProBook",
-      "warrantyStart": "2011-10-03T20:46:04Z",
-      "warrantyEnd": "2029-12-18T16:00:06Z"
+      "warrantyStart": "2019-10-06T22:59:32Z",
+      "warrantyEnd": "2030-03-21T14:56:52Z"
     }
   ]
 }, {
   "id": 48,
-  "firstName": "Sisile",
-  "lastName": "Gonin",
-  "department": "LID",
-  "device": [
+  "firstName": "Valerye",
+  "lastName": "Mulford",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG931009",
+      "ug": "UG236889",
       "type": "Desktop",
-      "mac": "CF-81-0D-B1-F5-9A",
+      "mac": "B8-84-EA-32-47-A9",
       "manufacturer": "Stone",
       "model": "ProBook",
-      "warrantyStart": "2015-12-26T17:58:07Z",
-      "warrantyEnd": "2025-01-12T09:16:57Z"
+      "warrantyStart": "2011-11-02T17:41:57Z",
+      "warrantyEnd": "2023-05-18T00:30:58Z"
+    },
+    {
+      "ug": "UG836654",
+      "type": "Laptop",
+      "mac": "1E-01-EF-DF-4E-07",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "warrantyStart": "2021-06-07T03:30:35Z",
+      "warrantyEnd": "2030-05-22T11:14:54Z"
+    },
+    {
+      "ug": "UG633157",
+      "type": "Desktop",
+      "mac": "4A-A3-94-8D-A7-6A",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2018-02-08T11:49:30Z",
+      "warrantyEnd": "2023-02-24T08:05:29Z"
     }
   ]
 }, {
   "id": 49,
-  "firstName": "Otto",
-  "lastName": "Brompton",
-  "department": "DIR",
-  "device": [
+  "firstName": "Zackariah",
+  "lastName": "Kinchley",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG594461",
+      "ug": "UG417276",
+      "type": "Desktop",
+      "mac": "91-19-EB-F6-38-63",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2020-03-14T14:39:19Z",
+      "warrantyEnd": "2029-09-16T12:38:00Z"
+    },
+    {
+      "ug": "UG590891",
       "type": "Laptop",
-      "mac": "62-EE-4B-29-64-8F",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2021-07-16T09:13:41Z",
-      "warrantyEnd": "2024-07-20T14:59:51Z"
+      "mac": "6C-1C-70-B2-9A-05",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2014-12-10T15:06:56Z",
+      "warrantyEnd": "2023-08-03T23:21:50Z"
+    },
+    {
+      "ug": "UG475798",
+      "type": "Desktop",
+      "mac": "36-6F-03-32-11-90",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2016-04-06T04:42:04Z",
+      "warrantyEnd": "2024-04-20T12:55:29Z"
     }
   ]
 }, {
   "id": 50,
-  "firstName": "Anastasia",
-  "lastName": "Carty",
-  "department": "FMD",
-  "device": [
+  "firstName": "Eadith",
+  "lastName": "Risley",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG503847",
+      "ug": "UG173866",
       "type": "Laptop",
-      "mac": "A9-37-59-9F-ED-DF",
-      "manufacturer": "Acer",
+      "mac": "6D-5B-73-6D-B1-27",
+      "manufacturer": "Asus",
       "model": "ProBook",
-      "warrantyStart": "2020-12-31T08:45:33Z",
-      "warrantyEnd": "2029-11-25T18:55:46Z"
+      "warrantyStart": "2012-07-05T23:12:17Z",
+      "warrantyEnd": "2030-06-01T04:37:05Z"
     },
     {
-      "ug": "UG824544",
+      "ug": "UG406246",
       "type": "Laptop",
-      "mac": "22-1A-A8-18-40-65",
-      "manufacturer": "Lenovo",
+      "mac": "12-26-F1-D5-40-9F",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "warrantyStart": "2016-07-15T16:48:52Z",
+      "warrantyEnd": "2029-06-30T04:40:43Z"
+    },
+    {
+      "ug": "UG808089",
+      "type": "Laptop",
+      "mac": "B5-B5-9E-3D-BB-FA",
+      "manufacturer": "Asus",
       "model": "MiniBook",
-      "warrantyStart": "2012-10-15T02:00:42Z",
-      "warrantyEnd": "2025-01-11T12:08:09Z"
+      "warrantyStart": "2019-04-03T05:38:32Z",
+      "warrantyEnd": "2028-04-29T09:06:31Z"
     }
   ]
 }, {
   "id": 51,
-  "firstName": "Teddie",
-  "lastName": "Dy",
+  "firstName": "Constantia",
+  "lastName": "Ramsdell",
   "department": "DIR",
-  "device": [
+  "devices": [
     {
-      "ug": "UG108527",
+      "ug": "UG981611",
       "type": "Laptop",
-      "mac": "66-A0-7A-19-60-20",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "warrantyStart": "2012-05-26T12:45:36Z",
-      "warrantyEnd": "2029-12-28T09:09:18Z"
+      "mac": "CF-D7-58-D5-C1-FD",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2010-12-13T20:07:50Z",
+      "warrantyEnd": "2026-07-31T18:03:09Z"
     },
     {
-      "ug": "UG207702",
+      "ug": "UG450633",
       "type": "Laptop",
-      "mac": "89-45-BC-4E-C1-6C",
-      "manufacturer": "Asus",
+      "mac": "70-89-45-74-E5-FE",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2011-02-16T19:03:02Z",
+      "warrantyEnd": "2024-05-04T09:15:18Z"
+    },
+    {
+      "ug": "UG540784",
+      "type": "Laptop",
+      "mac": "B4-E0-A5-1E-B0-1A",
+      "manufacturer": "Stone",
       "model": "ProBook",
-      "warrantyStart": "2018-06-07T03:33:21Z",
-      "warrantyEnd": "2028-11-01T18:18:52Z"
+      "warrantyStart": "2020-01-04T21:25:37Z",
+      "warrantyEnd": "2028-07-25T13:23:52Z"
     }
   ]
 }, {
   "id": 52,
-  "firstName": "Emmaline",
-  "lastName": "Broomhall",
-  "department": "LID",
-  "device": [
+  "firstName": "Edin",
+  "lastName": "Greenrod",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG391892",
+      "ug": "UG009009",
+      "type": "Laptop",
+      "mac": "6A-BC-63-6C-E6-79",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "warrantyStart": "2020-08-30T05:18:45Z",
+      "warrantyEnd": "2025-01-28T15:54:08Z"
+    },
+    {
+      "ug": "UG601544",
       "type": "Desktop",
-      "mac": "D8-F2-B9-97-69-AA",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "warrantyStart": "2020-04-10T09:15:09Z",
-      "warrantyEnd": "2025-04-27T04:34:49Z"
+      "mac": "05-8B-E9-2B-E4-2B",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2017-07-30T20:44:19Z",
+      "warrantyEnd": "2023-11-01T11:21:31Z"
     }
   ]
 }, {
   "id": 53,
-  "firstName": "Nata",
-  "lastName": "Gout",
-  "department": "LID",
-  "device": [
+  "firstName": "Hernando",
+  "lastName": "Metschke",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG040106",
+      "ug": "UG670389",
       "type": "Laptop",
-      "mac": "3B-F3-3A-CC-2E-F3",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2011-09-06T10:49:46Z",
-      "warrantyEnd": "2026-03-30T22:23:52Z"
-    },
-    {
-      "ug": "UG634369",
-      "type": "Desktop",
-      "mac": "F0-D3-6E-9E-A0-8B",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "warrantyStart": "2011-07-15T01:39:47Z",
-      "warrantyEnd": "2029-02-02T15:20:49Z"
-    },
-    {
-      "ug": "UG726642",
-      "type": "Laptop",
-      "mac": "C4-0B-F9-6A-34-A3",
+      "mac": "4D-05-31-4A-FB-AB",
       "manufacturer": "Lenovo",
       "model": "ProBook",
-      "warrantyStart": "2015-08-31T19:33:36Z",
-      "warrantyEnd": "2028-12-02T05:15:35Z"
+      "warrantyStart": "2016-07-13T11:16:51Z",
+      "warrantyEnd": "2029-11-17T00:31:05Z"
     }
   ]
 }, {
   "id": 54,
-  "firstName": "Erik",
-  "lastName": "Bolden",
-  "department": "FMD",
-  "device": [
+  "firstName": "Brannon",
+  "lastName": "Maywood",
+  "department": "DIR",
+  "devices": [
     {
-      "ug": "UG869618",
+      "ug": "UG097092",
       "type": "Desktop",
-      "mac": "54-BB-4B-83-F0-A6",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "warrantyStart": "2020-06-26T17:29:08Z",
-      "warrantyEnd": "2026-11-21T13:24:41Z"
-    },
-    {
-      "ug": "UG235334",
-      "type": "Desktop",
-      "mac": "A2-F4-A3-66-38-1D",
+      "mac": "9D-19-D5-4D-CC-14",
       "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2017-07-20T16:04:59Z",
-      "warrantyEnd": "2029-03-29T09:29:13Z"
+      "model": "EliteBook",
+      "warrantyStart": "2014-04-06T02:16:34Z",
+      "warrantyEnd": "2025-01-25T23:50:56Z"
     }
   ]
 }, {
   "id": 55,
-  "firstName": "Mallorie",
-  "lastName": "McFater",
+  "firstName": "Belvia",
+  "lastName": "Breitler",
   "department": "STU",
-  "device": [
+  "devices": [
     {
-      "ug": "UG391391",
+      "ug": "UG960336",
       "type": "Desktop",
-      "mac": "43-40-BA-5C-93-79",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "warrantyStart": "2014-07-18T03:41:20Z",
-      "warrantyEnd": "2028-08-04T18:29:54Z"
-    },
-    {
-      "ug": "UG895407",
-      "type": "Desktop",
-      "mac": "60-76-6A-E4-2F-70",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "warrantyStart": "2014-03-04T10:51:29Z",
-      "warrantyEnd": "2026-11-08T10:02:51Z"
+      "mac": "26-27-7B-9F-20-F5",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "warrantyStart": "2016-06-22T12:59:37Z",
+      "warrantyEnd": "2025-11-29T06:22:15Z"
     }
   ]
 }, {
   "id": 56,
-  "firstName": "Katharine",
-  "lastName": "Badman",
-  "department": "FMD",
-  "device": [
+  "firstName": "Albina",
+  "lastName": "Caramuscia",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG873838",
+      "ug": "UG582953",
       "type": "Desktop",
-      "mac": "EE-48-28-7B-AF-FA",
+      "mac": "BB-A0-B2-2D-06-0A",
       "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "warrantyStart": "2014-05-31T05:57:12Z",
-      "warrantyEnd": "2028-09-15T14:26:24Z"
-    },
-    {
-      "ug": "UG698833",
-      "type": "Desktop",
-      "mac": "08-69-EC-01-5E-EE",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2012-04-26T20:13:36Z",
-      "warrantyEnd": "2030-06-05T21:50:32Z"
-    },
-    {
-      "ug": "UG290213",
-      "type": "Desktop",
-      "mac": "67-8E-06-C5-EE-ED",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "warrantyStart": "2016-03-21T00:42:43Z",
-      "warrantyEnd": "2024-08-20T19:57:14Z"
+      "warrantyStart": "2020-06-07T22:43:59Z",
+      "warrantyEnd": "2025-06-26T13:17:44Z"
     }
   ]
 }, {
   "id": 57,
-  "firstName": "Valaree",
-  "lastName": "Dearman",
-  "department": "STU",
-  "device": [
+  "firstName": "Jorey",
+  "lastName": "Esposita",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG321921",
-      "type": "Laptop",
-      "mac": "E1-78-81-C8-D0-B1",
-      "manufacturer": "Asus",
+      "ug": "UG135874",
+      "type": "Desktop",
+      "mac": "67-B9-83-62-AF-7E",
+      "manufacturer": "Dell",
       "model": "EliteBook",
-      "warrantyStart": "2021-03-10T14:51:23Z",
-      "warrantyEnd": "2027-01-13T20:22:08Z"
+      "warrantyStart": "2011-03-21T05:06:09Z",
+      "warrantyEnd": "2030-07-26T12:10:32Z"
     },
     {
-      "ug": "UG940865",
+      "ug": "UG285640",
       "type": "Laptop",
-      "mac": "1A-B0-B0-28-58-9F",
+      "mac": "68-E3-9B-89-CB-30",
       "manufacturer": "Asus",
-      "model": "MiniBook",
-      "warrantyStart": "2019-12-14T07:34:56Z",
-      "warrantyEnd": "2029-05-06T09:34:26Z"
+      "model": "ProBook",
+      "warrantyStart": "2020-04-17T02:43:21Z",
+      "warrantyEnd": "2029-08-22T22:48:45Z"
     }
   ]
 }, {
   "id": 58,
-  "firstName": "Guntar",
-  "lastName": "Hillitt",
-  "department": "LID",
-  "device": [
+  "firstName": "Samantha",
+  "lastName": "Chidwick",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG008740",
+      "ug": "UG085870",
       "type": "Laptop",
-      "mac": "EE-4E-8A-49-E2-05",
-      "manufacturer": "Dell",
+      "mac": "37-DB-A8-97-DD-9D",
+      "manufacturer": "Stone",
       "model": "MiniBook",
-      "warrantyStart": "2019-04-26T07:52:11Z",
-      "warrantyEnd": "2023-11-19T10:21:01Z"
+      "warrantyStart": "2011-05-20T19:12:31Z",
+      "warrantyEnd": "2030-09-04T13:19:03Z"
+    },
+    {
+      "ug": "UG162012",
+      "type": "Desktop",
+      "mac": "6C-04-8C-8A-70-50",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "warrantyStart": "2019-09-29T14:53:26Z",
+      "warrantyEnd": "2024-05-04T02:28:41Z"
     }
   ]
 }, {
   "id": 59,
-  "firstName": "Sheba",
-  "lastName": "Place",
-  "department": "FMD",
-  "device": [
+  "firstName": "Kalil",
+  "lastName": "Spriddle",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG002959",
+      "ug": "UG052167",
       "type": "Laptop",
-      "mac": "63-EE-BD-49-C9-C3",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2015-02-06T14:20:43Z",
-      "warrantyEnd": "2028-10-30T16:19:02Z"
-    },
-    {
-      "ug": "UG477058",
-      "type": "Laptop",
-      "mac": "E7-CD-44-14-CE-8E",
+      "mac": "6B-4B-AE-37-EA-6C",
       "manufacturer": "Asus",
       "model": "EliteBook",
-      "warrantyStart": "2016-04-25T17:58:53Z",
-      "warrantyEnd": "2022-10-09T14:24:12Z"
+      "warrantyStart": "2020-04-30T06:24:40Z",
+      "warrantyEnd": "2024-05-16T16:44:27Z"
+    },
+    {
+      "ug": "UG824393",
+      "type": "Desktop",
+      "mac": "9C-F6-A7-25-30-9C",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "warrantyStart": "2012-02-17T06:40:36Z",
+      "warrantyEnd": "2030-01-13T20:22:20Z"
     }
   ]
 }, {
   "id": 60,
-  "firstName": "Meaghan",
-  "lastName": "Carnson",
-  "department": "STU",
-  "device": [
+  "firstName": "Augusto",
+  "lastName": "Dorwood",
+  "department": "DIR",
+  "devices": [
     {
-      "ug": "UG054105",
-      "type": "Desktop",
-      "mac": "A9-8B-45-91-22-EE",
+      "ug": "UG364632",
+      "type": "Laptop",
+      "mac": "04-13-54-C8-80-04",
       "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2022-09-07T02:21:49Z",
+      "warrantyEnd": "2029-07-15T19:07:14Z"
+    },
+    {
+      "ug": "UG776732",
+      "type": "Laptop",
+      "mac": "64-B7-07-EF-F6-CF",
+      "manufacturer": "Acer",
       "model": "MiniBook",
-      "warrantyStart": "2016-10-27T23:10:55Z",
-      "warrantyEnd": "2025-10-07T03:39:36Z"
+      "warrantyStart": "2018-12-04T19:42:17Z",
+      "warrantyEnd": "2024-12-02T02:49:45Z"
+    },
+    {
+      "ug": "UG598456",
+      "type": "Desktop",
+      "mac": "6F-24-97-BB-42-DD",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2012-08-13T10:09:15Z",
+      "warrantyEnd": "2029-05-17T10:41:51Z"
     }
   ]
 }, {
   "id": 61,
-  "firstName": "Paxton",
-  "lastName": "Center",
-  "department": "DIR",
-  "device": [
+  "firstName": "Hendrik",
+  "lastName": "Avard",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG461859",
+      "ug": "UG190257",
       "type": "Laptop",
-      "mac": "5D-E4-E2-FE-4E-71",
+      "mac": "AA-30-F6-13-D8-23",
       "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2022-03-24T12:22:25Z",
-      "warrantyEnd": "2025-07-08T14:21:49Z"
+      "model": "MiniBook",
+      "warrantyStart": "2017-04-05T22:14:19Z",
+      "warrantyEnd": "2025-12-29T02:14:25Z"
     }
   ]
 }, {
   "id": 62,
-  "firstName": "Fey",
-  "lastName": "Egell",
-  "department": "STU",
-  "device": [
+  "firstName": "Lion",
+  "lastName": "O'Halloran",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG230853",
+      "ug": "UG747444",
       "type": "Laptop",
-      "mac": "E2-64-3D-E9-07-48",
-      "manufacturer": "HP",
+      "mac": "D6-BF-EE-90-8A-6A",
+      "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "warrantyStart": "2020-09-13T17:15:42Z",
-      "warrantyEnd": "2027-05-23T20:17:30Z"
+      "warrantyStart": "2014-08-22T04:01:03Z",
+      "warrantyEnd": "2028-05-25T14:45:02Z"
     }
   ]
 }, {
   "id": 63,
-  "firstName": "Clayborne",
-  "lastName": "Onyon",
+  "firstName": "Pate",
+  "lastName": "Coe",
   "department": "AHED",
-  "device": [
+  "devices": [
     {
-      "ug": "UG547687",
-      "type": "Laptop",
-      "mac": "F8-02-C5-F2-07-E0",
+      "ug": "UG130901",
+      "type": "Desktop",
+      "mac": "25-3D-83-9E-0C-67",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2016-06-03T21:45:03Z",
+      "warrantyEnd": "2023-11-16T12:41:32Z"
+    },
+    {
+      "ug": "UG552531",
+      "type": "Desktop",
+      "mac": "9E-F4-4D-D2-22-3E",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2016-05-10T03:42:29Z",
+      "warrantyEnd": "2029-11-05T21:07:01Z"
+    },
+    {
+      "ug": "UG901787",
+      "type": "Desktop",
+      "mac": "DA-49-60-7E-84-29",
       "manufacturer": "HP",
-      "model": "EliteBook",
-      "warrantyStart": "2020-10-19T10:59:39Z",
-      "warrantyEnd": "2022-11-26T23:13:22Z"
+      "model": "ProBook",
+      "warrantyStart": "2020-03-03T08:05:30Z",
+      "warrantyEnd": "2024-02-22T17:54:19Z"
     }
   ]
 }, {
   "id": 64,
-  "firstName": "Victoria",
-  "lastName": "Blackadder",
-  "department": "LID",
-  "device": [
+  "firstName": "Roseanne",
+  "lastName": "Lightwood",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG898741",
-      "type": "Laptop",
-      "mac": "28-78-2D-AA-97-73",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "warrantyStart": "2016-04-24T19:51:53Z",
-      "warrantyEnd": "2027-10-05T07:55:05Z"
-    },
-    {
-      "ug": "UG531707",
-      "type": "Laptop",
-      "mac": "AF-5A-66-8B-E4-D2",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "warrantyStart": "2012-09-26T23:52:09Z",
-      "warrantyEnd": "2027-12-20T21:27:43Z"
-    },
-    {
-      "ug": "UG847323",
-      "type": "Laptop",
-      "mac": "6F-94-07-81-C9-9E",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "warrantyStart": "2016-01-27T12:43:00Z",
-      "warrantyEnd": "2025-10-09T15:20:45Z"
+      "ug": "UG337391",
+      "type": "Desktop",
+      "mac": "69-9F-8B-38-FB-F3",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2011-09-09T06:21:34Z",
+      "warrantyEnd": "2024-04-11T21:57:24Z"
     }
   ]
 }, {
   "id": 65,
-  "firstName": "Amity",
-  "lastName": "Minger",
-  "department": "LID",
-  "device": [
+  "firstName": "Allyce",
+  "lastName": "Clempton",
+  "department": "DIR",
+  "devices": [
     {
-      "ug": "UG356663",
+      "ug": "UG493569",
       "type": "Desktop",
-      "mac": "1F-1C-07-BD-1F-6A",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2014-11-17T15:56:01Z",
-      "warrantyEnd": "2025-12-04T19:27:24Z"
+      "mac": "9F-29-2F-B8-57-84",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2016-04-22T17:34:06Z",
+      "warrantyEnd": "2025-06-14T01:24:28Z"
     },
     {
-      "ug": "UG088589",
+      "ug": "UG989890",
       "type": "Desktop",
-      "mac": "FB-B7-04-51-40-48",
-      "manufacturer": "Asus",
+      "mac": "C4-BC-2C-CC-9A-E7",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "warrantyStart": "2021-08-06T19:51:10Z",
+      "warrantyEnd": "2024-03-08T15:14:11Z"
+    },
+    {
+      "ug": "UG714154",
+      "type": "Desktop",
+      "mac": "D3-E4-31-C4-E2-E5",
+      "manufacturer": "Acer",
       "model": "MiniBook",
-      "warrantyStart": "2013-11-05T18:23:08Z",
-      "warrantyEnd": "2029-01-08T20:12:17Z"
+      "warrantyStart": "2020-02-19T11:40:36Z",
+      "warrantyEnd": "2030-03-31T14:17:52Z"
     }
   ]
 }, {
   "id": 66,
-  "firstName": "North",
-  "lastName": "Shelford",
-  "department": "LID",
-  "device": [
+  "firstName": "Pepita",
+  "lastName": "Ullrich",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG051705",
-      "type": "Desktop",
-      "mac": "FE-3D-B2-32-AC-6E",
+      "ug": "UG015210",
+      "type": "Laptop",
+      "mac": "16-6D-E1-DF-98-B6",
       "manufacturer": "Acer",
       "model": "EliteBook",
-      "warrantyStart": "2022-05-12T08:28:12Z",
-      "warrantyEnd": "2024-08-30T13:42:02Z"
+      "warrantyStart": "2021-02-05T08:40:13Z",
+      "warrantyEnd": "2025-12-12T06:45:26Z"
+    },
+    {
+      "ug": "UG638343",
+      "type": "Laptop",
+      "mac": "E5-4A-BC-F3-ED-26",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2018-07-11T04:57:23Z",
+      "warrantyEnd": "2029-02-17T22:52:25Z"
+    },
+    {
+      "ug": "UG027520",
+      "type": "Desktop",
+      "mac": "D2-D3-9F-85-83-E8",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "warrantyStart": "2020-10-01T03:31:46Z",
+      "warrantyEnd": "2025-02-01T16:34:48Z"
     }
   ]
 }, {
   "id": 67,
-  "firstName": "Arv",
-  "lastName": "Butner",
+  "firstName": "Kalli",
+  "lastName": "Shermar",
   "department": "LID",
-  "device": [
+  "devices": [
     {
-      "ug": "UG257476",
-      "type": "Desktop",
-      "mac": "3A-30-8E-A7-3B-90",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "warrantyStart": "2021-06-30T23:45:20Z",
-      "warrantyEnd": "2024-06-12T15:04:42Z"
+      "ug": "UG018987",
+      "type": "Laptop",
+      "mac": "EA-28-57-58-75-A1",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "warrantyStart": "2018-02-28T18:02:03Z",
+      "warrantyEnd": "2030-05-07T01:55:35Z"
     }
   ]
 }, {
   "id": 68,
-  "firstName": "Jesselyn",
-  "lastName": "Coppens",
-  "department": "DIR",
-  "device": [
+  "firstName": "Charlean",
+  "lastName": "de Keyser",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG089757",
-      "type": "Laptop",
-      "mac": "27-B5-99-96-5D-31",
+      "ug": "UG669296",
+      "type": "Desktop",
+      "mac": "E2-2D-A8-A7-87-11",
       "manufacturer": "Dell",
-      "model": "EliteBook",
-      "warrantyStart": "2022-02-08T01:11:42Z",
-      "warrantyEnd": "2023-11-29T05:19:39Z"
-    },
-    {
-      "ug": "UG477997",
-      "type": "Laptop",
-      "mac": "8C-35-43-12-D0-AF",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "warrantyStart": "2016-06-30T16:51:52Z",
-      "warrantyEnd": "2030-08-20T19:04:41Z"
-    },
-    {
-      "ug": "UG432475",
-      "type": "Laptop",
-      "mac": "C9-B2-28-4E-33-FE",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "warrantyStart": "2020-11-08T16:45:52Z",
-      "warrantyEnd": "2025-09-11T05:24:00Z"
+      "model": "ProBook",
+      "warrantyStart": "2019-06-17T19:23:31Z",
+      "warrantyEnd": "2029-03-28T20:58:04Z"
     }
   ]
 }, {
   "id": 69,
-  "firstName": "Clair",
-  "lastName": "Matthessen",
-  "department": "FMD",
-  "device": [
+  "firstName": "Carmine",
+  "lastName": "Toulmin",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG470086",
-      "type": "Desktop",
-      "mac": "15-1F-CF-3A-F3-2E",
-      "manufacturer": "Dell",
+      "ug": "UG479278",
+      "type": "Laptop",
+      "mac": "69-69-53-52-D0-5B",
+      "manufacturer": "HP",
       "model": "EliteBook",
-      "warrantyStart": "2015-11-28T10:18:46Z",
-      "warrantyEnd": "2030-05-23T23:28:12Z"
-    },
-    {
-      "ug": "UG942065",
-      "type": "Desktop",
-      "mac": "E9-82-27-EE-43-E9",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "warrantyStart": "2011-08-21T13:58:29Z",
-      "warrantyEnd": "2029-10-14T14:33:12Z"
+      "warrantyStart": "2015-03-02T09:08:55Z",
+      "warrantyEnd": "2027-09-27T08:23:49Z"
     }
   ]
 }, {
   "id": 70,
-  "firstName": "Trevar",
-  "lastName": "MacNeilley",
-  "department": "FMD",
-  "device": [
+  "firstName": "Cointon",
+  "lastName": "Cabble",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG273384",
+      "ug": "UG293221",
+      "type": "Laptop",
+      "mac": "5B-CA-4A-D9-07-9C",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2017-01-26T00:49:24Z",
+      "warrantyEnd": "2027-04-10T21:12:55Z"
+    },
+    {
+      "ug": "UG815321",
       "type": "Desktop",
-      "mac": "88-78-D6-3D-D4-FD",
+      "mac": "FF-8F-74-BF-02-2A",
       "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2019-09-25T12:47:44Z",
-      "warrantyEnd": "2030-01-09T18:50:44Z"
+      "model": "ProBook",
+      "warrantyStart": "2014-10-29T07:14:40Z",
+      "warrantyEnd": "2022-11-26T19:07:18Z"
+    },
+    {
+      "ug": "UG311779",
+      "type": "Laptop",
+      "mac": "9E-20-3D-D8-9E-1A",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "warrantyStart": "2019-07-19T16:39:12Z",
+      "warrantyEnd": "2027-01-23T22:28:37Z"
     }
   ]
 }, {
   "id": 71,
-  "firstName": "Garnette",
-  "lastName": "Hardwich",
-  "department": "DIR",
-  "device": [
+  "firstName": "Annice",
+  "lastName": "Seely",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG083457",
+      "ug": "UG772132",
       "type": "Desktop",
-      "mac": "39-4D-F5-D3-17-EA",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "warrantyStart": "2022-02-01T12:42:34Z",
-      "warrantyEnd": "2030-02-17T07:43:44Z"
-    },
-    {
-      "ug": "UG138660",
-      "type": "Laptop",
-      "mac": "04-A4-65-D1-19-69",
-      "manufacturer": "Lenovo",
+      "mac": "39-56-68-13-5D-6C",
+      "manufacturer": "Stone",
       "model": "EliteBook",
-      "warrantyStart": "2011-09-29T20:09:41Z",
-      "warrantyEnd": "2028-09-24T12:38:11Z"
+      "warrantyStart": "2017-09-14T23:15:50Z",
+      "warrantyEnd": "2028-11-06T12:32:55Z"
     }
   ]
 }, {
   "id": 72,
-  "firstName": "Neda",
-  "lastName": "Trimbey",
-  "department": "AHED",
-  "device": [
+  "firstName": "Daile",
+  "lastName": "Conibeer",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG925310",
+      "ug": "UG522182",
       "type": "Desktop",
-      "mac": "DA-C5-4F-B3-9C-A4",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "warrantyStart": "2022-09-06T00:08:19Z",
-      "warrantyEnd": "2024-12-13T01:05:47Z"
+      "mac": "F0-DD-D3-5A-99-73",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2016-02-05T21:17:40Z",
+      "warrantyEnd": "2025-02-02T08:38:07Z"
     },
     {
-      "ug": "UG829878",
-      "type": "Laptop",
-      "mac": "C9-11-C5-A6-C3-37",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "warrantyStart": "2021-09-07T22:42:36Z",
-      "warrantyEnd": "2026-02-13T05:21:39Z"
+      "ug": "UG684124",
+      "type": "Desktop",
+      "mac": "9B-FD-2E-B7-CA-47",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2016-11-09T14:27:20Z",
+      "warrantyEnd": "2024-11-20T02:35:48Z"
     }
   ]
 }, {
   "id": 73,
-  "firstName": "Sanders",
-  "lastName": "McHugh",
-  "department": "LID",
-  "device": [
+  "firstName": "Adrea",
+  "lastName": "Conklin",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG635598",
+      "ug": "UG675674",
       "type": "Laptop",
-      "mac": "24-75-5A-52-1A-CF",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "warrantyStart": "2014-10-15T06:33:07Z",
-      "warrantyEnd": "2030-04-20T14:16:50Z"
+      "mac": "9B-2C-67-4B-2F-10",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "warrantyStart": "2011-01-12T13:59:09Z",
+      "warrantyEnd": "2023-01-15T18:52:45Z"
     }
   ]
 }, {
   "id": 74,
-  "firstName": "Gloria",
-  "lastName": "Stoddard",
+  "firstName": "Adrian",
+  "lastName": "Saurat",
   "department": "DIR",
-  "device": [
+  "devices": [
     {
-      "ug": "UG017996",
+      "ug": "UG734981",
       "type": "Laptop",
-      "mac": "66-80-15-92-18-2A",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "warrantyStart": "2020-11-08T05:43:11Z",
-      "warrantyEnd": "2026-12-08T00:19:58Z"
+      "mac": "FB-0F-BA-49-C0-BC",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2017-11-23T01:55:45Z",
+      "warrantyEnd": "2027-08-03T18:57:43Z"
+    },
+    {
+      "ug": "UG886884",
+      "type": "Desktop",
+      "mac": "36-17-51-D2-50-B8",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2015-02-14T09:34:23Z",
+      "warrantyEnd": "2027-08-28T23:18:18Z"
     }
   ]
 }, {
   "id": 75,
-  "firstName": "Ivory",
-  "lastName": "Moggle",
-  "department": "STU",
-  "device": [
+  "firstName": "Corry",
+  "lastName": "Pie",
+  "department": "DIR",
+  "devices": [
     {
-      "ug": "UG173273",
+      "ug": "UG714559",
       "type": "Laptop",
-      "mac": "51-BC-16-CD-AE-23",
-      "manufacturer": "Acer",
+      "mac": "A5-B0-DD-16-9C-85",
+      "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "warrantyStart": "2012-05-21T01:40:32Z",
-      "warrantyEnd": "2024-03-03T19:53:22Z"
+      "warrantyStart": "2017-01-16T05:45:34Z",
+      "warrantyEnd": "2022-10-14T12:54:56Z"
+    },
+    {
+      "ug": "UG194797",
+      "type": "Laptop",
+      "mac": "50-65-70-72-3A-CB",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2018-01-08T17:03:18Z",
+      "warrantyEnd": "2023-05-05T02:16:40Z"
+    },
+    {
+      "ug": "UG936553",
+      "type": "Desktop",
+      "mac": "05-D8-E8-00-DE-45",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "warrantyStart": "2016-02-12T13:37:58Z",
+      "warrantyEnd": "2025-02-25T16:40:54Z"
     }
   ]
 }, {
   "id": 76,
-  "firstName": "Arielle",
-  "lastName": "Fonzo",
-  "department": "DIR",
-  "device": [
+  "firstName": "Terese",
+  "lastName": "Latimer",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG722551",
-      "type": "Desktop",
-      "mac": "D8-6D-AE-7E-81-3A",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "warrantyStart": "2022-07-07T01:26:23Z",
-      "warrantyEnd": "2027-08-15T03:04:46Z"
+      "ug": "UG581937",
+      "type": "Laptop",
+      "mac": "12-EC-42-97-32-C5",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "warrantyStart": "2022-05-01T19:16:24Z",
+      "warrantyEnd": "2024-01-06T08:22:29Z"
     }
   ]
 }, {
   "id": 77,
-  "firstName": "Kalindi",
-  "lastName": "Lewton",
+  "firstName": "Francoise",
+  "lastName": "Conochie",
   "department": "FMD",
-  "device": [
+  "devices": [
     {
-      "ug": "UG326877",
+      "ug": "UG561687",
       "type": "Laptop",
-      "mac": "6F-AD-77-19-BA-7A",
-      "manufacturer": "Asus",
+      "mac": "EC-CF-C0-E7-04-42",
+      "manufacturer": "HP",
       "model": "MiniBook",
-      "warrantyStart": "2021-10-20T12:22:34Z",
-      "warrantyEnd": "2028-10-29T09:33:21Z"
+      "warrantyStart": "2017-03-02T11:37:54Z",
+      "warrantyEnd": "2027-07-20T23:40:22Z"
+    },
+    {
+      "ug": "UG544846",
+      "type": "Laptop",
+      "mac": "B3-EF-DF-B7-A5-28",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2022-09-09T18:01:26Z",
+      "warrantyEnd": "2026-03-18T02:52:37Z"
+    },
+    {
+      "ug": "UG450054",
+      "type": "Laptop",
+      "mac": "DE-E1-D4-A6-93-B9",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2017-06-01T05:34:34Z",
+      "warrantyEnd": "2023-05-03T02:33:15Z"
     }
   ]
 }, {
   "id": 78,
-  "firstName": "Adelheid",
-  "lastName": "Gipps",
-  "department": "AHED",
-  "device": [
+  "firstName": "Ellwood",
+  "lastName": "Gornar",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG391617",
-      "type": "Laptop",
-      "mac": "1B-8D-4C-4C-29-0F",
-      "manufacturer": "Lenovo",
+      "ug": "UG819292",
+      "type": "Desktop",
+      "mac": "2B-C1-07-A8-CC-13",
+      "manufacturer": "Asus",
       "model": "ProBook",
-      "warrantyStart": "2021-05-30T11:05:29Z",
-      "warrantyEnd": "2026-07-15T20:20:09Z"
+      "warrantyStart": "2013-05-09T04:39:09Z",
+      "warrantyEnd": "2029-09-01T21:42:14Z"
+    },
+    {
+      "ug": "UG058691",
+      "type": "Desktop",
+      "mac": "88-10-C1-6F-36-65",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2014-09-26T03:14:27Z",
+      "warrantyEnd": "2029-10-05T20:09:12Z"
     }
   ]
 }, {
   "id": 79,
-  "firstName": "Conney",
-  "lastName": "Trevillion",
+  "firstName": "Earl",
+  "lastName": "Disdel",
   "department": "AHED",
-  "device": [
+  "devices": [
     {
-      "ug": "UG179916",
+      "ug": "UG535758",
       "type": "Desktop",
-      "mac": "97-A3-D1-A3-EB-85",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "warrantyStart": "2017-01-23T15:57:38Z",
-      "warrantyEnd": "2024-11-17T12:17:40Z"
-    },
-    {
-      "ug": "UG798490",
-      "type": "Laptop",
-      "mac": "8B-62-A0-BA-96-06",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "warrantyStart": "2013-06-13T07:59:59Z",
-      "warrantyEnd": "2029-10-12T12:35:29Z"
-    },
-    {
-      "ug": "UG930789",
-      "type": "Desktop",
-      "mac": "CD-06-05-A7-D3-32",
+      "mac": "1A-65-7D-84-CD-99",
       "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2021-02-07T19:17:11Z",
+      "warrantyEnd": "2028-01-13T20:12:42Z"
+    },
+    {
+      "ug": "UG410879",
+      "type": "Desktop",
+      "mac": "A4-3F-16-FE-3C-C3",
+      "manufacturer": "HP",
       "model": "MiniBook",
-      "warrantyStart": "2019-08-06T09:04:56Z",
-      "warrantyEnd": "2027-11-02T01:16:27Z"
+      "warrantyStart": "2021-07-01T14:39:55Z",
+      "warrantyEnd": "2023-11-07T19:53:12Z"
+    },
+    {
+      "ug": "UG437602",
+      "type": "Desktop",
+      "mac": "F3-40-3F-8B-90-B4",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2015-01-31T02:33:14Z",
+      "warrantyEnd": "2030-04-23T01:31:05Z"
     }
   ]
 }, {
   "id": 80,
-  "firstName": "Hersh",
-  "lastName": "Salvage",
-  "department": "STU",
-  "device": [
+  "firstName": "Axe",
+  "lastName": "Veryard",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG000964",
-      "type": "Desktop",
-      "mac": "0A-91-39-7A-97-CA",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "warrantyStart": "2018-05-05T18:34:14Z",
-      "warrantyEnd": "2022-12-07T01:12:22Z"
-    },
-    {
-      "ug": "UG288282",
+      "ug": "UG858289",
       "type": "Laptop",
-      "mac": "35-7D-B2-E4-C5-D3",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "warrantyStart": "2021-09-05T16:49:01Z",
-      "warrantyEnd": "2028-04-01T09:28:10Z"
+      "mac": "63-DB-08-43-8F-CD",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2021-01-21T18:29:26Z",
+      "warrantyEnd": "2025-12-18T03:30:02Z"
     }
   ]
 }, {
   "id": 81,
-  "firstName": "Elicia",
-  "lastName": "Bertrand",
-  "department": "LID",
-  "device": [
+  "firstName": "Barbe",
+  "lastName": "Scad",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG236901",
+      "ug": "UG489984",
       "type": "Laptop",
-      "mac": "D0-66-E0-94-09-EC",
-      "manufacturer": "Acer",
+      "mac": "8A-B4-E6-59-55-36",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "warrantyStart": "2019-01-03T19:58:33Z",
+      "warrantyEnd": "2027-10-13T15:32:31Z"
+    },
+    {
+      "ug": "UG475110",
+      "type": "Laptop",
+      "mac": "AB-5B-A3-1F-6D-C1",
+      "manufacturer": "Asus",
       "model": "EliteBook",
-      "warrantyStart": "2017-12-09T21:52:18Z",
-      "warrantyEnd": "2024-03-15T17:03:43Z"
+      "warrantyStart": "2013-08-24T15:10:51Z",
+      "warrantyEnd": "2025-07-29T16:51:50Z"
+    },
+    {
+      "ug": "UG617603",
+      "type": "Desktop",
+      "mac": "BA-5B-D6-11-CA-7C",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2018-08-27T16:16:38Z",
+      "warrantyEnd": "2024-08-12T15:51:28Z"
     }
   ]
 }, {
   "id": 82,
-  "firstName": "Grantley",
-  "lastName": "Niche",
-  "department": "FMD",
-  "device": [
+  "firstName": "Joscelin",
+  "lastName": "Escot",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG449240",
+      "ug": "UG121238",
       "type": "Desktop",
-      "mac": "03-CD-38-DE-2C-A4",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "warrantyStart": "2019-07-19T07:39:54Z",
-      "warrantyEnd": "2025-01-10T15:36:11Z"
+      "mac": "03-2C-A0-76-6D-6A",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2013-07-29T05:04:39Z",
+      "warrantyEnd": "2029-03-20T20:26:32Z"
     },
     {
-      "ug": "UG302722",
+      "ug": "UG905147",
       "type": "Desktop",
-      "mac": "30-38-C3-BD-6C-1B",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "warrantyStart": "2016-02-25T22:38:04Z",
-      "warrantyEnd": "2026-11-28T16:26:02Z"
+      "mac": "33-9F-77-97-01-2B",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "warrantyStart": "2016-12-12T09:06:35Z",
+      "warrantyEnd": "2025-04-02T21:35:09Z"
     }
   ]
 }, {
   "id": 83,
-  "firstName": "Boyce",
-  "lastName": "Dewire",
+  "firstName": "Harley",
+  "lastName": "Greenstock",
   "department": "LID",
-  "device": [
+  "devices": [
     {
-      "ug": "UG388139",
+      "ug": "UG780100",
       "type": "Desktop",
-      "mac": "F6-E5-F1-A1-7B-16",
+      "mac": "CB-3F-94-6E-D2-FD",
       "manufacturer": "Acer",
       "model": "ProBook",
-      "warrantyStart": "2022-03-18T13:24:26Z",
-      "warrantyEnd": "2026-11-24T03:02:48Z"
-    },
-    {
-      "ug": "UG044658",
-      "type": "Desktop",
-      "mac": "45-89-10-A8-D9-B3",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "warrantyStart": "2017-04-25T18:00:31Z",
-      "warrantyEnd": "2023-07-21T00:09:40Z"
-    },
-    {
-      "ug": "UG633754",
-      "type": "Laptop",
-      "mac": "C1-3E-45-94-B9-45",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2016-02-12T02:29:09Z",
-      "warrantyEnd": "2024-03-10T15:42:23Z"
+      "warrantyStart": "2015-06-07T07:50:10Z",
+      "warrantyEnd": "2025-06-06T14:00:57Z"
     }
   ]
 }, {
   "id": 84,
-  "firstName": "Derby",
-  "lastName": "Adney",
-  "department": "LID",
-  "device": [
+  "firstName": "Natalee",
+  "lastName": "Sutheran",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG779293",
-      "type": "Laptop",
-      "mac": "B4-CB-5E-B3-51-01",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "warrantyStart": "2014-09-16T13:37:34Z",
-      "warrantyEnd": "2023-05-29T15:55:12Z"
+      "ug": "UG258932",
+      "type": "Desktop",
+      "mac": "5A-4C-C8-8F-B0-95",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2016-12-09T04:19:21Z",
+      "warrantyEnd": "2027-02-08T10:01:02Z"
     },
     {
-      "ug": "UG609424",
+      "ug": "UG469047",
       "type": "Laptop",
-      "mac": "C3-E0-C8-30-73-09",
+      "mac": "31-31-7E-E4-F0-8D",
       "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "warrantyStart": "2020-04-22T06:45:02Z",
-      "warrantyEnd": "2025-05-26T06:19:30Z"
+      "model": "MiniBook",
+      "warrantyStart": "2012-02-29T03:33:43Z",
+      "warrantyEnd": "2030-05-07T21:21:13Z"
     }
   ]
 }, {
   "id": 85,
-  "firstName": "Kev",
-  "lastName": "Mara",
-  "department": "DIR",
-  "device": [
+  "firstName": "Marlene",
+  "lastName": "Corey",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG294822",
-      "type": "Desktop",
-      "mac": "20-2D-4E-94-A4-0E",
-      "manufacturer": "Stone",
+      "ug": "UG427261",
+      "type": "Laptop",
+      "mac": "CB-D4-B7-5B-DB-EF",
+      "manufacturer": "Dell",
       "model": "MiniBook",
-      "warrantyStart": "2018-05-13T00:39:08Z",
-      "warrantyEnd": "2029-12-22T05:08:32Z"
+      "warrantyStart": "2013-10-14T11:08:07Z",
+      "warrantyEnd": "2029-11-11T07:27:59Z"
+    },
+    {
+      "ug": "UG431043",
+      "type": "Laptop",
+      "mac": "6D-5E-44-1E-C9-DD",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2014-12-19T20:49:00Z",
+      "warrantyEnd": "2029-06-19T21:04:46Z"
+    },
+    {
+      "ug": "UG150951",
+      "type": "Laptop",
+      "mac": "AA-71-4D-6F-28-25",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2016-07-17T11:32:10Z",
+      "warrantyEnd": "2030-06-05T05:09:33Z"
     }
   ]
 }, {
   "id": 86,
-  "firstName": "Clare",
-  "lastName": "Caser",
-  "department": "LID",
-  "device": [
+  "firstName": "Julietta",
+  "lastName": "Everex",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG394878",
-      "type": "Desktop",
-      "mac": "F7-27-4D-91-14-5C",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "warrantyStart": "2012-04-05T10:11:05Z",
-      "warrantyEnd": "2029-04-12T10:17:45Z"
+      "ug": "UG170237",
+      "type": "Laptop",
+      "mac": "BE-83-6C-86-3B-49",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2016-07-14T16:38:12Z",
+      "warrantyEnd": "2030-03-24T21:11:32Z"
     },
     {
-      "ug": "UG482642",
-      "type": "Desktop",
-      "mac": "1A-15-97-16-F7-50",
+      "ug": "UG707161",
+      "type": "Laptop",
+      "mac": "62-81-4D-B7-FA-F2",
       "manufacturer": "Lenovo",
       "model": "ProBook",
-      "warrantyStart": "2022-08-25T19:58:09Z",
-      "warrantyEnd": "2026-12-18T01:40:46Z"
-    },
-    {
-      "ug": "UG874978",
-      "type": "Laptop",
-      "mac": "20-22-B6-9B-95-B4",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "warrantyStart": "2018-07-07T06:34:20Z",
-      "warrantyEnd": "2022-10-27T14:48:55Z"
+      "warrantyStart": "2013-03-04T06:33:10Z",
+      "warrantyEnd": "2024-03-10T15:51:15Z"
     }
   ]
 }, {
   "id": 87,
-  "firstName": "Deane",
-  "lastName": "Kingh",
-  "department": "DIR",
-  "device": [
+  "firstName": "Philippa",
+  "lastName": "Patsall",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG713905",
+      "ug": "UG147340",
       "type": "Desktop",
-      "mac": "DD-15-7D-BF-9E-43",
+      "mac": "01-9F-F2-BF-99-85",
       "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2019-05-08T02:52:37Z",
-      "warrantyEnd": "2025-07-05T11:39:52Z"
+      "model": "MiniBook",
+      "warrantyStart": "2021-03-23T07:12:09Z",
+      "warrantyEnd": "2028-09-22T08:28:36Z"
     },
     {
-      "ug": "UG584117",
+      "ug": "UG526525",
       "type": "Laptop",
-      "mac": "12-D6-B2-8A-07-0C",
-      "manufacturer": "Acer",
+      "mac": "47-B9-1A-D6-6D-70",
+      "manufacturer": "HP",
       "model": "EliteBook",
-      "warrantyStart": "2014-06-01T22:12:06Z",
-      "warrantyEnd": "2025-06-28T06:16:46Z"
+      "warrantyStart": "2017-08-08T14:58:54Z",
+      "warrantyEnd": "2024-10-02T22:01:37Z"
+    },
+    {
+      "ug": "UG790357",
+      "type": "Desktop",
+      "mac": "DC-D9-30-90-A1-D5",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "warrantyStart": "2010-12-27T17:49:16Z",
+      "warrantyEnd": "2028-10-24T17:23:37Z"
     }
   ]
 }, {
   "id": 88,
-  "firstName": "Dix",
-  "lastName": "Wilce",
-  "department": "FMD",
-  "device": [
+  "firstName": "Shela",
+  "lastName": "Straine",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG837292",
-      "type": "Desktop",
-      "mac": "29-29-E2-E0-69-A7",
+      "ug": "UG088226",
+      "type": "Laptop",
+      "mac": "79-CE-E5-06-DE-BB",
       "manufacturer": "Lenovo",
       "model": "MiniBook",
-      "warrantyStart": "2017-10-29T10:08:16Z",
-      "warrantyEnd": "2025-01-17T06:24:00Z"
-    },
-    {
-      "ug": "UG563855",
-      "type": "Desktop",
-      "mac": "A4-E6-E5-A7-90-0E",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2018-10-22T11:31:17Z",
-      "warrantyEnd": "2026-07-28T11:06:44Z"
-    },
-    {
-      "ug": "UG988108",
-      "type": "Laptop",
-      "mac": "3D-B8-22-69-7F-D9",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "warrantyStart": "2010-10-02T15:03:56Z",
-      "warrantyEnd": "2030-08-09T11:50:43Z"
+      "warrantyStart": "2021-03-02T23:26:52Z",
+      "warrantyEnd": "2023-08-20T11:21:08Z"
     }
   ]
 }, {
   "id": 89,
-  "firstName": "Zebulon",
-  "lastName": "Moreby",
-  "department": "STU",
-  "device": [
+  "firstName": "Henriette",
+  "lastName": "Isakson",
+  "department": "AHED",
+  "devices": [
     {
-      "ug": "UG145153",
-      "type": "Desktop",
-      "mac": "CF-F4-BC-74-30-5B",
+      "ug": "UG683045",
+      "type": "Laptop",
+      "mac": "68-81-51-26-D4-75",
       "manufacturer": "Stone",
-      "model": "MiniBook",
-      "warrantyStart": "2016-11-20T19:47:16Z",
-      "warrantyEnd": "2023-12-02T09:32:39Z"
+      "model": "ProBook",
+      "warrantyStart": "2016-11-28T15:42:36Z",
+      "warrantyEnd": "2023-07-30T03:22:22Z"
     },
     {
-      "ug": "UG324294",
-      "type": "Desktop",
-      "mac": "4C-29-88-80-94-C8",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "warrantyStart": "2021-02-28T15:08:08Z",
-      "warrantyEnd": "2029-08-16T13:09:28Z"
+      "ug": "UG726370",
+      "type": "Laptop",
+      "mac": "AA-EB-0B-84-36-BB",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "warrantyStart": "2019-07-03T19:18:27Z",
+      "warrantyEnd": "2029-07-11T23:51:32Z"
     }
   ]
 }, {
   "id": 90,
-  "firstName": "Cissiee",
-  "lastName": "Crates",
-  "department": "LID",
-  "device": [
+  "firstName": "Trace",
+  "lastName": "Ralestone",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG407762",
+      "ug": "UG119233",
+      "type": "Desktop",
+      "mac": "79-00-98-D3-8F-D8",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "warrantyStart": "2010-12-03T09:50:31Z",
+      "warrantyEnd": "2027-08-15T13:30:56Z"
+    },
+    {
+      "ug": "UG276673",
+      "type": "Desktop",
+      "mac": "92-8F-11-C0-B8-27",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "warrantyStart": "2010-10-19T14:52:32Z",
+      "warrantyEnd": "2024-09-03T12:51:12Z"
+    },
+    {
+      "ug": "UG328629",
       "type": "Laptop",
-      "mac": "A9-35-FB-E9-0D-D8",
+      "mac": "FC-42-C3-50-03-6C",
       "manufacturer": "Acer",
       "model": "ProBook",
-      "warrantyStart": "2016-01-31T08:58:03Z",
-      "warrantyEnd": "2027-03-06T06:13:15Z"
+      "warrantyStart": "2013-12-11T11:44:49Z",
+      "warrantyEnd": "2027-09-04T07:19:42Z"
     }
   ]
 }, {
   "id": 91,
-  "firstName": "Nanny",
-  "lastName": "Court",
-  "department": "STU",
-  "device": [
+  "firstName": "Misha",
+  "lastName": "Velten",
+  "department": "DIR",
+  "devices": [
     {
-      "ug": "UG054686",
-      "type": "Desktop",
-      "mac": "E5-54-4B-4F-FD-96",
+      "ug": "UG340879",
+      "type": "Laptop",
+      "mac": "EA-8C-A0-BD-76-A8",
       "manufacturer": "Lenovo",
       "model": "ProBook",
-      "warrantyStart": "2018-11-17T11:19:50Z",
-      "warrantyEnd": "2023-06-21T13:45:40Z"
+      "warrantyStart": "2018-02-20T20:21:04Z",
+      "warrantyEnd": "2024-05-02T03:31:17Z"
+    },
+    {
+      "ug": "UG686446",
+      "type": "Laptop",
+      "mac": "40-5C-F6-00-14-2F",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "warrantyStart": "2013-01-05T21:14:36Z",
+      "warrantyEnd": "2030-08-30T23:22:50Z"
     }
   ]
 }, {
   "id": 92,
-  "firstName": "Rakel",
-  "lastName": "Geaveny",
-  "department": "AHED",
-  "device": [
+  "firstName": "Zarla",
+  "lastName": "Shorto",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG433843",
+      "ug": "UG099942",
       "type": "Desktop",
-      "mac": "95-5C-6B-FC-15-36",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "warrantyStart": "2022-08-09T14:17:00Z",
-      "warrantyEnd": "2027-10-27T14:54:17Z"
-    },
-    {
-      "ug": "UG541473",
-      "type": "Desktop",
-      "mac": "DA-59-39-88-34-83",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "warrantyStart": "2013-12-09T14:23:11Z",
-      "warrantyEnd": "2023-10-08T06:30:39Z"
-    },
-    {
-      "ug": "UG479753",
-      "type": "Laptop",
-      "mac": "05-E2-3B-65-B6-14",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "warrantyStart": "2014-07-31T18:25:02Z",
-      "warrantyEnd": "2028-10-06T02:59:45Z"
+      "mac": "65-DA-96-46-DB-FF",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "warrantyStart": "2016-10-30T10:48:13Z",
+      "warrantyEnd": "2022-10-12T17:31:55Z"
     }
   ]
 }, {
   "id": 93,
-  "firstName": "Gannon",
-  "lastName": "Monckton",
-  "department": "AHED",
-  "device": [
+  "firstName": "Patti",
+  "lastName": "Borge",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG153930",
-      "type": "Laptop",
-      "mac": "76-2B-57-7C-86-F7",
-      "manufacturer": "HP",
+      "ug": "UG423553",
+      "type": "Desktop",
+      "mac": "1A-80-60-9C-D9-F1",
+      "manufacturer": "Asus",
       "model": "MiniBook",
-      "warrantyStart": "2011-10-17T02:03:13Z",
-      "warrantyEnd": "2025-06-07T00:54:16Z"
+      "warrantyStart": "2019-07-29T15:44:27Z",
+      "warrantyEnd": "2024-11-05T03:34:03Z"
     },
     {
-      "ug": "UG182607",
-      "type": "Desktop",
-      "mac": "03-97-D7-B0-5C-DB",
+      "ug": "UG799798",
+      "type": "Laptop",
+      "mac": "D3-0A-D6-8A-6F-AA",
       "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2016-02-15T12:23:47Z",
-      "warrantyEnd": "2025-07-29T00:23:56Z"
+      "model": "MiniBook",
+      "warrantyStart": "2013-05-28T22:58:45Z",
+      "warrantyEnd": "2029-10-20T00:09:11Z"
+    },
+    {
+      "ug": "UG751272",
+      "type": "Desktop",
+      "mac": "95-EA-08-62-8A-EE",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "warrantyStart": "2018-07-06T18:46:17Z",
+      "warrantyEnd": "2029-04-21T07:43:44Z"
     }
   ]
 }, {
   "id": 94,
-  "firstName": "Barton",
-  "lastName": "Jaycox",
-  "department": "AHED",
-  "device": [
+  "firstName": "Trista",
+  "lastName": "Sandell",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG378007",
-      "type": "Desktop",
-      "mac": "F2-C1-E5-12-05-01",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "warrantyStart": "2010-09-24T21:34:08Z",
-      "warrantyEnd": "2028-09-23T09:51:23Z"
+      "ug": "UG718131",
+      "type": "Laptop",
+      "mac": "9F-A9-7B-04-22-82",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "warrantyStart": "2011-08-15T00:48:45Z",
+      "warrantyEnd": "2028-07-27T16:25:51Z"
     },
     {
-      "ug": "UG188792",
+      "ug": "UG318158",
       "type": "Laptop",
-      "mac": "4B-E7-EF-74-24-90",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "warrantyStart": "2014-01-06T15:51:49Z",
-      "warrantyEnd": "2024-02-08T07:28:41Z"
+      "mac": "43-58-E1-FB-BF-FE",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "warrantyStart": "2014-07-04T12:29:11Z",
+      "warrantyEnd": "2027-09-09T20:17:01Z"
     }
   ]
 }, {
   "id": 95,
-  "firstName": "Deeann",
-  "lastName": "Arnaudet",
-  "department": "AHED",
-  "device": [
+  "firstName": "Bryce",
+  "lastName": "Hof",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG735375",
-      "type": "Desktop",
-      "mac": "3B-B4-F4-03-28-8C",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "warrantyStart": "2016-08-08T13:32:33Z",
-      "warrantyEnd": "2025-01-13T13:27:16Z"
+      "ug": "UG533948",
+      "type": "Laptop",
+      "mac": "1E-E1-BC-BF-1D-9F",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "warrantyStart": "2017-09-13T12:06:23Z",
+      "warrantyEnd": "2026-09-24T00:46:41Z"
     },
     {
-      "ug": "UG239117",
+      "ug": "UG567045",
       "type": "Desktop",
-      "mac": "7C-D0-FB-D8-DF-DA",
-      "manufacturer": "Stone",
+      "mac": "BD-79-91-70-50-01",
+      "manufacturer": "Dell",
       "model": "EliteBook",
-      "warrantyStart": "2016-07-18T05:37:02Z",
-      "warrantyEnd": "2027-12-29T09:06:09Z"
+      "warrantyStart": "2013-01-25T04:48:01Z",
+      "warrantyEnd": "2023-12-08T19:18:34Z"
+    },
+    {
+      "ug": "UG229650",
+      "type": "Laptop",
+      "mac": "F7-44-65-75-C5-D6",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "warrantyStart": "2020-03-17T16:50:34Z",
+      "warrantyEnd": "2027-09-05T20:31:59Z"
     }
   ]
 }, {
   "id": 96,
-  "firstName": "Maury",
-  "lastName": "Gilardone",
-  "department": "STU",
-  "device": [
+  "firstName": "Zoe",
+  "lastName": "Ciccarelli",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG538745",
+      "ug": "UG853417",
       "type": "Laptop",
-      "mac": "FA-B8-5E-52-A0-F1",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "warrantyStart": "2012-07-27T17:37:22Z",
-      "warrantyEnd": "2023-08-17T17:08:11Z"
-    },
-    {
-      "ug": "UG886351",
-      "type": "Laptop",
-      "mac": "0F-CC-2C-C0-01-A6",
+      "mac": "20-58-DB-06-75-49",
       "manufacturer": "Acer",
-      "model": "MiniBook",
-      "warrantyStart": "2011-12-06T03:17:52Z",
-      "warrantyEnd": "2027-03-14T04:26:33Z"
+      "model": "ProBook",
+      "warrantyStart": "2020-07-03T14:35:58Z",
+      "warrantyEnd": "2026-06-15T23:21:20Z"
     }
   ]
 }, {
   "id": 97,
-  "firstName": "Ibby",
-  "lastName": "Kellick",
-  "department": "FMD",
-  "device": [
+  "firstName": "Cyrus",
+  "lastName": "Banasevich",
+  "department": "LID",
+  "devices": [
     {
-      "ug": "UG598897",
+      "ug": "UG347006",
       "type": "Desktop",
-      "mac": "5F-AF-93-CA-A7-B4",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "warrantyStart": "2010-12-21T11:21:21Z",
-      "warrantyEnd": "2030-02-16T07:32:14Z"
+      "mac": "B1-15-60-AE-26-4C",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "warrantyStart": "2014-08-21T03:43:27Z",
+      "warrantyEnd": "2028-11-19T13:42:29Z"
     }
   ]
 }, {
   "id": 98,
-  "firstName": "Mercie",
-  "lastName": "Diment",
-  "department": "STU",
-  "device": [
+  "firstName": "Ali",
+  "lastName": "Baldini",
+  "department": "DIR",
+  "devices": [
     {
-      "ug": "UG274034",
+      "ug": "UG169633",
       "type": "Laptop",
-      "mac": "E4-63-20-E3-59-09",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "warrantyStart": "2014-05-13T12:26:59Z",
-      "warrantyEnd": "2026-10-31T14:40:20Z"
+      "mac": "D5-E6-C9-CB-47-E9",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2014-09-11T05:33:38Z",
+      "warrantyEnd": "2025-03-24T00:45:10Z"
     }
   ]
 }, {
   "id": 99,
-  "firstName": "Muhammad",
-  "lastName": "Wegenen",
-  "department": "AHED",
-  "device": [
+  "firstName": "Madel",
+  "lastName": "Cancelier",
+  "department": "STU",
+  "devices": [
     {
-      "ug": "UG127350",
-      "type": "Laptop",
-      "mac": "23-5B-6F-EA-4C-06",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "warrantyStart": "2021-08-17T01:18:57Z",
-      "warrantyEnd": "2028-10-15T17:48:27Z"
-    },
-    {
-      "ug": "UG090841",
-      "type": "Laptop",
-      "mac": "37-20-34-2A-58-8C",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "warrantyStart": "2021-06-03T20:31:39Z",
-      "warrantyEnd": "2027-07-11T13:29:04Z"
-    },
-    {
-      "ug": "UG382265",
+      "ug": "UG634061",
       "type": "Desktop",
-      "mac": "37-55-54-DD-FC-FA",
+      "mac": "E4-34-F0-D9-80-53",
       "manufacturer": "HP",
       "model": "ProBook",
-      "warrantyStart": "2017-06-18T00:10:37Z",
-      "warrantyEnd": "2028-12-15T14:13:20Z"
+      "warrantyStart": "2020-03-29T11:47:01Z",
+      "warrantyEnd": "2025-05-08T16:50:38Z"
+    },
+    {
+      "ug": "UG677781",
+      "type": "Desktop",
+      "mac": "F6-49-4E-2A-A1-F7",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2016-09-10T19:40:09Z",
+      "warrantyEnd": "2029-05-05T22:14:44Z"
+    },
+    {
+      "ug": "UG605363",
+      "type": "Desktop",
+      "mac": "62-1B-66-58-6B-A0",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "warrantyStart": "2013-11-02T03:46:20Z",
+      "warrantyEnd": "2029-06-11T02:42:54Z"
     }
   ]
 }, {
   "id": 100,
-  "firstName": "Leann",
-  "lastName": "Snape",
-  "department": "STU",
-  "device": [
+  "firstName": "Marcelo",
+  "lastName": "Brymham",
+  "department": "FMD",
+  "devices": [
     {
-      "ug": "UG419388",
+      "ug": "UG351488",
       "type": "Laptop",
-      "mac": "FF-C7-CD-42-C8-1F",
-      "manufacturer": "Dell",
+      "mac": "59-6D-AA-1A-27-CB",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2019-03-29T12:36:58Z",
+      "warrantyEnd": "2029-03-05T19:23:25Z"
+    },
+    {
+      "ug": "UG353563",
+      "type": "Desktop",
+      "mac": "C7-36-79-54-55-45",
+      "manufacturer": "Lenovo",
       "model": "ProBook",
-      "warrantyStart": "2015-01-25T10:12:15Z",
-      "warrantyEnd": "2024-02-05T13:22:30Z"
+      "warrantyStart": "2017-09-30T06:36:04Z",
+      "warrantyEnd": "2029-08-09T04:26:39Z"
     }
   ]
 }]
