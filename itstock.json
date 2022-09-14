@@ -2543,4 +2543,29 @@
       "warrantyEnd": "2029-08-09T04:26:39Z"
     }
   ]
+}, {
+  "id": 101,
+  "firstName": "dsdfe",
+  "lastName": "fewfwef",
+  "department": "FMD",
+  "devices": [
+    {
+      "ug": "wefwef",
+      "type": "Laptop",
+      "mac": "59-6D-AA-1A-27-CB",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "warrantyStart": "2019-03-29T12:36:58Z",
+      "warrantyEnd": "2029-03-05T19:23:25Z"
+    },
+    {
+      "ug": "dswvvw",
+      "type": "Desktop",
+      "mac": "C7-36-79-54-55-45",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "warrantyStart": "2017-09-30T06:36:04Z",
+      "warrantyEnd": "2029-08-09T04:26:39Z"
+    }
+  ]
 }]
