@@ -2545,27 +2545,27 @@
   ]
 }, {
   "id": 101,
-  "firstName": "dsdfe",
-  "lastName": "fewfwef",
-  "department": "FMD",
+  "firstName": "Alena",
+  "lastName": "Normandale",
+  "department": "LID",
   "devices": [
     {
-      "ug": "wefwef",
-      "type": "Laptop",
-      "mac": "59-6D-AA-1A-27-CB",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "warrantyStart": "2019-03-29T12:36:58Z",
-      "warrantyEnd": "2029-03-05T19:23:25Z"
+      "ug": "UG333331",
+      "type": "Desktop",
+      "mac": "F1-2A-61-9F-91-1D",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "warrantyStart": "2022-01-08T15:55:13Z",
+      "warrantyEnd": "2028-03-22T05:37:28Z"
     },
     {
-      "ug": "dswvvw",
-      "type": "Desktop",
-      "mac": "C7-36-79-54-55-45",
-      "manufacturer": "Lenovo",
+      "ug": "UG785184",
+      "type": "Laptop",
+      "mac": "E1-7A-28-11-10-1C",
+      "manufacturer": "Acer",
       "model": "ProBook",
-      "warrantyStart": "2017-09-30T06:36:04Z",
-      "warrantyEnd": "2029-08-09T04:26:39Z"
+      "warrantyStart": "2014-02-04T16:55:43Z",
+      "warrantyEnd": "2029-12-31T17:33:57Z"
     }
   ]
 }]
