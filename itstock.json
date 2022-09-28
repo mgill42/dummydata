@@ -1,3022 +1,3269 @@
 [{
-  "id": "2e9399c6-fa1a-4b67-bdf8-7fa32d07a0c9",
-  "firstName": "Bonnie",
-  "lastName": "Noblett",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG907159",
-      "type": "Laptop",
-      "mac": "E0-AD-F4-32-99-97",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "58533881",
-      "purchaseDate": "2011-10-03T12:14:31Z",
-      "warrantyStart": "2016-07-27T21:44:39Z",
-      "warrantyEnd": "2023-09-09T07:15:18Z"
-    },
-    {
-      "assetTag": "UG079591",
-      "type": "Laptop",
-      "mac": "62-7B-83-94-38-F7",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "68199399",
-      "purchaseDate": "2021-08-01T10:55:20Z",
-      "warrantyStart": "2020-12-07T09:34:01Z",
-      "warrantyEnd": "2030-06-13T14:01:09Z"
-    }
-  ]
-}, {
-  "id": "cd34e74d-4b54-4704-aa77-5c6dd044f7c2",
-  "firstName": "Livy",
-  "lastName": "Hulke",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG407722",
-      "type": "Laptop",
-      "mac": "6F-54-42-B7-59-74",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "89682254",
-      "purchaseDate": "2014-03-26T01:20:26Z",
-      "warrantyStart": "2021-09-20T10:26:27Z",
-      "warrantyEnd": "2025-07-21T03:12:03Z"
-    }
-  ]
-}, {
-  "id": "532be2cb-bb5c-4594-90d5-84c817c29616",
-  "firstName": "Alia",
-  "lastName": "McCudden",
+  "id": "7b3bfc60-a1ff-49ef-b0c8-66c07a3ff9a8",
+  "firstName": "Freddie",
+  "lastName": "Deshon",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG994522",
+      "assetTag": "UG701638",
       "type": "Desktop",
-      "mac": "90-84-E4-9E-65-4A",
+      "mac": "2A-AB-A7-F1-06-BE",
       "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "37929869",
-      "purchaseDate": "2017-01-25T09:41:37Z",
-      "warrantyStart": "2013-07-19T20:45:43Z",
-      "warrantyEnd": "2023-03-04T23:55:45Z"
-    }
-  ]
-}, {
-  "id": "88b48ef6-bade-4288-bfb9-bbe2b1d5fd39",
-  "firstName": "Lemar",
-  "lastName": "Allinson",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG940158",
-      "type": "Desktop",
-      "mac": "E7-E9-BC-70-CC-14",
-      "manufacturer": "Acer",
       "model": "EliteBook",
-      "serialNumber": "74205715",
-      "purchaseDate": "2012-07-27T12:17:16Z",
-      "warrantyStart": "2015-07-27T03:46:56Z",
-      "warrantyEnd": "2026-01-13T09:14:05Z"
+      "serialNumber": "97231103",
+      "purchaseDate": "2020-03-20T12:07:28Z",
+      "warrantyStart": "2020-08-04T15:49:28Z",
+      "warrantyEnd": "2023-05-18T11:48:18Z",
+      "notes": null
     },
     {
-      "assetTag": "UG892516",
+      "assetTag": "UG247906",
       "type": "Desktop",
-      "mac": "1D-57-47-43-7F-0D",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "23202699",
-      "purchaseDate": "2015-02-18T09:19:29Z",
-      "warrantyStart": "2022-06-27T03:02:52Z",
-      "warrantyEnd": "2026-12-01T05:10:42Z"
-    },
-    {
-      "assetTag": "UG408696",
-      "type": "Desktop",
-      "mac": "65-DE-33-0F-40-A7",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "81656593",
-      "purchaseDate": "2018-06-23T19:03:49Z",
-      "warrantyStart": "2012-05-14T11:32:54Z",
-      "warrantyEnd": "2025-06-11T18:07:53Z"
-    }
-  ]
-}, {
-  "id": "d83c3562-3537-4985-90e6-f4cc6122fbf5",
-  "firstName": "Boone",
-  "lastName": "Colin",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG107804",
-      "type": "Laptop",
-      "mac": "8C-1A-37-E2-23-F4",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "86246403",
-      "purchaseDate": "2011-08-01T07:36:20Z",
-      "warrantyStart": "2010-12-14T08:30:04Z",
-      "warrantyEnd": "2029-04-08T17:37:00Z"
-    }
-  ]
-}, {
-  "id": "615d576e-08fe-4ea2-94e9-20cfc96334bf",
-  "firstName": "Cathlene",
-  "lastName": "Oldroyde",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG729827",
-      "type": "Laptop",
-      "mac": "79-45-9D-D9-C3-6D",
+      "mac": "7D-F7-1D-7F-1F-13",
       "manufacturer": "Lenovo",
       "model": "ProBook",
-      "serialNumber": "30370862",
-      "purchaseDate": "2011-07-08T03:29:13Z",
-      "warrantyStart": "2015-10-16T04:24:27Z",
-      "warrantyEnd": "2028-10-31T09:14:41Z"
-    },
-    {
-      "assetTag": "UG873072",
-      "type": "Desktop",
-      "mac": "BC-EE-F6-EB-26-1C",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "31482029",
-      "purchaseDate": "2020-11-02T07:40:49Z",
-      "warrantyStart": "2014-12-10T16:46:35Z",
-      "warrantyEnd": "2029-12-17T21:57:06Z"
-    },
-    {
-      "assetTag": "UG360671",
-      "type": "Laptop",
-      "mac": "FB-32-64-89-66-FB",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "89737353",
-      "purchaseDate": "2019-11-29T06:00:36Z",
-      "warrantyStart": "2011-02-09T02:38:37Z",
-      "warrantyEnd": "2028-04-09T17:32:28Z"
+      "serialNumber": "88741825",
+      "purchaseDate": "2021-07-07T06:08:35Z",
+      "warrantyStart": "2011-11-16T16:35:26Z",
+      "warrantyEnd": "2027-02-01T10:32:20Z",
+      "notes": null
     }
   ]
 }, {
-  "id": "1c4c2313-e295-47cd-b3f1-8683b35b4c75",
-  "firstName": "Berky",
-  "lastName": "Phillput",
+  "id": "11eb712a-2b8b-4c2e-8f09-3ba35441b968",
+  "firstName": "Anabelle",
+  "lastName": "Carlino",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG144614",
+      "type": "Desktop",
+      "mac": "5D-4B-09-62-E0-7A",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "43987817",
+      "purchaseDate": "2019-06-17T20:26:53Z",
+      "warrantyStart": "2019-12-29T05:36:24Z",
+      "warrantyEnd": "2028-04-14T13:45:16Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG930242",
+      "type": "Desktop",
+      "mac": "D3-76-67-B2-5F-82",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "73845595",
+      "purchaseDate": "2021-10-21T21:27:51Z",
+      "warrantyStart": "2017-02-13T18:41:29Z",
+      "warrantyEnd": "2025-06-07T23:50:19Z",
+      "notes": "Occlusion of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+    },
+    {
+      "assetTag": "UG394795",
+      "type": "Laptop",
+      "mac": "61-F7-09-9B-63-DF",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "54255405",
+      "purchaseDate": "2014-02-07T21:23:27Z",
+      "warrantyStart": "2019-06-04T22:46:25Z",
+      "warrantyEnd": "2026-05-24T03:17:27Z",
+      "notes": "Low Dose Rate (LDR) Brachytherapy of Thymus using Other Isotope"
+    }
+  ]
+}, {
+  "id": "2b17e14e-dc2e-4873-91d3-d7c9cbd3eb9e",
+  "firstName": "Norbie",
+  "lastName": "Wing",
   "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG537491",
-      "type": "Desktop",
-      "mac": "0F-DB-10-8B-2B-59",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "83654855",
-      "purchaseDate": "2021-08-29T20:34:54Z",
-      "warrantyStart": "2021-04-07T22:22:34Z",
-      "warrantyEnd": "2029-03-07T11:04:34Z"
-    },
-    {
-      "assetTag": "UG313981",
+      "assetTag": "UG538153",
       "type": "Laptop",
-      "mac": "A0-07-08-5C-3A-EC",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "49034459",
-      "purchaseDate": "2012-12-21T00:14:45Z",
-      "warrantyStart": "2011-05-23T18:25:26Z",
-      "warrantyEnd": "2025-06-20T06:38:13Z"
-    },
-    {
-      "assetTag": "UG659897",
-      "type": "Desktop",
-      "mac": "DB-05-41-D0-90-AB",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "47098266",
-      "purchaseDate": "2014-11-25T02:06:47Z",
-      "warrantyStart": "2016-12-31T12:07:16Z",
-      "warrantyEnd": "2024-09-21T17:01:07Z"
-    }
-  ]
-}, {
-  "id": "c06f2315-e6b7-418d-8eb4-01c9e843c0e3",
-  "firstName": "Virginie",
-  "lastName": "Croke",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG647918",
-      "type": "Laptop",
-      "mac": "FA-72-87-6C-B2-30",
+      "mac": "AB-41-72-63-C6-17",
       "manufacturer": "HP",
       "model": "ProBook",
-      "serialNumber": "71076835",
-      "purchaseDate": "2019-06-13T06:00:48Z",
-      "warrantyStart": "2012-09-17T22:26:16Z",
-      "warrantyEnd": "2028-06-15T17:51:05Z"
+      "serialNumber": "54977614",
+      "purchaseDate": "2019-06-20T09:28:54Z",
+      "warrantyStart": "2016-10-29T18:44:39Z",
+      "warrantyEnd": "2023-03-29T14:44:27Z",
+      "notes": "Occlusion of Right Vertebral Artery with Intraluminal Device, Percutaneous Approach"
+    },
+    {
+      "assetTag": "UG415557",
+      "type": "Desktop",
+      "mac": "5B-AE-75-96-90-3E",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "91009716",
+      "purchaseDate": "2011-05-28T16:08:14Z",
+      "warrantyStart": "2013-07-02T21:47:46Z",
+      "warrantyEnd": "2027-09-04T01:26:00Z",
+      "notes": "Excision of Right Abdomen Tendon, Percutaneous Approach, Diagnostic"
     }
   ]
 }, {
-  "id": "4d35b4f3-9d14-46fd-b415-91376d89fe3d",
-  "firstName": "Casi",
-  "lastName": "Laurand",
-  "department": "DIR",
+  "id": "975ba187-ea95-4d9a-9448-1189e47a2d95",
+  "firstName": "Ruthe",
+  "lastName": "Vinnicombe",
+  "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG215864",
+      "assetTag": "UG377374",
       "type": "Laptop",
-      "mac": "22-C6-A5-1E-0D-73",
-      "manufacturer": "Acer",
+      "mac": "0C-64-D9-95-AB-91",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "55179428",
+      "purchaseDate": "2020-06-06T02:38:06Z",
+      "warrantyStart": "2021-06-15T10:29:18Z",
+      "warrantyEnd": "2028-08-18T13:37:25Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG422560",
+      "type": "Desktop",
+      "mac": "9C-8B-25-90-8B-69",
+      "manufacturer": "HP",
       "model": "EliteBook",
-      "serialNumber": "83274202",
-      "purchaseDate": "2012-05-24T21:40:09Z",
-      "warrantyStart": "2021-07-22T07:52:18Z",
-      "warrantyEnd": "2028-07-22T14:35:42Z"
+      "serialNumber": "71363447",
+      "purchaseDate": "2013-01-14T14:50:16Z",
+      "warrantyStart": "2011-05-02T17:19:28Z",
+      "warrantyEnd": "2030-06-14T03:13:18Z",
+      "notes": "Supplement Right Upper Extremity Bursa and Ligament with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG115986",
+      "type": "Desktop",
+      "mac": "DB-53-F7-49-84-F6",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "48272260",
+      "purchaseDate": "2022-08-28T20:40:38Z",
+      "warrantyStart": "2017-11-06T00:45:50Z",
+      "warrantyEnd": "2028-02-02T05:44:26Z",
+      "notes": "Release Right Vocal Cord, Open Approach"
     }
   ]
 }, {
-  "id": "d4f9cc53-caf0-48e5-bba9-d9305b0398fa",
-  "firstName": "Rozella",
-  "lastName": "Dignam",
+  "id": "e00eb7b9-cd72-4c47-9719-2eaf29ca9cdc",
+  "firstName": "Harlene",
+  "lastName": "Garrett",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG444315",
+      "type": "Desktop",
+      "mac": "74-40-CC-88-1B-B9",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "40076438",
+      "purchaseDate": "2014-06-08T09:06:10Z",
+      "warrantyStart": "2011-02-10T23:06:10Z",
+      "warrantyEnd": "2030-06-22T15:33:36Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG058194",
+      "type": "Desktop",
+      "mac": "4C-44-A0-DC-45-1F",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "42522176",
+      "purchaseDate": "2022-07-04T16:10:37Z",
+      "warrantyStart": "2017-02-25T06:25:51Z",
+      "warrantyEnd": "2023-03-09T15:52:50Z",
+      "notes": "Restriction of Left Common Iliac Artery with Branched or Fenestrated Intraluminal Device, One or Two Arteries, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG220005",
+      "type": "Laptop",
+      "mac": "3F-E0-92-AA-76-4D",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "86551094",
+      "purchaseDate": "2016-05-24T04:47:55Z",
+      "warrantyStart": "2015-04-26T08:39:26Z",
+      "warrantyEnd": "2024-03-22T22:58:12Z",
+      "notes": "Extirpation of Matter from Right Thorax Bursa and Ligament, Open Approach"
+    }
+  ]
+}, {
+  "id": "d2ddae19-b0e1-43c7-899b-689b2414a549",
+  "firstName": "Lorry",
+  "lastName": "Ivanonko",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG813976",
+      "assetTag": "UG026976",
       "type": "Desktop",
-      "mac": "82-38-44-64-61-51",
-      "manufacturer": "Lenovo",
+      "mac": "E3-D0-03-EE-3E-55",
+      "manufacturer": "Asus",
       "model": "EliteBook",
-      "serialNumber": "14362580",
-      "purchaseDate": "2018-12-08T13:14:43Z",
-      "warrantyStart": "2015-10-22T12:06:52Z",
-      "warrantyEnd": "2028-06-16T07:23:46Z"
+      "serialNumber": "24181802",
+      "purchaseDate": "2017-03-09T20:15:54Z",
+      "warrantyStart": "2013-11-27T00:35:45Z",
+      "warrantyEnd": "2024-07-29T17:53:02Z",
+      "notes": null
     },
     {
-      "assetTag": "UG396751",
+      "assetTag": "UG536185",
+      "type": "Laptop",
+      "mac": "E1-8F-BA-5D-32-DD",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "63559378",
+      "purchaseDate": "2017-08-07T16:31:39Z",
+      "warrantyStart": "2010-09-26T07:23:57Z",
+      "warrantyEnd": "2026-12-07T12:41:52Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG066115",
       "type": "Desktop",
-      "mac": "8B-CB-1A-ED-A1-05",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "95908945",
-      "purchaseDate": "2014-05-04T14:28:16Z",
-      "warrantyStart": "2012-09-02T00:24:33Z",
-      "warrantyEnd": "2028-12-21T08:33:22Z"
+      "mac": "D2-CC-37-74-1D-CA",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "80499072",
+      "purchaseDate": "2012-04-14T04:33:52Z",
+      "warrantyStart": "2020-04-16T19:46:44Z",
+      "warrantyEnd": "2026-07-04T11:58:24Z",
+      "notes": "Supplement Inferior Vena Cava with Synthetic Substitute, Open Approach"
     }
   ]
 }, {
-  "id": "3cd6c8e8-b16a-4b04-b124-640b8da44a98",
-  "firstName": "Nananne",
-  "lastName": "Benedite",
-  "department": "LID",
+  "id": "3b3cdb52-9da1-4728-9ce9-bbc6fea1644d",
+  "firstName": "Shermy",
+  "lastName": "Sposito",
+  "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG607153",
+      "assetTag": "UG500430",
       "type": "Desktop",
-      "mac": "DE-A4-8F-FB-A9-0D",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "32221514",
-      "purchaseDate": "2010-10-06T11:39:48Z",
-      "warrantyStart": "2017-09-24T01:48:33Z",
-      "warrantyEnd": "2028-01-02T17:03:16Z"
+      "mac": "A1-1C-8F-0D-D6-CC",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "59094360",
+      "purchaseDate": "2012-06-10T03:18:08Z",
+      "warrantyStart": "2011-08-09T00:28:46Z",
+      "warrantyEnd": "2024-09-21T19:43:27Z",
+      "notes": null
     },
     {
-      "assetTag": "UG421741",
+      "assetTag": "UG711524",
       "type": "Desktop",
-      "mac": "58-CE-75-66-3B-CE",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "32292475",
-      "purchaseDate": "2011-08-20T07:38:40Z",
-      "warrantyStart": "2017-01-17T13:46:31Z",
-      "warrantyEnd": "2026-11-26T04:50:06Z"
-    },
-    {
-      "assetTag": "UG181840",
-      "type": "Desktop",
-      "mac": "39-CC-2E-83-5F-37",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "18159438",
-      "purchaseDate": "2015-07-20T00:11:34Z",
-      "warrantyStart": "2010-10-19T03:55:55Z",
-      "warrantyEnd": "2023-01-15T23:26:24Z"
+      "mac": "46-86-94-9B-14-46",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "74092379",
+      "purchaseDate": "2015-07-24T19:18:00Z",
+      "warrantyStart": "2011-05-18T01:36:59Z",
+      "warrantyEnd": "2025-07-05T22:41:52Z",
+      "notes": null
     }
   ]
 }, {
-  "id": "f678c975-bdff-48d9-aad4-525099597900",
-  "firstName": "Paddie",
-  "lastName": "Finkle",
+  "id": "ed8eaa5f-3d93-4bd6-9efc-36d19a81a0e7",
+  "firstName": "Sophie",
+  "lastName": "Bramley",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG583111",
+      "type": "Desktop",
+      "mac": "C6-1D-FE-35-EB-B5",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "27850098",
+      "purchaseDate": "2020-10-18T16:19:08Z",
+      "warrantyStart": "2020-11-07T15:05:43Z",
+      "warrantyEnd": "2030-04-06T15:27:30Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "b600f9ce-2bb0-4f60-bb0b-dd92c29437b3",
+  "firstName": "Benoit",
+  "lastName": "Prenty",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG973826",
-      "type": "Laptop",
-      "mac": "44-49-8E-FA-BC-F2",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "47593910",
-      "purchaseDate": "2011-07-17T09:00:02Z",
-      "warrantyStart": "2013-05-07T11:34:05Z",
-      "warrantyEnd": "2024-03-09T05:10:40Z"
-    },
-    {
-      "assetTag": "UG312826",
-      "type": "Laptop",
-      "mac": "16-39-F4-B8-51-1B",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "23777905",
-      "purchaseDate": "2018-05-21T16:53:21Z",
-      "warrantyStart": "2011-01-26T17:51:06Z",
-      "warrantyEnd": "2024-11-11T05:02:01Z"
-    },
-    {
-      "assetTag": "UG946302",
+      "assetTag": "UG329148",
       "type": "Desktop",
-      "mac": "BA-67-75-85-8D-36",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "00651215",
-      "purchaseDate": "2011-02-06T07:33:41Z",
-      "warrantyStart": "2011-06-09T07:49:37Z",
-      "warrantyEnd": "2030-08-26T05:35:58Z"
-    }
-  ]
-}, {
-  "id": "47f6900b-c692-4784-bb60-7396ce78f852",
-  "firstName": "Jania",
-  "lastName": "Challoner",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG555170",
-      "type": "Desktop",
-      "mac": "56-FC-5E-71-7E-E4",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "45511175",
-      "purchaseDate": "2014-05-01T08:54:58Z",
-      "warrantyStart": "2014-01-26T06:07:45Z",
-      "warrantyEnd": "2029-11-15T15:32:55Z"
-    }
-  ]
-}, {
-  "id": "4c64f443-3dd5-4507-810a-c1a70b620399",
-  "firstName": "Jameson",
-  "lastName": "Simonin",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG913553",
-      "type": "Laptop",
-      "mac": "3B-95-F9-12-56-52",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "72291321",
-      "purchaseDate": "2018-10-17T07:25:11Z",
-      "warrantyStart": "2013-06-29T15:56:19Z",
-      "warrantyEnd": "2025-12-20T16:02:06Z"
-    }
-  ]
-}, {
-  "id": "8a121aea-38cf-4b12-9860-6090fa6b3c92",
-  "firstName": "Fedora",
-  "lastName": "Foggarty",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG120665",
-      "type": "Laptop",
-      "mac": "CF-F8-82-31-D1-ED",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "13451683",
-      "purchaseDate": "2012-07-25T16:33:27Z",
-      "warrantyStart": "2013-01-25T19:04:45Z",
-      "warrantyEnd": "2030-02-19T10:08:32Z"
-    },
-    {
-      "assetTag": "UG882021",
-      "type": "Laptop",
-      "mac": "6B-74-B2-BB-80-19",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "42583206",
-      "purchaseDate": "2022-03-07T17:05:49Z",
-      "warrantyStart": "2014-12-11T02:27:03Z",
-      "warrantyEnd": "2024-01-30T23:37:48Z"
-    },
-    {
-      "assetTag": "UG015273",
-      "type": "Laptop",
-      "mac": "2F-B8-7A-35-2D-13",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "04695946",
-      "purchaseDate": "2020-12-20T10:16:07Z",
-      "warrantyStart": "2020-04-25T11:05:57Z",
-      "warrantyEnd": "2024-02-11T19:16:01Z"
-    }
-  ]
-}, {
-  "id": "80b88cd5-9dc6-4b66-8a07-8a19b8f1982e",
-  "firstName": "Cecelia",
-  "lastName": "Hayle",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG755930",
-      "type": "Desktop",
-      "mac": "98-9F-9D-3B-6F-A9",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "93965674",
-      "purchaseDate": "2015-05-17T15:17:25Z",
-      "warrantyStart": "2021-11-24T21:11:26Z",
-      "warrantyEnd": "2024-10-20T02:51:05Z"
-    },
-    {
-      "assetTag": "UG588584",
-      "type": "Desktop",
-      "mac": "DF-EB-07-E9-3A-46",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "71292916",
-      "purchaseDate": "2013-04-27T22:45:16Z",
-      "warrantyStart": "2012-09-19T13:38:18Z",
-      "warrantyEnd": "2025-11-29T08:43:10Z"
-    }
-  ]
-}, {
-  "id": "ddf7acec-964e-4d72-b8c3-88f752b79f34",
-  "firstName": "Afton",
-  "lastName": "Portchmouth",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG992426",
-      "type": "Laptop",
-      "mac": "47-32-30-7B-9D-D1",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "16322146",
-      "purchaseDate": "2019-03-02T01:26:43Z",
-      "warrantyStart": "2019-04-30T04:34:48Z",
-      "warrantyEnd": "2026-04-19T08:56:34Z"
-    },
-    {
-      "assetTag": "UG142962",
-      "type": "Desktop",
-      "mac": "60-B4-26-E2-3D-C6",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "11248187",
-      "purchaseDate": "2017-09-02T02:41:10Z",
-      "warrantyStart": "2015-02-12T12:27:38Z",
-      "warrantyEnd": "2025-10-01T05:37:39Z"
-    }
-  ]
-}, {
-  "id": "63d6d162-6583-4b62-a7a0-a221f77b8bde",
-  "firstName": "Jobina",
-  "lastName": "Roze",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG254221",
-      "type": "Laptop",
-      "mac": "9D-B1-16-A1-08-A1",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "81839588",
-      "purchaseDate": "2014-05-23T04:20:23Z",
-      "warrantyStart": "2013-01-03T07:45:42Z",
-      "warrantyEnd": "2024-09-13T15:41:59Z"
-    }
-  ]
-}, {
-  "id": "29e6b235-0814-47d4-9a00-1558940e3efa",
-  "firstName": "Mirabella",
-  "lastName": "Wickes",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG414733",
-      "type": "Desktop",
-      "mac": "5D-BD-E4-74-02-C9",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "12392311",
-      "purchaseDate": "2016-01-08T05:13:08Z",
-      "warrantyStart": "2018-03-22T03:15:13Z",
-      "warrantyEnd": "2026-07-21T22:47:44Z"
-    },
-    {
-      "assetTag": "UG429343",
-      "type": "Desktop",
-      "mac": "D8-0D-03-EA-50-F0",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "64357094",
-      "purchaseDate": "2016-12-09T19:17:46Z",
-      "warrantyStart": "2016-09-16T04:36:14Z",
-      "warrantyEnd": "2028-09-17T16:32:10Z"
-    },
-    {
-      "assetTag": "UG846560",
-      "type": "Desktop",
-      "mac": "23-16-D5-0D-17-12",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "24320233",
-      "purchaseDate": "2019-09-14T12:50:02Z",
-      "warrantyStart": "2018-06-26T05:24:21Z",
-      "warrantyEnd": "2024-11-05T07:39:26Z"
-    }
-  ]
-}, {
-  "id": "0e6e87a0-816b-400d-b8b4-5036700f05a6",
-  "firstName": "Willamina",
-  "lastName": "Ezzle",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG816047",
-      "type": "Laptop",
-      "mac": "4E-74-57-60-FD-78",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "31349323",
-      "purchaseDate": "2021-10-14T01:42:15Z",
-      "warrantyStart": "2018-03-09T01:31:03Z",
-      "warrantyEnd": "2029-02-24T17:27:43Z"
-    },
-    {
-      "assetTag": "UG930006",
-      "type": "Laptop",
-      "mac": "D9-42-7D-D3-A5-67",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "94176951",
-      "purchaseDate": "2018-05-29T14:54:14Z",
-      "warrantyStart": "2011-10-05T17:05:50Z",
-      "warrantyEnd": "2025-11-08T00:12:01Z"
-    }
-  ]
-}, {
-  "id": "61943f88-3e80-4523-899e-e93094668ac2",
-  "firstName": "Farleigh",
-  "lastName": "Sleford",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG953197",
-      "type": "Desktop",
-      "mac": "EF-84-46-27-23-10",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "42797029",
-      "purchaseDate": "2017-10-11T09:49:23Z",
-      "warrantyStart": "2014-07-28T17:55:18Z",
-      "warrantyEnd": "2025-07-31T13:30:28Z"
-    },
-    {
-      "assetTag": "UG057861",
-      "type": "Laptop",
-      "mac": "AC-73-B6-3E-F6-11",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "46837770",
-      "purchaseDate": "2019-07-12T16:04:13Z",
-      "warrantyStart": "2020-05-13T12:44:38Z",
-      "warrantyEnd": "2028-12-04T00:15:09Z"
-    }
-  ]
-}, {
-  "id": "ca0b7a79-4ebd-4269-823a-249e613517a0",
-  "firstName": "Celie",
-  "lastName": "Woodroofe",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG389065",
-      "type": "Desktop",
-      "mac": "03-64-44-93-B7-4B",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "18528726",
-      "purchaseDate": "2017-06-17T10:06:14Z",
-      "warrantyStart": "2013-03-22T01:17:56Z",
-      "warrantyEnd": "2027-08-02T03:29:39Z"
-    },
-    {
-      "assetTag": "UG966439",
-      "type": "Laptop",
-      "mac": "74-FB-22-A2-06-DF",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "47888748",
-      "purchaseDate": "2019-03-19T20:18:48Z",
-      "warrantyStart": "2019-02-09T23:42:05Z",
-      "warrantyEnd": "2029-09-20T18:50:06Z"
-    },
-    {
-      "assetTag": "UG358748",
-      "type": "Laptop",
-      "mac": "95-6D-04-82-14-CD",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "36711245",
-      "purchaseDate": "2012-11-01T04:42:25Z",
-      "warrantyStart": "2022-07-27T16:13:00Z",
-      "warrantyEnd": "2023-11-10T11:43:24Z"
-    }
-  ]
-}, {
-  "id": "3e3fed5c-45a2-4d15-be58-396bef087eb2",
-  "firstName": "Charmian",
-  "lastName": "Conklin",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG380426",
-      "type": "Laptop",
-      "mac": "37-3C-0E-03-8D-7B",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "96741788",
-      "purchaseDate": "2014-01-24T15:27:29Z",
-      "warrantyStart": "2020-11-13T04:37:55Z",
-      "warrantyEnd": "2026-01-28T20:28:46Z"
-    },
-    {
-      "assetTag": "UG440445",
-      "type": "Desktop",
-      "mac": "F9-70-38-DA-32-C6",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "46588066",
-      "purchaseDate": "2019-05-05T15:37:25Z",
-      "warrantyStart": "2018-12-13T21:01:48Z",
-      "warrantyEnd": "2029-07-07T20:36:48Z"
-    }
-  ]
-}, {
-  "id": "160ee167-0636-4cbe-ad3d-d5a524f366ac",
-  "firstName": "Bradford",
-  "lastName": "Follows",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG381216",
-      "type": "Desktop",
-      "mac": "86-37-4C-65-F7-EC",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "13892756",
-      "purchaseDate": "2019-01-15T14:19:50Z",
-      "warrantyStart": "2011-07-24T21:00:41Z",
-      "warrantyEnd": "2026-09-03T22:09:03Z"
-    },
-    {
-      "assetTag": "UG180328",
-      "type": "Desktop",
-      "mac": "92-19-98-A6-AA-29",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "70950686",
-      "purchaseDate": "2022-03-20T03:45:15Z",
-      "warrantyStart": "2013-08-18T14:22:03Z",
-      "warrantyEnd": "2028-03-04T09:39:23Z"
-    }
-  ]
-}, {
-  "id": "c8346aae-925c-4925-b1dd-ce22b228fb15",
-  "firstName": "Anton",
-  "lastName": "Sincock",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG527046",
-      "type": "Desktop",
-      "mac": "56-5B-1B-E7-5F-FD",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "60836369",
-      "purchaseDate": "2021-10-30T22:06:59Z",
-      "warrantyStart": "2018-06-03T15:31:34Z",
-      "warrantyEnd": "2024-07-10T20:33:42Z"
-    }
-  ]
-}, {
-  "id": "b01a1ce0-396f-43a9-b2a5-534bff4df40f",
-  "firstName": "Roxanna",
-  "lastName": "Quogan",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG216445",
-      "type": "Laptop",
-      "mac": "62-DF-1C-8D-3E-BA",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "98156422",
-      "purchaseDate": "2022-05-28T03:27:41Z",
-      "warrantyStart": "2012-03-16T16:42:50Z",
-      "warrantyEnd": "2028-11-27T23:32:11Z"
-    },
-    {
-      "assetTag": "UG177128",
-      "type": "Laptop",
-      "mac": "E8-B5-A5-53-D9-13",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "18402145",
-      "purchaseDate": "2022-07-29T23:59:52Z",
-      "warrantyStart": "2014-07-22T19:50:39Z",
-      "warrantyEnd": "2029-03-16T20:30:51Z"
-    },
-    {
-      "assetTag": "UG251110",
-      "type": "Laptop",
-      "mac": "68-0B-DC-97-66-F4",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "85603540",
-      "purchaseDate": "2012-07-13T17:14:58Z",
-      "warrantyStart": "2012-06-09T09:19:08Z",
-      "warrantyEnd": "2029-11-10T21:39:23Z"
-    }
-  ]
-}, {
-  "id": "8ff1f9f2-1dda-4a1f-9e59-6d10645b89e3",
-  "firstName": "Waverly",
-  "lastName": "Itzkov",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG228940",
-      "type": "Desktop",
-      "mac": "D0-9D-F9-6D-A3-3E",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "48495416",
-      "purchaseDate": "2018-02-04T18:41:56Z",
-      "warrantyStart": "2016-02-12T21:04:25Z",
-      "warrantyEnd": "2024-08-05T12:58:29Z"
-    },
-    {
-      "assetTag": "UG535309",
-      "type": "Laptop",
-      "mac": "D5-FC-39-EE-47-B4",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "76825015",
-      "purchaseDate": "2010-12-30T20:36:04Z",
-      "warrantyStart": "2016-04-06T16:19:27Z",
-      "warrantyEnd": "2027-07-23T07:03:26Z"
-    },
-    {
-      "assetTag": "UG161242",
-      "type": "Laptop",
-      "mac": "34-5B-DB-10-C2-6D",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "94236252",
-      "purchaseDate": "2013-06-27T10:41:17Z",
-      "warrantyStart": "2016-02-15T07:47:53Z",
-      "warrantyEnd": "2026-08-06T19:10:45Z"
-    }
-  ]
-}, {
-  "id": "8cfe159a-a407-452e-bac7-d9ba1ada8f1f",
-  "firstName": "Humbert",
-  "lastName": "McGrae",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG917718",
-      "type": "Desktop",
-      "mac": "44-45-D6-CB-D3-91",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "73868465",
-      "purchaseDate": "2018-01-29T11:25:13Z",
-      "warrantyStart": "2017-01-10T01:29:27Z",
-      "warrantyEnd": "2029-06-06T08:05:29Z"
-    },
-    {
-      "assetTag": "UG971937",
-      "type": "Laptop",
-      "mac": "E0-12-51-00-BC-1B",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "00541568",
-      "purchaseDate": "2011-11-03T13:00:46Z",
-      "warrantyStart": "2013-12-29T02:42:18Z",
-      "warrantyEnd": "2025-08-30T05:31:49Z"
-    }
-  ]
-}, {
-  "id": "ad326ce2-df1c-464f-863a-4f911f2e91a7",
-  "firstName": "Guglielmo",
-  "lastName": "Cammock",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG944385",
-      "type": "Laptop",
-      "mac": "3A-7A-CD-4E-3A-1C",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "71265122",
-      "purchaseDate": "2010-09-20T12:44:24Z",
-      "warrantyStart": "2014-06-24T17:58:46Z",
-      "warrantyEnd": "2023-08-11T01:23:49Z"
-    },
-    {
-      "assetTag": "UG145376",
-      "type": "Desktop",
-      "mac": "5F-E5-09-2B-7C-16",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "16556432",
-      "purchaseDate": "2014-10-31T08:05:19Z",
-      "warrantyStart": "2011-07-10T14:40:15Z",
-      "warrantyEnd": "2023-10-13T07:12:02Z"
-    },
-    {
-      "assetTag": "UG393933",
-      "type": "Laptop",
-      "mac": "42-94-23-F4-8F-81",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "75297219",
-      "purchaseDate": "2016-07-12T16:15:32Z",
-      "warrantyStart": "2013-10-22T09:12:38Z",
-      "warrantyEnd": "2029-01-17T12:15:43Z"
-    }
-  ]
-}, {
-  "id": "09195c97-dc0c-4106-84ef-f487bf612624",
-  "firstName": "Renee",
-  "lastName": "Holson",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG507543",
-      "type": "Laptop",
-      "mac": "4D-89-51-2F-76-74",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "64616677",
-      "purchaseDate": "2018-04-22T01:29:20Z",
-      "warrantyStart": "2011-06-26T04:01:33Z",
-      "warrantyEnd": "2028-12-06T20:30:13Z"
-    },
-    {
-      "assetTag": "UG098674",
-      "type": "Desktop",
-      "mac": "61-CC-6D-2B-CF-D3",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "61614732",
-      "purchaseDate": "2017-10-28T17:05:16Z",
-      "warrantyStart": "2011-08-11T00:17:15Z",
-      "warrantyEnd": "2030-02-11T13:34:12Z"
-    },
-    {
-      "assetTag": "UG682154",
-      "type": "Desktop",
-      "mac": "3A-E4-50-5D-8B-0F",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "59054339",
-      "purchaseDate": "2017-03-19T03:44:57Z",
-      "warrantyStart": "2012-09-04T14:20:32Z",
-      "warrantyEnd": "2026-05-30T04:50:44Z"
-    }
-  ]
-}, {
-  "id": "6f6aa0d5-8044-4b70-a4f8-cab6984f8639",
-  "firstName": "Hanan",
-  "lastName": "Burgoyne",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG111158",
-      "type": "Laptop",
-      "mac": "18-F1-84-93-D3-AE",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "91061802",
-      "purchaseDate": "2019-01-11T22:37:59Z",
-      "warrantyStart": "2018-10-20T15:38:23Z",
-      "warrantyEnd": "2025-06-17T21:53:19Z"
-    },
-    {
-      "assetTag": "UG868838",
-      "type": "Desktop",
-      "mac": "AD-8A-75-6D-E0-88",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "15464371",
-      "purchaseDate": "2012-06-18T11:15:59Z",
-      "warrantyStart": "2018-03-02T20:50:41Z",
-      "warrantyEnd": "2030-07-11T08:18:35Z"
-    },
-    {
-      "assetTag": "UG752456",
-      "type": "Desktop",
-      "mac": "F9-3F-37-3C-32-BE",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "89015608",
-      "purchaseDate": "2019-10-10T20:05:59Z",
-      "warrantyStart": "2017-11-13T05:05:34Z",
-      "warrantyEnd": "2025-09-24T17:07:54Z"
-    }
-  ]
-}, {
-  "id": "b7a470f1-43a1-495b-b35b-058f41c0132e",
-  "firstName": "Gabi",
-  "lastName": "Suche",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG754771",
-      "type": "Laptop",
-      "mac": "5E-7B-95-0D-2E-27",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "57605640",
-      "purchaseDate": "2014-11-26T21:37:19Z",
-      "warrantyStart": "2013-06-06T01:46:27Z",
-      "warrantyEnd": "2028-08-12T03:00:05Z"
-    },
-    {
-      "assetTag": "UG465084",
-      "type": "Laptop",
-      "mac": "0F-FF-82-41-F9-E6",
+      "mac": "B0-08-98-FB-B5-44",
       "manufacturer": "HP",
       "model": "MiniBook",
-      "serialNumber": "89432817",
-      "purchaseDate": "2012-05-27T14:05:15Z",
-      "warrantyStart": "2021-05-29T20:15:25Z",
-      "warrantyEnd": "2029-08-27T20:48:15Z"
+      "serialNumber": "80326527",
+      "purchaseDate": "2012-12-14T23:30:33Z",
+      "warrantyStart": "2013-06-23T01:53:53Z",
+      "warrantyEnd": "2026-11-10T02:33:46Z",
+      "notes": null
     }
   ]
 }, {
-  "id": "b448f656-1328-4863-af7d-9bdb8ac5c158",
-  "firstName": "Myrtia",
-  "lastName": "Putten",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG149419",
-      "type": "Desktop",
-      "mac": "CE-88-8C-C4-41-DF",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "16685806",
-      "purchaseDate": "2021-08-19T18:32:06Z",
-      "warrantyStart": "2013-05-02T10:06:28Z",
-      "warrantyEnd": "2025-07-06T20:24:38Z"
-    },
-    {
-      "assetTag": "UG625486",
-      "type": "Desktop",
-      "mac": "27-7C-12-CA-10-47",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "06352814",
-      "purchaseDate": "2019-07-02T12:14:45Z",
-      "warrantyStart": "2022-06-02T15:01:55Z",
-      "warrantyEnd": "2026-01-22T19:46:36Z"
-    },
-    {
-      "assetTag": "UG763309",
-      "type": "Desktop",
-      "mac": "8E-11-19-9C-27-0A",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "05070635",
-      "purchaseDate": "2017-03-06T22:27:21Z",
-      "warrantyStart": "2020-04-21T10:37:30Z",
-      "warrantyEnd": "2024-11-06T10:19:47Z"
-    }
-  ]
-}, {
-  "id": "9bd8574d-4004-460b-bccc-7f0e4ca92af4",
-  "firstName": "Felicio",
-  "lastName": "Gerckens",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG496994",
-      "type": "Laptop",
-      "mac": "68-F3-3D-22-05-DD",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "90164024",
-      "purchaseDate": "2011-07-24T20:15:11Z",
-      "warrantyStart": "2014-05-11T10:50:47Z",
-      "warrantyEnd": "2027-10-07T04:39:04Z"
-    }
-  ]
-}, {
-  "id": "b5a108e1-1a90-4a9c-be9e-13c4ccfcd900",
-  "firstName": "Quint",
-  "lastName": "Guitt",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG663650",
-      "type": "Laptop",
-      "mac": "84-34-C7-7E-AF-1A",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "38902742",
-      "purchaseDate": "2021-09-26T02:31:11Z",
-      "warrantyStart": "2018-02-13T15:04:03Z",
-      "warrantyEnd": "2026-04-10T18:42:16Z"
-    }
-  ]
-}, {
-  "id": "55444f3c-9c87-4ce3-a875-33609e07dc62",
-  "firstName": "Heall",
-  "lastName": "Guerrin",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG482121",
-      "type": "Desktop",
-      "mac": "65-88-A6-B7-91-4D",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "74706039",
-      "purchaseDate": "2015-05-06T03:33:53Z",
-      "warrantyStart": "2018-10-15T22:14:30Z",
-      "warrantyEnd": "2026-05-01T12:21:07Z"
-    },
-    {
-      "assetTag": "UG992552",
-      "type": "Desktop",
-      "mac": "54-0A-51-5C-DA-74",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "95298481",
-      "purchaseDate": "2020-04-02T05:02:27Z",
-      "warrantyStart": "2021-10-18T16:27:58Z",
-      "warrantyEnd": "2026-11-04T09:52:46Z"
-    },
-    {
-      "assetTag": "UG947628",
-      "type": "Desktop",
-      "mac": "F9-15-12-F2-E6-66",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "88360751",
-      "purchaseDate": "2017-03-23T03:51:28Z",
-      "warrantyStart": "2018-07-03T11:55:16Z",
-      "warrantyEnd": "2024-02-04T12:03:39Z"
-    }
-  ]
-}, {
-  "id": "b6bc1dee-77e1-4c9f-bf90-33357e47575a",
-  "firstName": "Heall",
-  "lastName": "Gater",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG655557",
-      "type": "Laptop",
-      "mac": "8F-D5-55-CA-28-E5",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "85238788",
-      "purchaseDate": "2014-12-05T14:27:47Z",
-      "warrantyStart": "2015-11-17T03:29:35Z",
-      "warrantyEnd": "2029-07-17T18:04:25Z"
-    },
-    {
-      "assetTag": "UG254849",
-      "type": "Laptop",
-      "mac": "25-65-39-C8-6C-E0",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "93105996",
-      "purchaseDate": "2021-05-12T00:05:00Z",
-      "warrantyStart": "2011-09-02T11:36:07Z",
-      "warrantyEnd": "2024-04-27T14:39:42Z"
-    }
-  ]
-}, {
-  "id": "3e44fd3d-86eb-4dbf-8713-dab7efd292a4",
-  "firstName": "Gillie",
-  "lastName": "Van Hove",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG460279",
-      "type": "Laptop",
-      "mac": "13-8A-B0-39-D6-DF",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "31391247",
-      "purchaseDate": "2020-06-15T21:28:29Z",
-      "warrantyStart": "2016-05-18T06:31:29Z",
-      "warrantyEnd": "2024-10-05T09:20:22Z"
-    },
-    {
-      "assetTag": "UG068019",
-      "type": "Laptop",
-      "mac": "65-75-DE-6B-45-73",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "82535986",
-      "purchaseDate": "2015-09-05T12:05:08Z",
-      "warrantyStart": "2019-06-21T05:11:55Z",
-      "warrantyEnd": "2024-03-29T07:47:10Z"
-    },
-    {
-      "assetTag": "UG813104",
-      "type": "Laptop",
-      "mac": "3B-71-F6-02-3F-72",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "61220119",
-      "purchaseDate": "2021-08-27T20:09:26Z",
-      "warrantyStart": "2012-12-03T04:13:32Z",
-      "warrantyEnd": "2028-04-29T03:21:34Z"
-    }
-  ]
-}, {
-  "id": "25c2421c-7814-4f4d-babe-33e5949de647",
-  "firstName": "Jodie",
-  "lastName": "Woodruffe",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG997480",
-      "type": "Desktop",
-      "mac": "E2-F5-57-C2-30-92",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "99180225",
-      "purchaseDate": "2018-03-02T01:42:17Z",
-      "warrantyStart": "2013-09-01T08:10:01Z",
-      "warrantyEnd": "2030-09-07T11:50:14Z"
-    },
-    {
-      "assetTag": "UG181722",
-      "type": "Desktop",
-      "mac": "AE-01-8E-B2-69-69",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "69319604",
-      "purchaseDate": "2021-07-24T17:37:09Z",
-      "warrantyStart": "2020-01-13T05:50:23Z",
-      "warrantyEnd": "2024-10-17T05:46:10Z"
-    }
-  ]
-}, {
-  "id": "18b37ba0-0345-4e36-83c9-a13d2a64eea6",
-  "firstName": "Reynard",
-  "lastName": "Byrcher",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG614135",
-      "type": "Desktop",
-      "mac": "2E-69-75-19-91-CF",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "03561221",
-      "purchaseDate": "2012-01-26T06:46:31Z",
-      "warrantyStart": "2013-06-01T10:10:04Z",
-      "warrantyEnd": "2028-02-07T12:35:28Z"
-    }
-  ]
-}, {
-  "id": "3e65df78-9a3f-4f12-8461-9cb8b8b683dd",
-  "firstName": "Laraine",
-  "lastName": "McAulay",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG871856",
-      "type": "Laptop",
-      "mac": "5A-EE-C5-EC-8F-FA",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "51080075",
-      "purchaseDate": "2019-09-02T04:14:49Z",
-      "warrantyStart": "2017-07-01T16:18:49Z",
-      "warrantyEnd": "2026-01-30T13:51:48Z"
-    },
-    {
-      "assetTag": "UG139159",
-      "type": "Desktop",
-      "mac": "95-31-01-95-49-D1",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "85744946",
-      "purchaseDate": "2018-07-05T01:01:20Z",
-      "warrantyStart": "2021-09-28T16:12:36Z",
-      "warrantyEnd": "2025-12-11T20:30:20Z"
-    },
-    {
-      "assetTag": "UG888269",
-      "type": "Desktop",
-      "mac": "DD-B4-07-94-91-D9",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "39118113",
-      "purchaseDate": "2019-01-12T10:16:33Z",
-      "warrantyStart": "2017-12-02T20:34:50Z",
-      "warrantyEnd": "2022-10-08T05:43:43Z"
-    }
-  ]
-}, {
-  "id": "937be58c-a58a-4911-95de-75479228a753",
-  "firstName": "Merwin",
-  "lastName": "Groome",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG571251",
-      "type": "Desktop",
-      "mac": "45-E9-C0-F4-30-99",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "40906056",
-      "purchaseDate": "2012-09-25T16:14:41Z",
-      "warrantyStart": "2013-02-20T09:09:25Z",
-      "warrantyEnd": "2022-10-12T02:24:53Z"
-    },
-    {
-      "assetTag": "UG136322",
-      "type": "Laptop",
-      "mac": "93-43-17-A5-6B-86",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "74217066",
-      "purchaseDate": "2014-12-12T00:36:43Z",
-      "warrantyStart": "2016-01-29T08:19:45Z",
-      "warrantyEnd": "2028-01-11T21:28:02Z"
-    },
-    {
-      "assetTag": "UG191476",
-      "type": "Laptop",
-      "mac": "0D-69-80-F3-93-EE",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "18022846",
-      "purchaseDate": "2022-08-23T11:43:58Z",
-      "warrantyStart": "2015-01-28T09:53:05Z",
-      "warrantyEnd": "2023-08-13T03:14:38Z"
-    }
-  ]
-}, {
-  "id": "3c596853-4cf1-4a4a-9f82-66f3ec38a67a",
-  "firstName": "Germain",
-  "lastName": "Duck",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG299670",
-      "type": "Laptop",
-      "mac": "6F-F6-7F-5D-DA-DF",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "71989104",
-      "purchaseDate": "2017-03-21T01:47:50Z",
-      "warrantyStart": "2014-04-29T14:34:11Z",
-      "warrantyEnd": "2029-11-05T21:33:02Z"
-    }
-  ]
-}, {
-  "id": "619f0cf6-0624-40e4-b676-18f71affc4e7",
-  "firstName": "Saunderson",
-  "lastName": "Doldon",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG221427",
-      "type": "Desktop",
-      "mac": "17-05-D2-2A-DF-38",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "65103443",
-      "purchaseDate": "2021-11-07T00:07:52Z",
-      "warrantyStart": "2020-12-24T19:05:07Z",
-      "warrantyEnd": "2026-06-05T09:15:52Z"
-    },
-    {
-      "assetTag": "UG056787",
-      "type": "Laptop",
-      "mac": "50-FE-EC-F9-C9-0A",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "18498247",
-      "purchaseDate": "2020-05-13T20:35:19Z",
-      "warrantyStart": "2016-11-03T13:14:28Z",
-      "warrantyEnd": "2025-03-27T22:49:09Z"
-    },
-    {
-      "assetTag": "UG930425",
-      "type": "Desktop",
-      "mac": "21-1F-3C-9A-14-D6",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "21077289",
-      "purchaseDate": "2013-10-16T22:12:11Z",
-      "warrantyStart": "2011-04-29T03:42:16Z",
-      "warrantyEnd": "2025-09-19T21:52:08Z"
-    }
-  ]
-}, {
-  "id": "37e6072e-caa2-4bae-9475-b7e52bbebbd9",
-  "firstName": "Ellary",
-  "lastName": "Brimblecombe",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG228080",
-      "type": "Laptop",
-      "mac": "21-63-75-EE-D2-59",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "49866151",
-      "purchaseDate": "2012-03-24T03:03:06Z",
-      "warrantyStart": "2010-09-13T01:10:07Z",
-      "warrantyEnd": "2022-10-04T01:21:43Z"
-    },
-    {
-      "assetTag": "UG414798",
-      "type": "Desktop",
-      "mac": "57-83-B9-EB-DA-4B",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "71108764",
-      "purchaseDate": "2020-04-13T11:25:59Z",
-      "warrantyStart": "2021-04-28T07:04:04Z",
-      "warrantyEnd": "2028-12-07T22:50:44Z"
-    }
-  ]
-}, {
-  "id": "3c2e53f6-fefb-4312-8a7d-c0bcd64c7b94",
-  "firstName": "Thayne",
-  "lastName": "Garret",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG587721",
-      "type": "Desktop",
-      "mac": "6E-E2-09-3F-19-AE",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "23316176",
-      "purchaseDate": "2012-01-21T01:13:02Z",
-      "warrantyStart": "2019-07-03T16:42:18Z",
-      "warrantyEnd": "2024-08-07T04:08:01Z"
-    }
-  ]
-}, {
-  "id": "fc1f53cd-2627-4972-bf59-d764e5cfa8fd",
-  "firstName": "Artair",
-  "lastName": "Vink",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG038444",
-      "type": "Laptop",
-      "mac": "88-48-62-C0-A7-5F",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "30999366",
-      "purchaseDate": "2013-10-12T04:44:19Z",
-      "warrantyStart": "2016-06-11T04:45:42Z",
-      "warrantyEnd": "2029-03-03T22:37:11Z"
-    },
-    {
-      "assetTag": "UG329713",
-      "type": "Laptop",
-      "mac": "BD-DE-8D-37-00-B9",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "47142685",
-      "purchaseDate": "2017-12-21T18:48:05Z",
-      "warrantyStart": "2022-04-30T20:26:13Z",
-      "warrantyEnd": "2029-04-28T07:35:25Z"
-    },
-    {
-      "assetTag": "UG036532",
-      "type": "Laptop",
-      "mac": "65-A5-F4-74-9B-B3",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "40229220",
-      "purchaseDate": "2013-05-27T18:24:11Z",
-      "warrantyStart": "2016-09-27T12:02:12Z",
-      "warrantyEnd": "2029-07-28T14:17:50Z"
-    }
-  ]
-}, {
-  "id": "07f989fb-2469-4de6-ba04-b6a08cf13162",
-  "firstName": "Gwenora",
-  "lastName": "Zottoli",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG915262",
-      "type": "Desktop",
-      "mac": "D6-D6-AE-FF-6D-05",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "33826649",
-      "purchaseDate": "2015-11-21T04:03:46Z",
-      "warrantyStart": "2018-02-01T02:36:32Z",
-      "warrantyEnd": "2023-11-04T16:40:53Z"
-    }
-  ]
-}, {
-  "id": "e3cd59f4-0f7f-4cbb-b9fb-a887039a215a",
-  "firstName": "Caryl",
-  "lastName": "Fleischer",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG265141",
-      "type": "Desktop",
-      "mac": "63-88-7D-81-15-1E",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "62453066",
-      "purchaseDate": "2019-04-08T22:46:28Z",
-      "warrantyStart": "2012-08-26T17:41:07Z",
-      "warrantyEnd": "2027-07-25T16:33:29Z"
-    },
-    {
-      "assetTag": "UG325696",
-      "type": "Laptop",
-      "mac": "C4-D3-25-3B-51-CF",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "68714208",
-      "purchaseDate": "2013-03-21T12:00:56Z",
-      "warrantyStart": "2017-05-30T16:45:16Z",
-      "warrantyEnd": "2026-12-06T05:03:30Z"
-    }
-  ]
-}, {
-  "id": "d23f1d81-75ec-4461-9486-9a4e8d26b614",
-  "firstName": "Teresa",
-  "lastName": "Jobbins",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG115330",
-      "type": "Laptop",
-      "mac": "9D-61-BF-E5-39-EF",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "56241304",
-      "purchaseDate": "2021-09-04T21:21:43Z",
-      "warrantyStart": "2022-08-17T05:42:51Z",
-      "warrantyEnd": "2027-10-11T16:13:07Z"
-    },
-    {
-      "assetTag": "UG183390",
-      "type": "Desktop",
-      "mac": "AE-4D-1D-84-C1-89",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "09586746",
-      "purchaseDate": "2018-11-13T03:27:54Z",
-      "warrantyStart": "2015-05-14T14:53:08Z",
-      "warrantyEnd": "2029-11-18T04:53:20Z"
-    }
-  ]
-}, {
-  "id": "660aa2c3-1231-4359-8924-613154e0e3ce",
-  "firstName": "Rudyard",
-  "lastName": "Hindmoor",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG233499",
-      "type": "Desktop",
-      "mac": "C9-4A-CE-83-79-15",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "11847686",
-      "purchaseDate": "2013-12-06T04:56:28Z",
-      "warrantyStart": "2013-03-17T02:45:25Z",
-      "warrantyEnd": "2024-05-08T03:42:31Z"
-    },
-    {
-      "assetTag": "UG163526",
-      "type": "Laptop",
-      "mac": "24-C0-8B-9E-4E-D5",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "42588775",
-      "purchaseDate": "2016-09-03T15:20:04Z",
-      "warrantyStart": "2012-08-26T02:37:25Z",
-      "warrantyEnd": "2024-08-15T22:31:06Z"
-    }
-  ]
-}, {
-  "id": "a642a341-493d-4a0e-a797-3a75873f7619",
-  "firstName": "Perceval",
-  "lastName": "Fearby",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG604867",
-      "type": "Desktop",
-      "mac": "CF-02-AF-6E-45-A5",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "98234450",
-      "purchaseDate": "2012-05-24T05:36:11Z",
-      "warrantyStart": "2017-12-10T09:59:28Z",
-      "warrantyEnd": "2028-11-22T18:17:59Z"
-    },
-    {
-      "assetTag": "UG866204",
-      "type": "Desktop",
-      "mac": "FC-7E-CF-BF-BE-26",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "19940139",
-      "purchaseDate": "2015-09-18T08:56:28Z",
-      "warrantyStart": "2016-06-08T22:16:18Z",
-      "warrantyEnd": "2027-09-16T03:41:47Z"
-    },
-    {
-      "assetTag": "UG559399",
-      "type": "Desktop",
-      "mac": "29-A5-CC-23-9F-E3",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "25662471",
-      "purchaseDate": "2013-01-26T02:56:29Z",
-      "warrantyStart": "2018-08-10T15:10:24Z",
-      "warrantyEnd": "2030-03-09T18:13:43Z"
-    }
-  ]
-}, {
-  "id": "2374bc75-14ae-4624-9260-046a990cd1a4",
-  "firstName": "Mirabelle",
-  "lastName": "Waywell",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG813962",
-      "type": "Desktop",
-      "mac": "3B-06-B9-B2-46-B0",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "57527653",
-      "purchaseDate": "2019-01-17T18:01:58Z",
-      "warrantyStart": "2012-01-19T13:52:09Z",
-      "warrantyEnd": "2029-04-14T23:08:22Z"
-    }
-  ]
-}, {
-  "id": "e9756430-2af4-4ba4-85e8-4aa6c496372d",
-  "firstName": "Adrien",
-  "lastName": "Georgeou",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG112501",
-      "type": "Laptop",
-      "mac": "01-52-C4-09-56-B4",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "30703061",
-      "purchaseDate": "2020-03-19T09:58:27Z",
-      "warrantyStart": "2013-01-19T21:16:32Z",
-      "warrantyEnd": "2030-05-05T02:59:32Z"
-    },
-    {
-      "assetTag": "UG435791",
-      "type": "Desktop",
-      "mac": "FD-9D-9B-16-31-75",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "55897293",
-      "purchaseDate": "2018-12-18T20:59:12Z",
-      "warrantyStart": "2016-09-29T08:09:50Z",
-      "warrantyEnd": "2024-02-05T17:32:43Z"
-    },
-    {
-      "assetTag": "UG810179",
-      "type": "Laptop",
-      "mac": "4F-9A-92-2D-9A-83",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "15641571",
-      "purchaseDate": "2018-01-08T17:26:40Z",
-      "warrantyStart": "2014-04-14T16:26:05Z",
-      "warrantyEnd": "2025-11-29T04:31:57Z"
-    }
-  ]
-}, {
-  "id": "2dfa7892-1b34-4b3c-be16-cef2429d7987",
-  "firstName": "Elihu",
-  "lastName": "Sherburn",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG548713",
-      "type": "Laptop",
-      "mac": "8E-DF-CB-91-EA-E7",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "49060244",
-      "purchaseDate": "2021-12-16T05:25:16Z",
-      "warrantyStart": "2012-06-23T01:03:21Z",
-      "warrantyEnd": "2027-04-28T09:35:44Z"
-    },
-    {
-      "assetTag": "UG593631",
-      "type": "Desktop",
-      "mac": "D3-41-69-B8-1C-F3",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "07226185",
-      "purchaseDate": "2011-03-21T19:58:45Z",
-      "warrantyStart": "2013-03-30T20:04:37Z",
-      "warrantyEnd": "2030-06-08T14:38:00Z"
-    },
-    {
-      "assetTag": "UG120167",
-      "type": "Laptop",
-      "mac": "18-CF-0A-40-50-37",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "06703502",
-      "purchaseDate": "2015-07-11T16:56:42Z",
-      "warrantyStart": "2021-02-26T12:00:21Z",
-      "warrantyEnd": "2030-08-28T22:06:18Z"
-    }
-  ]
-}, {
-  "id": "8e7072ca-2fb2-4181-bcf6-a78332c8b7f6",
-  "firstName": "Brit",
-  "lastName": "Brocklesby",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG837968",
-      "type": "Laptop",
-      "mac": "7F-D7-93-5B-3A-6B",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "66129777",
-      "purchaseDate": "2013-04-27T08:53:06Z",
-      "warrantyStart": "2016-05-08T18:47:06Z",
-      "warrantyEnd": "2029-05-02T07:31:51Z"
-    }
-  ]
-}, {
-  "id": "a4430555-3113-4e1d-ae18-dc54379232ad",
-  "firstName": "Celisse",
-  "lastName": "Kenchington",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG225052",
-      "type": "Laptop",
-      "mac": "D9-D3-12-1F-95-C8",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "60627361",
-      "purchaseDate": "2021-08-22T18:09:06Z",
-      "warrantyStart": "2014-03-15T08:08:21Z",
-      "warrantyEnd": "2024-11-02T02:30:51Z"
-    },
-    {
-      "assetTag": "UG901004",
-      "type": "Laptop",
-      "mac": "8F-3D-1C-5C-11-79",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "48586043",
-      "purchaseDate": "2012-05-06T05:01:43Z",
-      "warrantyStart": "2014-04-25T16:33:00Z",
-      "warrantyEnd": "2023-03-19T11:20:40Z"
-    },
-    {
-      "assetTag": "UG754031",
-      "type": "Laptop",
-      "mac": "22-A6-61-3D-2A-3C",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "93533677",
-      "purchaseDate": "2016-07-07T02:45:44Z",
-      "warrantyStart": "2020-12-09T14:40:46Z",
-      "warrantyEnd": "2028-10-04T12:31:12Z"
-    }
-  ]
-}, {
-  "id": "7974e6d3-def5-44f7-8390-a69fc6b7cbf7",
-  "firstName": "Nara",
-  "lastName": "Rylance",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG587805",
-      "type": "Desktop",
-      "mac": "54-7C-A3-96-48-AA",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "15170483",
-      "purchaseDate": "2011-06-27T00:13:46Z",
-      "warrantyStart": "2020-12-09T21:11:29Z",
-      "warrantyEnd": "2022-10-30T23:21:07Z"
-    }
-  ]
-}, {
-  "id": "569f515e-d128-4a81-8085-1ee71ec18173",
-  "firstName": "Celina",
-  "lastName": "Briars",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG255980",
-      "type": "Laptop",
-      "mac": "33-D5-7C-1E-4B-5C",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "50870954",
-      "purchaseDate": "2018-04-09T18:14:39Z",
-      "warrantyStart": "2015-01-14T19:42:53Z",
-      "warrantyEnd": "2027-09-21T03:53:06Z"
-    },
-    {
-      "assetTag": "UG194467",
-      "type": "Laptop",
-      "mac": "83-00-C1-58-C7-16",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "10430221",
-      "purchaseDate": "2015-05-20T04:47:53Z",
-      "warrantyStart": "2018-03-14T09:11:32Z",
-      "warrantyEnd": "2028-08-31T03:17:30Z"
-    },
-    {
-      "assetTag": "UG915020",
-      "type": "Laptop",
-      "mac": "60-15-7F-3A-28-D8",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "57751639",
-      "purchaseDate": "2014-06-01T21:33:40Z",
-      "warrantyStart": "2022-06-23T18:24:26Z",
-      "warrantyEnd": "2028-08-06T03:59:38Z"
-    }
-  ]
-}, {
-  "id": "a5d97ce6-a455-448a-a383-95c7bfcd445b",
-  "firstName": "Somerset",
-  "lastName": "Zanelli",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG091739",
-      "type": "Laptop",
-      "mac": "F3-2B-A9-F5-94-DF",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "81927147",
-      "purchaseDate": "2018-12-21T11:48:15Z",
-      "warrantyStart": "2019-07-02T06:46:21Z",
-      "warrantyEnd": "2024-04-28T22:10:38Z"
-    }
-  ]
-}, {
-  "id": "bce4609d-6d7d-44e8-a267-97cb4081a653",
-  "firstName": "Sherill",
-  "lastName": "Antognetti",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG754678",
-      "type": "Laptop",
-      "mac": "DB-29-9C-9C-9A-0B",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "52476192",
-      "purchaseDate": "2018-10-05T09:31:06Z",
-      "warrantyStart": "2015-10-26T22:20:58Z",
-      "warrantyEnd": "2026-06-16T14:55:15Z"
-    },
-    {
-      "assetTag": "UG845919",
-      "type": "Desktop",
-      "mac": "19-7D-4A-54-F6-19",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "14047135",
-      "purchaseDate": "2019-06-07T13:00:52Z",
-      "warrantyStart": "2019-03-14T12:47:01Z",
-      "warrantyEnd": "2026-03-03T20:51:44Z"
-    },
-    {
-      "assetTag": "UG483024",
-      "type": "Laptop",
-      "mac": "BF-5E-44-09-91-E6",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "92510649",
-      "purchaseDate": "2013-06-23T18:34:20Z",
-      "warrantyStart": "2016-01-10T03:21:43Z",
-      "warrantyEnd": "2026-01-30T16:43:38Z"
-    }
-  ]
-}, {
-  "id": "5c481780-a318-45a1-b8dc-b77a503aaf9c",
-  "firstName": "Nevile",
-  "lastName": "Warlton",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG627650",
-      "type": "Laptop",
-      "mac": "2F-60-27-4C-7B-AF",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "62283272",
-      "purchaseDate": "2018-12-18T20:06:39Z",
-      "warrantyStart": "2014-09-20T07:31:03Z",
-      "warrantyEnd": "2030-07-03T02:43:24Z"
-    }
-  ]
-}, {
-  "id": "0c250a02-4329-4850-8ee0-e8955c41cd33",
-  "firstName": "Gilemette",
-  "lastName": "Kennet",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG026228",
-      "type": "Laptop",
-      "mac": "1E-5B-B8-3C-75-01",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "90930046",
-      "purchaseDate": "2021-08-02T22:46:28Z",
-      "warrantyStart": "2022-04-04T14:34:55Z",
-      "warrantyEnd": "2029-06-26T21:34:37Z"
-    },
-    {
-      "assetTag": "UG691069",
-      "type": "Laptop",
-      "mac": "BA-98-47-F6-C0-01",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "17365605",
-      "purchaseDate": "2021-02-23T01:54:28Z",
-      "warrantyStart": "2016-06-03T15:52:47Z",
-      "warrantyEnd": "2030-05-26T04:47:12Z"
-    },
-    {
-      "assetTag": "UG892284",
-      "type": "Desktop",
-      "mac": "AA-11-9B-67-A6-B6",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "58841623",
-      "purchaseDate": "2015-09-10T05:10:46Z",
-      "warrantyStart": "2022-09-01T16:09:20Z",
-      "warrantyEnd": "2023-02-23T00:42:42Z"
-    }
-  ]
-}, {
-  "id": "4b73b007-f266-4098-bc82-efa87fe83bbe",
-  "firstName": "Murielle",
-  "lastName": "Isacsson",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG716286",
-      "type": "Laptop",
-      "mac": "A7-EC-B9-92-87-32",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "52485668",
-      "purchaseDate": "2016-12-09T14:45:05Z",
-      "warrantyStart": "2016-11-20T08:03:42Z",
-      "warrantyEnd": "2024-08-28T19:49:04Z"
-    },
-    {
-      "assetTag": "UG441253",
-      "type": "Desktop",
-      "mac": "77-EC-85-16-03-02",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "39484806",
-      "purchaseDate": "2020-09-07T21:29:34Z",
-      "warrantyStart": "2012-05-28T02:30:41Z",
-      "warrantyEnd": "2025-06-09T21:55:20Z"
-    },
-    {
-      "assetTag": "UG568385",
-      "type": "Laptop",
-      "mac": "0F-6C-23-A4-5D-CD",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "82561073",
-      "purchaseDate": "2017-07-20T15:37:44Z",
-      "warrantyStart": "2022-09-04T07:21:19Z",
-      "warrantyEnd": "2028-02-02T21:25:31Z"
-    }
-  ]
-}, {
-  "id": "1baa10a6-4681-4930-9f4f-7fb306672d00",
-  "firstName": "Harriet",
-  "lastName": "Buttfield",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG650110",
-      "type": "Laptop",
-      "mac": "71-31-DF-D4-D3-F7",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "57558676",
-      "purchaseDate": "2014-01-19T22:34:19Z",
-      "warrantyStart": "2022-07-31T20:15:22Z",
-      "warrantyEnd": "2026-06-07T23:07:27Z"
-    }
-  ]
-}, {
-  "id": "c26a6587-fe30-483d-9ccc-951f23763440",
-  "firstName": "Gretel",
-  "lastName": "Vuittet",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG003212",
-      "type": "Laptop",
-      "mac": "B4-3E-25-95-88-2C",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "57752521",
-      "purchaseDate": "2018-01-01T13:16:47Z",
-      "warrantyStart": "2015-03-24T16:24:17Z",
-      "warrantyEnd": "2022-09-13T22:39:35Z"
-    },
-    {
-      "assetTag": "UG737604",
-      "type": "Laptop",
-      "mac": "77-E7-40-E7-33-9F",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "25085218",
-      "purchaseDate": "2014-05-25T15:20:17Z",
-      "warrantyStart": "2016-10-15T01:21:55Z",
-      "warrantyEnd": "2029-03-29T09:27:19Z"
-    },
-    {
-      "assetTag": "UG417087",
-      "type": "Laptop",
-      "mac": "57-12-EA-3E-F0-87",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "15722550",
-      "purchaseDate": "2015-01-13T20:04:51Z",
-      "warrantyStart": "2015-05-18T12:01:54Z",
-      "warrantyEnd": "2027-01-06T13:30:12Z"
-    }
-  ]
-}, {
-  "id": "75a44a63-8c1e-4ac2-bcb7-ac82a8dceecd",
-  "firstName": "Gretna",
-  "lastName": "Truscott",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG669382",
-      "type": "Laptop",
-      "mac": "73-30-ED-20-97-58",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "63015382",
-      "purchaseDate": "2022-05-19T04:31:38Z",
-      "warrantyStart": "2017-09-24T12:07:16Z",
-      "warrantyEnd": "2028-09-08T08:49:37Z"
-    }
-  ]
-}, {
-  "id": "ce9860dd-9b95-4905-9cbf-7f9fcd72967d",
-  "firstName": "Clementine",
-  "lastName": "Elvins",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG939883",
-      "type": "Laptop",
-      "mac": "A2-62-FE-4E-B2-9B",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "85532136",
-      "purchaseDate": "2021-03-11T21:31:09Z",
-      "warrantyStart": "2017-08-12T14:35:19Z",
-      "warrantyEnd": "2026-05-03T08:14:43Z"
-    },
-    {
-      "assetTag": "UG996002",
-      "type": "Laptop",
-      "mac": "8C-A5-C4-E7-27-1C",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "37616490",
-      "purchaseDate": "2018-03-19T01:02:20Z",
-      "warrantyStart": "2018-05-23T10:10:01Z",
-      "warrantyEnd": "2026-03-31T21:09:56Z"
-    },
-    {
-      "assetTag": "UG293773",
-      "type": "Desktop",
-      "mac": "7D-92-A7-EB-85-8A",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "81647408",
-      "purchaseDate": "2012-01-01T19:03:39Z",
-      "warrantyStart": "2018-10-23T14:24:43Z",
-      "warrantyEnd": "2029-09-13T19:12:28Z"
-    }
-  ]
-}, {
-  "id": "547d416b-c27e-463e-952d-3e2d823eb924",
-  "firstName": "Yulma",
-  "lastName": "Skingle",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG308504",
-      "type": "Laptop",
-      "mac": "E3-09-C6-63-B1-6F",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "24907237",
-      "purchaseDate": "2014-11-01T19:45:14Z",
-      "warrantyStart": "2010-11-04T08:14:28Z",
-      "warrantyEnd": "2026-05-02T08:48:08Z"
-    }
-  ]
-}, {
-  "id": "7e2fe869-ffae-486e-83ff-ad8b35dd2801",
-  "firstName": "Clarence",
-  "lastName": "Bowlesworth",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG594251",
-      "type": "Desktop",
-      "mac": "42-F9-5F-5D-91-8D",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "89449403",
-      "purchaseDate": "2021-04-08T03:29:00Z",
-      "warrantyStart": "2021-01-16T07:14:05Z",
-      "warrantyEnd": "2030-01-25T00:54:13Z"
-    },
-    {
-      "assetTag": "UG013891",
-      "type": "Laptop",
-      "mac": "92-F6-A7-6D-21-1F",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "54950418",
-      "purchaseDate": "2018-02-17T03:42:49Z",
-      "warrantyStart": "2020-07-19T18:54:19Z",
-      "warrantyEnd": "2023-03-21T17:15:46Z"
-    },
-    {
-      "assetTag": "UG797701",
-      "type": "Laptop",
-      "mac": "E8-94-A8-F6-D0-78",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "33902292",
-      "purchaseDate": "2020-03-10T13:01:42Z",
-      "warrantyStart": "2021-02-06T12:56:07Z",
-      "warrantyEnd": "2023-09-11T15:07:14Z"
-    }
-  ]
-}, {
-  "id": "7b79fe77-6239-43c9-80ce-4d28b905c14b",
-  "firstName": "Ally",
-  "lastName": "Maudsley",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG777954",
-      "type": "Laptop",
-      "mac": "A0-B1-46-9C-7F-46",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "78027695",
-      "purchaseDate": "2016-03-24T20:57:42Z",
-      "warrantyStart": "2017-12-16T21:10:03Z",
-      "warrantyEnd": "2025-06-17T18:25:11Z"
-    },
-    {
-      "assetTag": "UG626625",
-      "type": "Laptop",
-      "mac": "93-C1-AE-6B-79-A6",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "36445459",
-      "purchaseDate": "2022-01-25T07:55:08Z",
-      "warrantyStart": "2022-04-09T06:06:00Z",
-      "warrantyEnd": "2025-04-25T06:52:27Z"
-    },
-    {
-      "assetTag": "UG953790",
-      "type": "Laptop",
-      "mac": "5B-4B-C4-D8-BD-79",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "88040432",
-      "purchaseDate": "2021-07-15T00:04:05Z",
-      "warrantyStart": "2014-07-24T04:06:42Z",
-      "warrantyEnd": "2030-01-13T21:31:28Z"
-    }
-  ]
-}, {
-  "id": "0bdc091e-f3d3-4f46-ac1c-c7787b380fb7",
-  "firstName": "Chryste",
-  "lastName": "Steanyng",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG481447",
-      "type": "Laptop",
-      "mac": "63-E7-8E-A7-F4-6F",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "93000306",
-      "purchaseDate": "2015-02-09T11:38:36Z",
-      "warrantyStart": "2015-01-26T02:41:26Z",
-      "warrantyEnd": "2027-06-17T11:35:38Z"
-    },
-    {
-      "assetTag": "UG860737",
-      "type": "Laptop",
-      "mac": "77-54-03-19-5A-53",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "95271837",
-      "purchaseDate": "2021-07-29T13:46:37Z",
-      "warrantyStart": "2017-04-25T21:57:49Z",
-      "warrantyEnd": "2029-09-05T05:18:16Z"
-    }
-  ]
-}, {
-  "id": "533c0d63-3fc8-42de-b43f-008a249321b0",
-  "firstName": "Elora",
-  "lastName": "Breese",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG580443",
-      "type": "Desktop",
-      "mac": "28-77-CE-81-03-71",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "01333533",
-      "purchaseDate": "2014-07-11T04:38:08Z",
-      "warrantyStart": "2011-07-25T20:52:05Z",
-      "warrantyEnd": "2024-08-16T09:32:21Z"
-    },
-    {
-      "assetTag": "UG526521",
-      "type": "Desktop",
-      "mac": "D6-DF-14-15-24-CD",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "20734614",
-      "purchaseDate": "2017-06-05T06:39:47Z",
-      "warrantyStart": "2022-03-27T06:35:50Z",
-      "warrantyEnd": "2025-11-06T16:55:45Z"
-    },
-    {
-      "assetTag": "UG594424",
-      "type": "Laptop",
-      "mac": "99-5A-4F-10-04-5E",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "52243895",
-      "purchaseDate": "2011-05-28T04:35:32Z",
-      "warrantyStart": "2016-12-05T16:05:42Z",
-      "warrantyEnd": "2026-10-17T03:48:26Z"
-    }
-  ]
-}, {
-  "id": "a8c0fdd7-4630-4def-b06f-0c6d985eaf04",
-  "firstName": "Shell",
-  "lastName": "Pynn",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG355059",
-      "type": "Desktop",
-      "mac": "11-F9-D4-59-9A-09",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "31150877",
-      "purchaseDate": "2021-09-28T12:54:25Z",
-      "warrantyStart": "2015-09-10T21:25:51Z",
-      "warrantyEnd": "2029-12-11T04:41:45Z"
-    },
-    {
-      "assetTag": "UG443408",
-      "type": "Laptop",
-      "mac": "3A-74-41-D9-5B-28",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "18416070",
-      "purchaseDate": "2021-08-06T17:19:39Z",
-      "warrantyStart": "2017-07-21T14:28:24Z",
-      "warrantyEnd": "2029-05-23T18:53:59Z"
-    }
-  ]
-}, {
-  "id": "cbf45ee2-79af-48c6-8732-9d13b3adcd87",
-  "firstName": "Madelle",
-  "lastName": "Parmeter",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG784908",
-      "type": "Desktop",
-      "mac": "3C-C4-D3-E6-AE-5E",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "86874728",
-      "purchaseDate": "2019-03-27T05:51:30Z",
-      "warrantyStart": "2016-01-06T10:36:40Z",
-      "warrantyEnd": "2029-08-06T01:29:08Z"
-    },
-    {
-      "assetTag": "UG355720",
-      "type": "Laptop",
-      "mac": "63-BA-AE-AE-8A-C0",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "95061701",
-      "purchaseDate": "2016-10-07T01:15:02Z",
-      "warrantyStart": "2018-12-31T16:42:12Z",
-      "warrantyEnd": "2023-04-27T14:24:06Z"
-    },
-    {
-      "assetTag": "UG971575",
-      "type": "Laptop",
-      "mac": "79-F9-D9-54-1B-43",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "42236063",
-      "purchaseDate": "2015-05-06T19:22:45Z",
-      "warrantyStart": "2014-06-03T02:36:08Z",
-      "warrantyEnd": "2026-03-27T21:07:36Z"
-    }
-  ]
-}, {
-  "id": "8d0a8763-bd9a-49dc-8f2e-e82023874d02",
-  "firstName": "Cassie",
-  "lastName": "Jenny",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG670106",
-      "type": "Laptop",
-      "mac": "93-EC-56-C5-55-81",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "96483402",
-      "purchaseDate": "2015-09-21T12:30:22Z",
-      "warrantyStart": "2014-03-07T09:33:41Z",
-      "warrantyEnd": "2029-07-21T07:54:27Z"
-    }
-  ]
-}, {
-  "id": "66b216d9-c868-4612-9e83-733fc6342622",
+  "id": "919e8a13-7a77-4c77-8e3a-e0174673111a",
   "firstName": "Angelia",
-  "lastName": "Cripwell",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG694837",
-      "type": "Laptop",
-      "mac": "46-4D-49-4C-A5-2C",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "53653884",
-      "purchaseDate": "2011-01-20T12:49:11Z",
-      "warrantyStart": "2020-12-13T22:36:33Z",
-      "warrantyEnd": "2022-12-12T07:46:56Z"
-    }
-  ]
-}, {
-  "id": "876070b2-bf5d-40a8-8d16-40f1a6eca576",
-  "firstName": "Sherwin",
-  "lastName": "Kun",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG885371",
-      "type": "Desktop",
-      "mac": "EC-F9-43-4B-58-26",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "95041305",
-      "purchaseDate": "2014-10-31T02:13:46Z",
-      "warrantyStart": "2014-01-20T03:08:14Z",
-      "warrantyEnd": "2028-11-20T12:40:45Z"
-    },
-    {
-      "assetTag": "UG750657",
-      "type": "Desktop",
-      "mac": "AA-63-56-DE-68-46",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "87659447",
-      "purchaseDate": "2020-09-21T23:47:03Z",
-      "warrantyStart": "2020-06-11T00:06:50Z",
-      "warrantyEnd": "2025-09-03T04:38:10Z"
-    }
-  ]
-}, {
-  "id": "7d8e9227-3a0f-4100-880f-37b743a2e635",
-  "firstName": "Alika",
-  "lastName": "Petters",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG698430",
-      "type": "Desktop",
-      "mac": "1D-1A-0F-5F-DE-44",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "71265744",
-      "purchaseDate": "2018-02-03T08:35:53Z",
-      "warrantyStart": "2022-05-16T14:07:39Z",
-      "warrantyEnd": "2029-03-28T02:23:52Z"
-    },
-    {
-      "assetTag": "UG458432",
-      "type": "Desktop",
-      "mac": "11-A9-8E-71-88-1C",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "68167815",
-      "purchaseDate": "2018-04-16T07:55:25Z",
-      "warrantyStart": "2016-12-03T06:22:16Z",
-      "warrantyEnd": "2030-02-03T10:48:31Z"
-    }
-  ]
-}, {
-  "id": "80866a6b-dc6a-47f2-aea0-9f959fdfe0e4",
-  "firstName": "Vikki",
-  "lastName": "Lipprose",
+  "lastName": "McVrone",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG991384",
+      "assetTag": "UG450588",
       "type": "Laptop",
-      "mac": "D9-E3-5F-AB-D8-C1",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "17788969",
-      "purchaseDate": "2016-11-07T14:58:23Z",
-      "warrantyStart": "2012-11-24T17:47:45Z",
-      "warrantyEnd": "2028-09-23T18:58:18Z"
-    }
-  ]
-}, {
-  "id": "805be51d-29ae-4b7d-849f-28c09a8b53ca",
-  "firstName": "Tracy",
-  "lastName": "Reilly",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG386642",
-      "type": "Laptop",
-      "mac": "BB-03-26-AB-A7-A6",
+      "mac": "9B-F6-19-C5-4B-E6",
       "manufacturer": "HP",
       "model": "ProBook",
-      "serialNumber": "67681153",
-      "purchaseDate": "2012-07-17T07:12:36Z",
-      "warrantyStart": "2017-12-21T07:48:16Z",
-      "warrantyEnd": "2027-04-14T14:30:00Z"
-    }
-  ]
-}, {
-  "id": "1727616b-3763-41c1-a4dc-c9eaaf4bb49a",
-  "firstName": "Pen",
-  "lastName": "Kalinsky",
-  "department": "LID",
-  "devices": [
+      "serialNumber": "62953067",
+      "purchaseDate": "2016-10-10T10:54:56Z",
+      "warrantyStart": "2014-03-15T16:11:09Z",
+      "warrantyEnd": "2028-01-12T16:20:16Z",
+      "notes": null
+    },
     {
-      "assetTag": "UG783156",
+      "assetTag": "UG425514",
       "type": "Laptop",
-      "mac": "A1-51-59-EC-B0-60",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "14706902",
-      "purchaseDate": "2014-03-27T18:52:54Z",
-      "warrantyStart": "2017-04-14T18:07:52Z",
-      "warrantyEnd": "2028-05-18T13:42:28Z"
-    },
-    {
-      "assetTag": "UG377320",
-      "type": "Desktop",
-      "mac": "AC-7A-B0-6C-0D-DD",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "31107782",
-      "purchaseDate": "2019-06-18T20:50:42Z",
-      "warrantyStart": "2013-09-11T12:57:36Z",
-      "warrantyEnd": "2026-01-12T06:57:39Z"
-    },
-    {
-      "assetTag": "UG217553",
-      "type": "Desktop",
-      "mac": "FB-B3-25-CE-BE-B4",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "08008639",
-      "purchaseDate": "2017-05-14T20:40:33Z",
-      "warrantyStart": "2014-01-01T13:54:52Z",
-      "warrantyEnd": "2028-07-10T15:19:47Z"
-    }
-  ]
-}, {
-  "id": "3424b61d-4402-44d3-b982-2bf55ef5cbf4",
-  "firstName": "Virgie",
-  "lastName": "Portwain",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG826909",
-      "type": "Desktop",
-      "mac": "1D-C2-15-8C-9D-CF",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "46846117",
-      "purchaseDate": "2016-05-13T10:56:08Z",
-      "warrantyStart": "2013-03-12T20:52:42Z",
-      "warrantyEnd": "2028-03-28T06:01:45Z"
-    }
-  ]
-}, {
-  "id": "97b3f1ec-ea6a-42be-8b03-abdbb222ae69",
-  "firstName": "Laina",
-  "lastName": "Boykett",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG138320",
-      "type": "Laptop",
-      "mac": "DD-83-97-29-F6-2A",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "85270090",
-      "purchaseDate": "2012-10-09T17:27:44Z",
-      "warrantyStart": "2015-06-15T19:41:19Z",
-      "warrantyEnd": "2025-07-24T05:27:16Z"
-    },
-    {
-      "assetTag": "UG042567",
-      "type": "Desktop",
-      "mac": "9C-5A-DD-98-F8-80",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "41849821",
-      "purchaseDate": "2019-01-15T22:38:59Z",
-      "warrantyStart": "2012-08-19T16:01:42Z",
-      "warrantyEnd": "2025-07-01T05:47:27Z"
-    },
-    {
-      "assetTag": "UG534414",
-      "type": "Desktop",
-      "mac": "B0-AE-83-DB-C9-FD",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "90079653",
-      "purchaseDate": "2011-08-10T10:14:41Z",
-      "warrantyStart": "2011-09-30T08:02:03Z",
-      "warrantyEnd": "2023-10-26T18:43:31Z"
-    }
-  ]
-}, {
-  "id": "31ac9478-1f1f-4739-9a74-e962292e7c88",
-  "firstName": "Cletis",
-  "lastName": "Cayzer",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG384652",
-      "type": "Laptop",
-      "mac": "C0-F5-60-37-DD-7B",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "49582705",
-      "purchaseDate": "2021-05-04T04:16:29Z",
-      "warrantyStart": "2020-07-07T05:30:37Z",
-      "warrantyEnd": "2030-04-20T03:24:14Z"
-    }
-  ]
-}, {
-  "id": "10378a53-d2b3-480a-af26-b4f76a98c09c",
-  "firstName": "Maurise",
-  "lastName": "MattiCCI",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG951451",
-      "type": "Desktop",
-      "mac": "99-24-50-0A-A3-69",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "89253194",
-      "purchaseDate": "2016-05-27T10:46:05Z",
-      "warrantyStart": "2012-05-28T00:40:36Z",
-      "warrantyEnd": "2028-02-26T12:37:24Z"
-    },
-    {
-      "assetTag": "UG564342",
-      "type": "Desktop",
-      "mac": "8F-AE-3B-6D-F2-E8",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "99757708",
-      "purchaseDate": "2019-08-04T00:47:36Z",
-      "warrantyStart": "2018-06-16T13:43:43Z",
-      "warrantyEnd": "2023-04-01T18:46:39Z"
-    },
-    {
-      "assetTag": "UG495847",
-      "type": "Desktop",
-      "mac": "A3-A5-B4-E9-B3-0C",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "81178938",
-      "purchaseDate": "2011-06-19T03:16:15Z",
-      "warrantyStart": "2020-06-29T16:37:00Z",
-      "warrantyEnd": "2030-08-02T08:14:44Z"
-    }
-  ]
-}, {
-  "id": "18fae49d-e7c8-41d1-9171-70c1c2397364",
-  "firstName": "Bradan",
-  "lastName": "Quainton",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG271306",
-      "type": "Desktop",
-      "mac": "43-BB-12-12-E8-0E",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "63639980",
-      "purchaseDate": "2019-12-07T11:25:51Z",
-      "warrantyStart": "2013-09-18T08:53:55Z",
-      "warrantyEnd": "2027-02-21T21:08:41Z"
-    },
-    {
-      "assetTag": "UG707265",
-      "type": "Laptop",
-      "mac": "17-28-F1-05-80-90",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "70255647",
-      "purchaseDate": "2013-02-11T01:48:50Z",
-      "warrantyStart": "2018-08-16T14:22:57Z",
-      "warrantyEnd": "2029-06-21T20:36:40Z"
-    },
-    {
-      "assetTag": "UG831042",
-      "type": "Desktop",
-      "mac": "CD-C7-9F-DC-E1-70",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "89557265",
-      "purchaseDate": "2021-06-15T03:13:01Z",
-      "warrantyStart": "2010-10-26T13:25:52Z",
-      "warrantyEnd": "2030-07-16T08:30:59Z"
-    }
-  ]
-}, {
-  "id": "48d5ca6e-e5fd-4f77-97cb-fd940f541dc5",
-  "firstName": "Humfrey",
-  "lastName": "Szymanek",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG943461",
-      "type": "Laptop",
-      "mac": "7D-46-02-67-05-54",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "82356877",
-      "purchaseDate": "2014-02-18T21:31:37Z",
-      "warrantyStart": "2015-03-29T20:45:12Z",
-      "warrantyEnd": "2027-05-26T14:01:46Z"
-    }
-  ]
-}, {
-  "id": "8eb8df5a-96d5-4baf-9b00-71df4ea45f67",
-  "firstName": "Ellswerth",
-  "lastName": "O' Mullane",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG983073",
-      "type": "Desktop",
-      "mac": "26-E1-9D-FC-31-28",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "16869278",
-      "purchaseDate": "2011-12-29T09:04:58Z",
-      "warrantyStart": "2019-04-05T17:53:45Z",
-      "warrantyEnd": "2023-03-29T14:00:08Z"
-    }
-  ]
-}, {
-  "id": "cb148508-310f-4714-b5d6-516cfa414611",
-  "firstName": "Amble",
-  "lastName": "Ghirardi",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG841293",
-      "type": "Desktop",
-      "mac": "B5-3E-D4-5C-D6-E9",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "33237199",
-      "purchaseDate": "2022-09-09T17:03:19Z",
-      "warrantyStart": "2014-08-16T08:25:39Z",
-      "warrantyEnd": "2024-10-29T18:51:39Z"
-    },
-    {
-      "assetTag": "UG260515",
-      "type": "Desktop",
-      "mac": "5A-0F-1F-0E-0B-23",
+      "mac": "C0-8B-43-4A-07-48",
       "manufacturer": "HP",
       "model": "EliteBook",
-      "serialNumber": "17792206",
-      "purchaseDate": "2016-07-16T23:15:58Z",
-      "warrantyStart": "2020-11-22T14:15:00Z",
-      "warrantyEnd": "2026-06-08T12:25:30Z"
-    },
-    {
-      "assetTag": "UG686803",
-      "type": "Laptop",
-      "mac": "BD-57-5B-5D-89-B6",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "61661678",
-      "purchaseDate": "2016-11-13T01:54:32Z",
-      "warrantyStart": "2015-02-26T08:49:44Z",
-      "warrantyEnd": "2025-03-10T07:57:54Z"
+      "serialNumber": "99604378",
+      "purchaseDate": "2018-05-26T14:27:10Z",
+      "warrantyStart": "2021-10-09T08:30:22Z",
+      "warrantyEnd": "2023-03-10T07:13:07Z",
+      "notes": "Control Bleeding in Abdominal Wall, Percutaneous Endoscopic Approach"
     }
   ]
 }, {
-  "id": "484483f0-1892-4073-8637-be7799fc15b0",
-  "firstName": "Percival",
-  "lastName": "Voyce",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG863944",
-      "type": "Laptop",
-      "mac": "4E-36-7F-47-60-C6",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "32490815",
-      "purchaseDate": "2015-03-15T16:38:33Z",
-      "warrantyStart": "2020-12-29T17:21:01Z",
-      "warrantyEnd": "2025-02-20T03:49:08Z"
-    },
-    {
-      "assetTag": "UG712686",
-      "type": "Laptop",
-      "mac": "08-DF-98-89-4D-D7",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "08828969",
-      "purchaseDate": "2018-08-13T19:49:43Z",
-      "warrantyStart": "2011-07-08T22:20:39Z",
-      "warrantyEnd": "2024-03-17T22:42:26Z"
-    },
-    {
-      "assetTag": "UG491526",
-      "type": "Laptop",
-      "mac": "DB-D4-56-53-D5-AF",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "20994156",
-      "purchaseDate": "2020-09-28T03:55:40Z",
-      "warrantyStart": "2022-07-16T05:53:58Z",
-      "warrantyEnd": "2024-04-08T00:01:18Z"
-    }
-  ]
-}, {
-  "id": "80f89ccc-e8a1-43a8-9ed9-ffe449b3d4f3",
-  "firstName": "Hanson",
-  "lastName": "Dawidowitz",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG781793",
-      "type": "Desktop",
-      "mac": "EC-85-89-38-E6-07",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "53744469",
-      "purchaseDate": "2016-05-23T05:09:45Z",
-      "warrantyStart": "2016-09-08T07:49:21Z",
-      "warrantyEnd": "2029-10-07T03:39:34Z"
-    },
-    {
-      "assetTag": "UG309875",
-      "type": "Desktop",
-      "mac": "44-07-41-8D-10-13",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "79859157",
-      "purchaseDate": "2020-02-20T13:48:34Z",
-      "warrantyStart": "2022-05-07T23:31:00Z",
-      "warrantyEnd": "2029-09-30T17:27:58Z"
-    }
-  ]
-}, {
-  "id": "1c9ea59c-0a44-4958-b479-bf4a19cf9572",
-  "firstName": "Johannah",
-  "lastName": "Leatherborrow",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG631272",
-      "type": "Desktop",
-      "mac": "E7-99-7D-B6-53-BB",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "67610361",
-      "purchaseDate": "2013-07-14T05:21:47Z",
-      "warrantyStart": "2017-11-21T15:46:44Z",
-      "warrantyEnd": "2024-07-28T17:45:38Z"
-    },
-    {
-      "assetTag": "UG840450",
-      "type": "Laptop",
-      "mac": "A1-32-B1-AB-A6-D3",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "42363221",
-      "purchaseDate": "2021-11-10T09:53:18Z",
-      "warrantyStart": "2017-05-07T15:10:21Z",
-      "warrantyEnd": "2028-07-19T06:28:03Z"
-    },
-    {
-      "assetTag": "UG415107",
-      "type": "Desktop",
-      "mac": "0A-E2-29-22-B7-92",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "42634539",
-      "purchaseDate": "2019-01-16T15:44:00Z",
-      "warrantyStart": "2020-11-25T19:42:29Z",
-      "warrantyEnd": "2028-04-17T22:27:47Z"
-    }
-  ]
-}, {
-  "id": "4b42ec15-c750-4987-995b-95843409640f",
-  "firstName": "Markos",
-  "lastName": "Bembrick",
+  "id": "e4347dfc-2089-45bd-b285-c64bdaa6306a",
+  "firstName": "Franklyn",
+  "lastName": "Goodlett",
   "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG793306",
+      "assetTag": "UG724551",
       "type": "Desktop",
-      "mac": "7E-93-4E-D1-2B-B8",
-      "manufacturer": "Asus",
+      "mac": "62-4D-22-2C-74-0D",
+      "manufacturer": "HP",
       "model": "ProBook",
-      "serialNumber": "65394632",
-      "purchaseDate": "2019-11-18T03:20:57Z",
-      "warrantyStart": "2018-11-02T00:51:21Z",
-      "warrantyEnd": "2023-07-16T07:07:44Z"
+      "serialNumber": "82402203",
+      "purchaseDate": "2012-08-31T23:41:42Z",
+      "warrantyStart": "2018-01-23T14:46:44Z",
+      "warrantyEnd": "2029-12-24T23:02:15Z",
+      "notes": null
     },
     {
-      "assetTag": "UG142996",
+      "assetTag": "UG882392",
       "type": "Laptop",
-      "mac": "DF-C3-99-00-81-5E",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "41705753",
-      "purchaseDate": "2016-03-30T08:20:52Z",
-      "warrantyStart": "2017-08-03T13:57:01Z",
-      "warrantyEnd": "2030-08-23T13:39:57Z"
+      "mac": "A3-5C-0C-4B-3C-5D",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "75918042",
+      "purchaseDate": "2016-11-17T16:58:16Z",
+      "warrantyStart": "2021-04-03T23:52:22Z",
+      "warrantyEnd": "2030-09-09T02:14:32Z",
+      "notes": null
     }
   ]
 }, {
-  "id": "0f552782-d82b-4f24-9fe5-55a7a7bd41fc",
-  "firstName": "Harrie",
-  "lastName": "Scoyne",
+  "id": "8ba13d38-6359-4837-bc90-167118396eb9",
+  "firstName": "Greer",
+  "lastName": "Penburton",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG800915",
+      "type": "Laptop",
+      "mac": "E4-7B-4F-BF-76-A8",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "56770640",
+      "purchaseDate": "2020-08-30T04:26:48Z",
+      "warrantyStart": "2022-03-16T14:34:30Z",
+      "warrantyEnd": "2023-03-21T04:29:01Z",
+      "notes": "Introduction of Monoclonal Antibody into Male Reproductive, Via Natural or Artificial Opening Endoscopic"
+    }
+  ]
+}, {
+  "id": "db1e9a04-c9f0-4993-8fc1-170d766b2fa3",
+  "firstName": "Willey",
+  "lastName": "Chezier",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG208796",
+      "type": "Desktop",
+      "mac": "A4-E0-B6-82-12-E8",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "27375231",
+      "purchaseDate": "2015-06-11T08:33:58Z",
+      "warrantyStart": "2011-02-28T08:52:41Z",
+      "warrantyEnd": "2026-09-28T03:26:23Z",
+      "notes": "Release Right Hand Artery, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG844904",
+      "type": "Desktop",
+      "mac": "D9-82-83-90-E0-06",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "48852861",
+      "purchaseDate": "2017-02-19T13:01:04Z",
+      "warrantyStart": "2013-05-12T22:37:53Z",
+      "warrantyEnd": "2027-06-27T18:13:47Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "4411898d-8edc-4bd3-b408-a4ac970eeded",
+  "firstName": "Reece",
+  "lastName": "Earwaker",
   "department": "STU",
   "devices": [
     {
-      "assetTag": "UG184797",
-      "type": "Laptop",
-      "mac": "81-BB-91-25-EA-A5",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "72746705",
-      "purchaseDate": "2020-02-26T21:30:34Z",
-      "warrantyStart": "2018-04-08T11:34:50Z",
-      "warrantyEnd": "2029-03-17T12:04:02Z"
-    },
-    {
-      "assetTag": "UG073004",
+      "assetTag": "UG160527",
       "type": "Desktop",
-      "mac": "F0-99-A6-B9-BA-DD",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "53204623",
-      "purchaseDate": "2021-11-02T08:09:27Z",
-      "warrantyStart": "2012-01-01T05:30:21Z",
-      "warrantyEnd": "2025-11-09T03:07:00Z"
-    },
-    {
-      "assetTag": "UG648878",
-      "type": "Laptop",
-      "mac": "B7-27-BD-D3-2B-55",
+      "mac": "B6-D0-DF-D2-E5-38",
       "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "serialNumber": "86488531",
-      "purchaseDate": "2013-03-11T22:18:43Z",
-      "warrantyStart": "2011-12-07T08:00:56Z",
-      "warrantyEnd": "2026-01-01T04:14:58Z"
-    }
-  ]
-}, {
-  "id": "a860add1-4812-4c8a-833b-2fc1ced7a49a",
-  "firstName": "Dierdre",
-  "lastName": "Bruniges",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG178212",
-      "type": "Laptop",
-      "mac": "47-19-EA-A0-12-29",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "62819585",
-      "purchaseDate": "2020-09-05T08:45:45Z",
-      "warrantyStart": "2017-11-11T01:56:42Z",
-      "warrantyEnd": "2023-11-20T05:32:03Z"
+      "serialNumber": "97386150",
+      "purchaseDate": "2013-07-11T10:06:22Z",
+      "warrantyStart": "2014-05-24T04:57:26Z",
+      "warrantyEnd": "2030-07-28T07:10:07Z",
+      "notes": null
     },
     {
-      "assetTag": "UG825093",
-      "type": "Desktop",
-      "mac": "1C-47-02-68-92-27",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "40093632",
-      "purchaseDate": "2017-09-22T21:41:19Z",
-      "warrantyStart": "2020-01-30T10:42:23Z",
-      "warrantyEnd": "2027-08-05T03:44:01Z"
-    }
-  ]
-}, {
-  "id": "7dfa183c-fc7b-4c11-8177-d5c185d7c155",
-  "firstName": "Gretchen",
-  "lastName": "Hugin",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG180033",
+      "assetTag": "UG369364",
       "type": "Laptop",
-      "mac": "94-FA-31-EF-37-B7",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "27563096",
-      "purchaseDate": "2019-11-11T21:19:42Z",
-      "warrantyStart": "2014-01-04T10:48:06Z",
-      "warrantyEnd": "2023-02-11T21:46:51Z"
-    },
-    {
-      "assetTag": "UG436090",
-      "type": "Desktop",
-      "mac": "64-49-5E-EE-FF-AC",
+      "mac": "0F-C6-13-25-F1-51",
       "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "47261781",
-      "purchaseDate": "2017-02-22T16:24:13Z",
-      "warrantyStart": "2014-05-11T05:33:12Z",
-      "warrantyEnd": "2024-02-23T17:45:15Z"
+      "model": "MiniBook",
+      "serialNumber": "12100192",
+      "purchaseDate": "2011-10-22T18:40:26Z",
+      "warrantyStart": "2022-03-04T09:07:11Z",
+      "warrantyEnd": "2027-12-05T23:13:21Z",
+      "notes": null
     }
   ]
 }, {
-  "id": "19605d0a-17c6-405e-bb8c-92f71fd1402d",
-  "firstName": "Verena",
-  "lastName": "Walduck",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG229995",
-      "type": "Desktop",
-      "mac": "80-2F-7F-7B-AC-33",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "49104003",
-      "purchaseDate": "2014-06-29T11:47:40Z",
-      "warrantyStart": "2020-07-25T03:06:06Z",
-      "warrantyEnd": "2029-04-30T18:14:09Z"
-    }
-  ]
-}, {
-  "id": "7c2b1d66-3326-437d-95bb-670c262a2e72",
-  "firstName": "Mart",
-  "lastName": "Toolin",
+  "id": "3b7da1ee-fa83-4f24-861e-fe7bf03209f4",
+  "firstName": "Mickie",
+  "lastName": "Godney",
   "department": "STU",
   "devices": [
     {
-      "assetTag": "UG646140",
+      "assetTag": "UG125482",
       "type": "Desktop",
-      "mac": "0F-2E-2F-A5-39-C2",
+      "mac": "64-35-15-A8-D8-C3",
       "manufacturer": "Stone",
       "model": "ProBook",
-      "serialNumber": "43689609",
-      "purchaseDate": "2021-03-17T19:28:00Z",
-      "warrantyStart": "2021-11-29T18:58:27Z",
-      "warrantyEnd": "2028-08-06T18:22:27Z"
+      "serialNumber": "01081813",
+      "purchaseDate": "2015-09-29T21:52:11Z",
+      "warrantyStart": "2018-01-06T08:09:23Z",
+      "warrantyEnd": "2026-05-26T11:08:27Z",
+      "notes": null
     },
     {
-      "assetTag": "UG030822",
-      "type": "Laptop",
-      "mac": "2D-7B-97-D8-1F-C8",
-      "manufacturer": "HP",
+      "assetTag": "UG688625",
+      "type": "Desktop",
+      "mac": "5B-12-7D-2D-10-12",
+      "manufacturer": "Asus",
       "model": "EliteBook",
-      "serialNumber": "02952100",
-      "purchaseDate": "2017-04-05T17:16:00Z",
-      "warrantyStart": "2011-11-28T16:20:19Z",
-      "warrantyEnd": "2030-03-31T07:08:01Z"
+      "serialNumber": "65974260",
+      "purchaseDate": "2021-08-06T10:48:09Z",
+      "warrantyStart": "2019-06-20T06:35:15Z",
+      "warrantyEnd": "2025-01-01T14:53:46Z",
+      "notes": null
     }
   ]
 }, {
-  "id": "05c273b1-4278-45ae-8f6e-103c8aab05e1",
-  "firstName": "Tersina",
-  "lastName": "Leakner",
+  "id": "40db2a0b-753e-43c2-9680-17c14eae480a",
+  "firstName": "Alverta",
+  "lastName": "Grasha",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG235921",
+      "type": "Laptop",
+      "mac": "E1-93-9F-9A-F4-9B",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "83329622",
+      "purchaseDate": "2020-06-28T01:40:00Z",
+      "warrantyStart": "2022-05-06T16:56:34Z",
+      "warrantyEnd": "2026-10-08T09:18:15Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG546326",
+      "type": "Laptop",
+      "mac": "AE-A5-53-BB-27-3D",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "81063818",
+      "purchaseDate": "2012-05-27T14:50:52Z",
+      "warrantyStart": "2013-03-21T05:12:42Z",
+      "warrantyEnd": "2029-04-09T22:25:06Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG234798",
+      "type": "Desktop",
+      "mac": "7A-C5-D2-AB-3F-3E",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "42767981",
+      "purchaseDate": "2013-02-18T00:57:25Z",
+      "warrantyStart": "2017-07-24T06:00:15Z",
+      "warrantyEnd": "2027-04-05T15:02:17Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "6fa447e4-0bc1-4c55-8b00-053575e8a35e",
+  "firstName": "Cathyleen",
+  "lastName": "Canter",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG586732",
+      "type": "Laptop",
+      "mac": "E5-5D-24-76-DC-B0",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "69162453",
+      "purchaseDate": "2010-09-28T11:25:26Z",
+      "warrantyStart": "2014-05-28T02:40:29Z",
+      "warrantyEnd": "2025-05-19T13:30:59Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG356021",
+      "type": "Desktop",
+      "mac": "F1-D1-91-0D-B2-55",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "42886168",
+      "purchaseDate": "2020-12-03T17:46:31Z",
+      "warrantyStart": "2018-01-13T10:07:06Z",
+      "warrantyEnd": "2023-01-07T11:37:28Z",
+      "notes": "Destruction of Upper Artery, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG927797",
+      "type": "Laptop",
+      "mac": "3D-3C-BD-11-EE-4A",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "48451746",
+      "purchaseDate": "2016-11-11T12:21:30Z",
+      "warrantyStart": "2019-06-13T15:52:22Z",
+      "warrantyEnd": "2027-04-03T02:45:24Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "16961778-66f7-49c1-8b30-fe758647f43f",
+  "firstName": "Gerhardt",
+  "lastName": "Chavez",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG482563",
+      "type": "Laptop",
+      "mac": "5C-F3-99-7F-4C-E6",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "02619053",
+      "purchaseDate": "2017-09-20T05:09:12Z",
+      "warrantyStart": "2016-06-15T00:41:41Z",
+      "warrantyEnd": "2030-06-23T02:23:18Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG994089",
+      "type": "Laptop",
+      "mac": "F9-B6-04-66-39-AE",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "73595156",
+      "purchaseDate": "2017-02-10T13:43:08Z",
+      "warrantyStart": "2010-11-18T17:58:12Z",
+      "warrantyEnd": "2030-09-04T08:54:50Z",
+      "notes": "Plain Radiography of Bilateral Fallopian Tubes using Low Osmolar Contrast"
+    },
+    {
+      "assetTag": "UG261110",
+      "type": "Desktop",
+      "mac": "8D-37-60-11-65-78",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "05642679",
+      "purchaseDate": "2016-02-06T09:46:14Z",
+      "warrantyStart": "2021-12-18T23:49:02Z",
+      "warrantyEnd": "2029-12-18T18:04:51Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "9172c07f-1e1d-4ce8-be78-046b20d43543",
+  "firstName": "Jacquelin",
+  "lastName": "Smullen",
   "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG581228",
+      "assetTag": "UG289280",
       "type": "Desktop",
-      "mac": "1B-77-8B-60-5D-61",
+      "mac": "1A-41-A9-9B-04-9E",
       "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "37604824",
-      "purchaseDate": "2017-03-01T11:12:46Z",
-      "warrantyStart": "2020-09-30T17:01:39Z",
-      "warrantyEnd": "2025-01-08T14:18:23Z"
+      "model": "EliteBook",
+      "serialNumber": "71244821",
+      "purchaseDate": "2021-02-07T06:04:26Z",
+      "warrantyStart": "2015-12-18T21:39:53Z",
+      "warrantyEnd": "2029-04-02T04:55:19Z",
+      "notes": null
     },
     {
-      "assetTag": "UG529711",
+      "assetTag": "UG940571",
       "type": "Desktop",
-      "mac": "9E-6B-4B-19-8C-FA",
+      "mac": "9F-56-34-0B-7B-3B",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "15991941",
+      "purchaseDate": "2018-07-18T09:17:44Z",
+      "warrantyStart": "2012-09-07T17:45:15Z",
+      "warrantyEnd": "2023-02-16T04:32:14Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG202298",
+      "type": "Desktop",
+      "mac": "9B-4C-5A-CB-21-46",
       "manufacturer": "Acer",
       "model": "ProBook",
-      "serialNumber": "94832468",
-      "purchaseDate": "2022-08-20T09:22:06Z",
-      "warrantyStart": "2021-05-30T11:40:38Z",
-      "warrantyEnd": "2029-01-26T09:44:49Z"
+      "serialNumber": "56729769",
+      "purchaseDate": "2014-01-25T16:42:21Z",
+      "warrantyStart": "2015-03-04T11:31:45Z",
+      "warrantyEnd": "2030-04-16T01:44:19Z",
+      "notes": "Drainage of Right Lacrimal Duct, Percutaneous Approach"
+    }
+  ]
+}, {
+  "id": "7b5583c4-d4c2-4f18-9d6f-06a488f547f5",
+  "firstName": "Caroljean",
+  "lastName": "Westgarth",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG615303",
+      "type": "Desktop",
+      "mac": "22-20-A4-89-6B-21",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "50867779",
+      "purchaseDate": "2012-06-10T20:09:59Z",
+      "warrantyStart": "2014-04-19T02:05:24Z",
+      "warrantyEnd": "2025-08-27T04:18:46Z",
+      "notes": null
     },
     {
-      "assetTag": "UG252508",
+      "assetTag": "UG124692",
+      "type": "Laptop",
+      "mac": "44-22-20-EB-34-94",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "12995282",
+      "purchaseDate": "2018-04-13T23:31:16Z",
+      "warrantyStart": "2017-06-23T16:03:29Z",
+      "warrantyEnd": "2025-08-22T09:08:22Z",
+      "notes": "Revision of Nonautologous Tissue Substitute in Epididymis and Spermatic Cord, External Approach"
+    }
+  ]
+}, {
+  "id": "1b794b06-e73b-4c97-aae5-ee853bc06d1c",
+  "firstName": "Francisca",
+  "lastName": "Le febre",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG511570",
+      "type": "Laptop",
+      "mac": "3E-19-95-A0-13-65",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "84510483",
+      "purchaseDate": "2016-02-01T21:24:44Z",
+      "warrantyStart": "2016-05-19T18:30:15Z",
+      "warrantyEnd": "2023-09-25T19:16:50Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG095424",
+      "type": "Laptop",
+      "mac": "A8-FB-39-96-5F-2A",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "27286263",
+      "purchaseDate": "2014-04-18T08:23:20Z",
+      "warrantyStart": "2018-05-22T13:21:06Z",
+      "warrantyEnd": "2022-10-04T03:37:09Z",
+      "notes": "Extraction of Right Knee Bursa and Ligament, Open Approach"
+    },
+    {
+      "assetTag": "UG143096",
       "type": "Desktop",
-      "mac": "F3-F2-E8-00-BE-5C",
+      "mac": "A9-CA-2B-E5-CB-20",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "82873709",
+      "purchaseDate": "2019-12-02T23:56:18Z",
+      "warrantyStart": "2012-01-11T20:26:08Z",
+      "warrantyEnd": "2024-03-15T06:12:04Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "b6bb3408-4246-47d7-b7c0-ae9f4957a835",
+  "firstName": "Bill",
+  "lastName": "Durtnel",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG059047",
+      "type": "Laptop",
+      "mac": "3B-2F-EE-58-9D-21",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "94897985",
+      "purchaseDate": "2015-08-04T23:44:52Z",
+      "warrantyStart": "2014-12-24T07:46:20Z",
+      "warrantyEnd": "2026-04-30T04:41:56Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG764189",
+      "type": "Laptop",
+      "mac": "D6-10-6A-E2-F9-1C",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "97273067",
+      "purchaseDate": "2014-08-14T11:49:04Z",
+      "warrantyStart": "2014-09-20T12:18:28Z",
+      "warrantyEnd": "2025-11-07T18:33:59Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "80896fec-6b12-4e66-8520-926378d51950",
+  "firstName": "Trudi",
+  "lastName": "Tackett",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG407573",
+      "type": "Desktop",
+      "mac": "02-A9-4A-D2-7B-05",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "07336682",
+      "purchaseDate": "2014-07-23T11:55:58Z",
+      "warrantyStart": "2011-02-05T05:36:40Z",
+      "warrantyEnd": "2028-06-15T01:01:32Z",
+      "notes": "Supplement Left 3rd Toe with Autologous Tissue Substitute, Open Approach"
+    },
+    {
+      "assetTag": "UG232227",
+      "type": "Desktop",
+      "mac": "B9-76-18-80-EC-EA",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "90654186",
+      "purchaseDate": "2013-06-26T09:32:22Z",
+      "warrantyStart": "2020-03-15T21:46:12Z",
+      "warrantyEnd": "2025-08-16T10:09:23Z",
+      "notes": "Reposition Left Lower Lobe Bronchus, Open Approach"
+    }
+  ]
+}, {
+  "id": "49c6c66f-6a7f-4ae4-84cd-c2e51376f019",
+  "firstName": "Olivia",
+  "lastName": "Phetteplace",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG785971",
+      "type": "Desktop",
+      "mac": "AE-D5-3E-FC-62-6F",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "57510200",
+      "purchaseDate": "2022-03-10T05:46:28Z",
+      "warrantyStart": "2019-06-11T20:33:16Z",
+      "warrantyEnd": "2024-11-13T19:07:17Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "a434a457-36a2-46d9-a3ca-4edcf700f018",
+  "firstName": "Kai",
+  "lastName": "Egginton",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG380667",
+      "type": "Laptop",
+      "mac": "1B-B9-05-2F-27-7D",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "14804516",
+      "purchaseDate": "2020-08-02T17:14:13Z",
+      "warrantyStart": "2021-10-29T00:54:16Z",
+      "warrantyEnd": "2025-01-25T12:17:48Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG035335",
+      "type": "Laptop",
+      "mac": "6E-01-6D-E1-2D-D9",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "16720028",
+      "purchaseDate": "2012-03-29T03:51:41Z",
+      "warrantyStart": "2011-02-10T09:42:41Z",
+      "warrantyEnd": "2030-03-02T19:03:59Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "e6074413-5d78-49ef-a47e-003e04242556",
+  "firstName": "Norrie",
+  "lastName": "Varrow",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG420164",
+      "type": "Desktop",
+      "mac": "24-23-7F-B7-21-20",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "89121909",
+      "purchaseDate": "2021-09-02T00:39:04Z",
+      "warrantyStart": "2018-07-26T03:46:57Z",
+      "warrantyEnd": "2029-11-19T11:50:02Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "f3ff9d31-c44a-4714-a9d9-6147d0a660cf",
+  "firstName": "Malynda",
+  "lastName": "Eckart",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG527043",
+      "type": "Laptop",
+      "mac": "BC-AC-5E-6F-72-91",
       "manufacturer": "HP",
       "model": "ProBook",
-      "serialNumber": "81821736",
-      "purchaseDate": "2019-10-05T16:01:03Z",
-      "warrantyStart": "2016-03-07T18:58:59Z",
-      "warrantyEnd": "2027-12-09T01:23:58Z"
+      "serialNumber": "77506433",
+      "purchaseDate": "2019-10-10T10:02:50Z",
+      "warrantyStart": "2010-11-25T03:52:32Z",
+      "warrantyEnd": "2023-06-22T23:29:18Z",
+      "notes": "Change Packing Material on Right Upper Extremity"
+    }
+  ]
+}, {
+  "id": "27f5a61b-dab6-4f60-bbd3-53331f2b6068",
+  "firstName": "Ddene",
+  "lastName": "Kaplan",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG652591",
+      "type": "Desktop",
+      "mac": "BC-53-AC-13-D1-BD",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "96102212",
+      "purchaseDate": "2017-08-15T19:08:42Z",
+      "warrantyStart": "2013-07-02T02:57:12Z",
+      "warrantyEnd": "2026-10-20T06:51:24Z",
+      "notes": "Drainage of Lumbar Plexus, Percutaneous Endoscopic Approach, Diagnostic"
+    }
+  ]
+}, {
+  "id": "0f2a144b-977b-4b59-9438-e0a94cdc7ff0",
+  "firstName": "Aylmer",
+  "lastName": "Fortin",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG347811",
+      "type": "Laptop",
+      "mac": "76-77-7B-88-2E-03",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "64812770",
+      "purchaseDate": "2014-10-04T07:36:34Z",
+      "warrantyStart": "2010-11-06T16:32:59Z",
+      "warrantyEnd": "2025-07-07T01:14:53Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "b3b2581f-2194-4543-b8a4-41dc236a9717",
+  "firstName": "Helyn",
+  "lastName": "Khotler",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG101820",
+      "type": "Desktop",
+      "mac": "1F-BB-1E-EF-A4-D1",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "21609331",
+      "purchaseDate": "2016-11-27T11:56:50Z",
+      "warrantyStart": "2019-10-25T10:15:54Z",
+      "warrantyEnd": "2024-05-17T22:16:17Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG567683",
+      "type": "Desktop",
+      "mac": "18-5E-73-1F-83-97",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "36777605",
+      "purchaseDate": "2010-11-09T02:23:59Z",
+      "warrantyStart": "2012-03-12T06:52:54Z",
+      "warrantyEnd": "2029-02-21T05:53:59Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG987034",
+      "type": "Desktop",
+      "mac": "AF-75-AE-05-F5-7C",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "09710930",
+      "purchaseDate": "2010-11-30T03:11:00Z",
+      "warrantyStart": "2015-11-09T00:44:06Z",
+      "warrantyEnd": "2026-05-04T18:23:16Z",
+      "notes": "Lower Arteries, Reposition"
+    }
+  ]
+}, {
+  "id": "0ae86c05-0012-44e6-b505-2ec559f8ba9d",
+  "firstName": "Pearl",
+  "lastName": "Rodolphe",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG206539",
+      "type": "Laptop",
+      "mac": "BC-B0-FB-37-EF-D8",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "89003356",
+      "purchaseDate": "2018-09-25T19:01:54Z",
+      "warrantyStart": "2020-10-13T17:35:48Z",
+      "warrantyEnd": "2028-07-13T04:29:10Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG727470",
+      "type": "Desktop",
+      "mac": "EB-A4-4D-06-61-08",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "02589741",
+      "purchaseDate": "2014-04-04T16:18:10Z",
+      "warrantyStart": "2014-09-10T03:55:36Z",
+      "warrantyEnd": "2025-10-18T09:29:43Z",
+      "notes": "Replacement of Left Lacrimal Bone with Synthetic Substitute, Percutaneous Approach"
+    }
+  ]
+}, {
+  "id": "d416dd77-0a14-413d-af03-9707daaa7b0a",
+  "firstName": "Devland",
+  "lastName": "Munford",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG146417",
+      "type": "Desktop",
+      "mac": "A4-19-0D-99-0A-A2",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "77822034",
+      "purchaseDate": "2018-06-22T07:29:40Z",
+      "warrantyStart": "2018-08-21T01:56:22Z",
+      "warrantyEnd": "2026-11-25T08:45:27Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "3effe751-be11-4b6b-8104-85a1294a72db",
+  "firstName": "Nathaniel",
+  "lastName": "Bloschke",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG043200",
+      "type": "Desktop",
+      "mac": "EA-F3-AC-46-00-6D",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "86084581",
+      "purchaseDate": "2018-11-25T04:03:19Z",
+      "warrantyStart": "2018-12-11T07:11:20Z",
+      "warrantyEnd": "2030-02-17T03:10:30Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG443839",
+      "type": "Laptop",
+      "mac": "92-07-FA-5F-53-18",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "99559494",
+      "purchaseDate": "2011-04-19T16:26:16Z",
+      "warrantyStart": "2016-04-15T17:32:54Z",
+      "warrantyEnd": "2028-03-27T22:00:52Z",
+      "notes": "Ultrasonography of Left Upper Extremity Arteries, Intravascular"
+    },
+    {
+      "assetTag": "UG622361",
+      "type": "Desktop",
+      "mac": "A3-8A-46-95-20-A3",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "60381307",
+      "purchaseDate": "2017-07-29T12:19:21Z",
+      "warrantyStart": "2013-11-14T19:58:17Z",
+      "warrantyEnd": "2027-02-13T13:29:07Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "df0d352b-1ffa-4606-a87c-5b000ebf95d5",
+  "firstName": "Kristen",
+  "lastName": "Bywaters",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG893363",
+      "type": "Laptop",
+      "mac": "30-D1-E8-33-A3-85",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "88204974",
+      "purchaseDate": "2021-01-09T12:52:32Z",
+      "warrantyStart": "2016-03-30T01:27:23Z",
+      "warrantyEnd": "2023-06-25T09:44:58Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG990280",
+      "type": "Desktop",
+      "mac": "D3-7C-A5-44-11-AD",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "17214153",
+      "purchaseDate": "2013-04-03T08:01:46Z",
+      "warrantyStart": "2016-04-27T16:41:16Z",
+      "warrantyEnd": "2029-07-09T00:04:00Z",
+      "notes": "Beam Radiation of Buttock Skin using Photons >10 MeV"
+    },
+    {
+      "assetTag": "UG169891",
+      "type": "Laptop",
+      "mac": "55-79-C1-75-97-03",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "00502707",
+      "purchaseDate": "2016-11-21T00:55:26Z",
+      "warrantyStart": "2020-07-18T20:55:54Z",
+      "warrantyEnd": "2023-02-14T06:51:48Z",
+      "notes": "Occlusion of Left Femoral Vein with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }
+  ]
+}, {
+  "id": "31952890-573e-45bf-b2aa-4fc41b102b85",
+  "firstName": "Adrianne",
+  "lastName": "Pinnere",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG068994",
+      "type": "Desktop",
+      "mac": "A1-0C-6F-46-15-93",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "93701112",
+      "purchaseDate": "2013-10-20T18:22:58Z",
+      "warrantyStart": "2020-06-13T05:12:11Z",
+      "warrantyEnd": "2028-02-03T08:34:07Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG747173",
+      "type": "Laptop",
+      "mac": "80-D4-39-07-09-40",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "28492423",
+      "purchaseDate": "2017-11-08T04:46:21Z",
+      "warrantyStart": "2017-05-05T01:04:51Z",
+      "warrantyEnd": "2027-04-24T17:09:15Z",
+      "notes": "Bypass Accessory Pancreatic Duct to Large Intestine with Intraluminal Device, Open Approach"
+    }
+  ]
+}, {
+  "id": "46cf1370-e98f-4932-976c-f06c69362f0b",
+  "firstName": "Cammi",
+  "lastName": "Gwatkins",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG071588",
+      "type": "Desktop",
+      "mac": "65-E6-DE-3E-7D-B6",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "34783624",
+      "purchaseDate": "2018-10-31T18:57:06Z",
+      "warrantyStart": "2022-06-29T04:51:41Z",
+      "warrantyEnd": "2024-08-21T05:29:27Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG390303",
+      "type": "Laptop",
+      "mac": "02-C0-AD-31-F2-53",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "03982157",
+      "purchaseDate": "2020-04-20T05:10:21Z",
+      "warrantyStart": "2010-10-19T20:53:01Z",
+      "warrantyEnd": "2026-05-31T18:06:36Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "602af2fc-4f44-43f7-b818-7066483f82f4",
+  "firstName": "Karin",
+  "lastName": "Roscoe",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG340908",
+      "type": "Desktop",
+      "mac": "56-83-6C-24-5C-64",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "80569328",
+      "purchaseDate": "2016-05-25T22:53:33Z",
+      "warrantyStart": "2015-08-13T03:22:11Z",
+      "warrantyEnd": "2026-03-12T09:34:21Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG573033",
+      "type": "Laptop",
+      "mac": "8B-63-57-C5-86-4C",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "00914258",
+      "purchaseDate": "2018-07-07T17:13:44Z",
+      "warrantyStart": "2020-09-12T07:57:06Z",
+      "warrantyEnd": "2024-01-25T19:20:37Z",
+      "notes": "Dilation of Left Foot Vein, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG974800",
+      "type": "Laptop",
+      "mac": "F7-A7-B5-0E-AF-38",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "04064319",
+      "purchaseDate": "2012-08-14T11:23:45Z",
+      "warrantyStart": "2018-07-15T03:41:35Z",
+      "warrantyEnd": "2024-01-23T01:06:40Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "0773ee63-4392-4ac3-baf1-95615ea87ec7",
+  "firstName": "Shaylyn",
+  "lastName": "Roberto",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG291625",
+      "type": "Laptop",
+      "mac": "99-2D-FD-50-C2-59",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "95644208",
+      "purchaseDate": "2012-06-05T11:21:59Z",
+      "warrantyStart": "2019-08-23T12:45:40Z",
+      "warrantyEnd": "2025-03-03T16:10:37Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "293dfae3-34be-4d40-8454-406f65ec647c",
+  "firstName": "Huntlee",
+  "lastName": "Haet",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG700172",
+      "type": "Laptop",
+      "mac": "8C-A2-5F-EA-6D-56",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "84748946",
+      "purchaseDate": "2018-03-07T17:14:40Z",
+      "warrantyStart": "2014-04-22T16:08:40Z",
+      "warrantyEnd": "2028-03-16T14:22:46Z",
+      "notes": "Extraction of Vertebral Bone Marrow, Percutaneous Approach"
+    },
+    {
+      "assetTag": "UG782094",
+      "type": "Laptop",
+      "mac": "8B-1C-0E-66-9A-16",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "43519703",
+      "purchaseDate": "2022-08-04T13:22:11Z",
+      "warrantyStart": "2016-01-16T07:32:42Z",
+      "warrantyEnd": "2027-06-25T19:42:49Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG906976",
+      "type": "Laptop",
+      "mac": "EB-9D-22-0A-B4-1D",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "57045212",
+      "purchaseDate": "2022-06-25T08:44:05Z",
+      "warrantyStart": "2014-03-10T16:18:56Z",
+      "warrantyEnd": "2027-10-24T20:52:16Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "82084dd5-e616-4001-a9e5-269027d25d17",
+  "firstName": "Eudora",
+  "lastName": "Wither",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG308674",
+      "type": "Desktop",
+      "mac": "6C-43-BD-E8-B4-89",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "02565857",
+      "purchaseDate": "2019-09-25T15:24:44Z",
+      "warrantyStart": "2015-05-01T08:34:53Z",
+      "warrantyEnd": "2029-08-23T14:29:32Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG383163",
+      "type": "Desktop",
+      "mac": "DF-67-55-55-DD-67",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "33456666",
+      "purchaseDate": "2017-03-31T00:23:19Z",
+      "warrantyStart": "2013-04-03T01:46:39Z",
+      "warrantyEnd": "2023-11-14T04:59:34Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "00cade64-2de6-40b1-be9e-4f3b301baf43",
+  "firstName": "Rhona",
+  "lastName": "Swafield",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG151425",
+      "type": "Laptop",
+      "mac": "65-4C-6C-36-26-0B",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "78456311",
+      "purchaseDate": "2011-12-17T06:49:56Z",
+      "warrantyStart": "2016-06-18T01:37:07Z",
+      "warrantyEnd": "2025-03-06T05:42:19Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG257852",
+      "type": "Desktop",
+      "mac": "2A-8E-B0-0F-BD-C0",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "88797060",
+      "purchaseDate": "2010-12-09T03:35:31Z",
+      "warrantyStart": "2011-01-08T16:48:19Z",
+      "warrantyEnd": "2030-04-23T00:15:44Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG631837",
+      "type": "Laptop",
+      "mac": "ED-59-9B-DE-29-B3",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "00821505",
+      "purchaseDate": "2015-11-12T04:02:56Z",
+      "warrantyStart": "2014-09-09T00:09:20Z",
+      "warrantyEnd": "2024-12-07T12:40:56Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "921dfa59-6f5a-4217-817d-4996f55f593b",
+  "firstName": "Shalna",
+  "lastName": "Forri",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG574861",
+      "type": "Laptop",
+      "mac": "85-58-2C-E4-C3-66",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "04516569",
+      "purchaseDate": "2021-11-18T21:42:42Z",
+      "warrantyStart": "2022-08-05T07:24:10Z",
+      "warrantyEnd": "2030-02-05T01:53:31Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG003545",
+      "type": "Laptop",
+      "mac": "A4-6A-E3-89-27-E4",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "26402965",
+      "purchaseDate": "2017-01-08T01:02:13Z",
+      "warrantyStart": "2018-06-22T09:33:26Z",
+      "warrantyEnd": "2025-05-29T08:46:31Z",
+      "notes": "Replacement of Left Knee Joint with Synthetic Substitute, Open Approach"
+    },
+    {
+      "assetTag": "UG466058",
+      "type": "Desktop",
+      "mac": "AB-79-95-89-9A-40",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "38987721",
+      "purchaseDate": "2014-02-13T01:02:56Z",
+      "warrantyStart": "2012-12-16T14:26:30Z",
+      "warrantyEnd": "2029-04-10T13:11:36Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "79310e73-9684-4390-9db6-e1fa04ce8a11",
+  "firstName": "Consuelo",
+  "lastName": "Wardhaw",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG344798",
+      "type": "Desktop",
+      "mac": "0C-2B-9B-01-E1-17",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "15812791",
+      "purchaseDate": "2016-11-10T15:26:57Z",
+      "warrantyStart": "2021-05-30T11:36:01Z",
+      "warrantyEnd": "2025-11-08T07:52:45Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG995751",
+      "type": "Desktop",
+      "mac": "15-D8-A7-95-2D-EA",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "12806338",
+      "purchaseDate": "2016-05-04T21:49:25Z",
+      "warrantyStart": "2013-11-22T14:22:11Z",
+      "warrantyEnd": "2028-06-02T16:15:46Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG939927",
+      "type": "Desktop",
+      "mac": "D8-0F-0A-A6-E2-DD",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "17254871",
+      "purchaseDate": "2013-10-20T23:28:24Z",
+      "warrantyStart": "2010-09-13T15:18:19Z",
+      "warrantyEnd": "2028-04-09T16:56:09Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "4eaad62f-31e6-483d-9b4e-c989817af839",
+  "firstName": "Pearline",
+  "lastName": "Barnes",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG730640",
+      "type": "Laptop",
+      "mac": "EC-2B-91-1E-CC-94",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "43200186",
+      "purchaseDate": "2019-07-28T00:04:49Z",
+      "warrantyStart": "2014-03-18T08:21:44Z",
+      "warrantyEnd": "2023-09-22T03:12:05Z",
+      "notes": "Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach"
+    },
+    {
+      "assetTag": "UG900321",
+      "type": "Laptop",
+      "mac": "02-B9-FC-97-5B-8E",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "49108746",
+      "purchaseDate": "2015-05-23T05:00:27Z",
+      "warrantyStart": "2019-12-28T13:45:54Z",
+      "warrantyEnd": "2023-07-27T17:47:22Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG462661",
+      "type": "Laptop",
+      "mac": "EA-30-25-1E-09-DA",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "86105741",
+      "purchaseDate": "2012-11-21T21:53:09Z",
+      "warrantyStart": "2020-10-17T10:33:55Z",
+      "warrantyEnd": "2028-02-17T18:21:48Z",
+      "notes": "Extirpation of Matter from Bilateral Spermatic Cords, Percutaneous Approach"
+    }
+  ]
+}, {
+  "id": "69db1b19-2cfc-4d97-8d6b-ff7fcb3906ce",
+  "firstName": "Armin",
+  "lastName": "Oxenbury",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG704429",
+      "type": "Desktop",
+      "mac": "85-94-2F-4B-6B-8C",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "67758358",
+      "purchaseDate": "2015-07-30T15:39:52Z",
+      "warrantyStart": "2020-09-26T13:45:01Z",
+      "warrantyEnd": "2023-06-04T22:09:17Z",
+      "notes": "Supplement Greater Omentum with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG022230",
+      "type": "Desktop",
+      "mac": "28-38-59-E9-40-C3",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "42886078",
+      "purchaseDate": "2016-01-22T06:22:00Z",
+      "warrantyStart": "2021-03-22T02:00:30Z",
+      "warrantyEnd": "2027-09-15T11:07:03Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG246700",
+      "type": "Desktop",
+      "mac": "89-96-69-CB-47-5F",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "40687983",
+      "purchaseDate": "2015-02-28T22:20:01Z",
+      "warrantyStart": "2013-09-06T16:55:12Z",
+      "warrantyEnd": "2025-01-31T11:03:04Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "8b20236e-54f7-4b50-a0bb-02d61c6ef9a0",
+  "firstName": "Ellis",
+  "lastName": "De Benedetti",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG607938",
+      "type": "Laptop",
+      "mac": "8B-24-14-4F-95-3A",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "71669411",
+      "purchaseDate": "2015-01-02T12:47:16Z",
+      "warrantyStart": "2020-04-05T09:52:25Z",
+      "warrantyEnd": "2028-05-06T08:18:54Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG465134",
+      "type": "Desktop",
+      "mac": "5F-F0-90-BE-50-B8",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "63542813",
+      "purchaseDate": "2018-01-24T13:14:42Z",
+      "warrantyStart": "2018-08-05T10:46:48Z",
+      "warrantyEnd": "2029-03-28T06:21:24Z",
+      "notes": "Drainage of Left Vas Deferens, Percutaneous Endoscopic Approach, Diagnostic"
+    }
+  ]
+}, {
+  "id": "9e32f02c-2a20-4ba1-9a8a-7279e93a89ad",
+  "firstName": "Costanza",
+  "lastName": "Bampkin",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG367815",
+      "type": "Laptop",
+      "mac": "D6-CC-C6-1E-A3-10",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "02514773",
+      "purchaseDate": "2013-08-08T07:30:50Z",
+      "warrantyStart": "2020-09-05T23:33:46Z",
+      "warrantyEnd": "2026-06-04T19:36:19Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "90b6240c-ecb4-466e-a795-36c34f4bad63",
+  "firstName": "Emili",
+  "lastName": "Elham",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG765507",
+      "type": "Laptop",
+      "mac": "B6-4D-95-69-9C-E5",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "86325455",
+      "purchaseDate": "2021-03-25T04:14:40Z",
+      "warrantyStart": "2020-07-26T16:47:28Z",
+      "warrantyEnd": "2024-09-22T13:18:12Z",
+      "notes": "Destruction of Cystic Duct, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG305372",
+      "type": "Desktop",
+      "mac": "F0-1C-73-AA-F1-3B",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "91581974",
+      "purchaseDate": "2015-03-10T18:19:13Z",
+      "warrantyStart": "2020-07-02T21:44:16Z",
+      "warrantyEnd": "2029-05-26T09:04:41Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "c606f175-8812-437a-af39-29f27debcfeb",
+  "firstName": "Konrad",
+  "lastName": "Dulson",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG552012",
+      "type": "Desktop",
+      "mac": "B7-17-6A-B4-E8-C9",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "95297990",
+      "purchaseDate": "2022-03-20T11:04:58Z",
+      "warrantyStart": "2019-01-13T09:49:34Z",
+      "warrantyEnd": "2023-06-29T21:00:58Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "d894afea-9096-4d73-88e3-1f6b4774c1fa",
+  "firstName": "Minnnie",
+  "lastName": "Ravilus",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG477727",
+      "type": "Desktop",
+      "mac": "F5-C8-97-A9-BA-C8",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "98339538",
+      "purchaseDate": "2011-12-13T18:18:37Z",
+      "warrantyStart": "2013-07-03T06:47:21Z",
+      "warrantyEnd": "2028-01-27T01:09:39Z",
+      "notes": "Replacement of Common Bile Duct with Autologous Tissue Substitute, Open Approach"
+    },
+    {
+      "assetTag": "UG328915",
+      "type": "Laptop",
+      "mac": "AD-2C-8E-45-C0-57",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "42368712",
+      "purchaseDate": "2015-12-20T15:48:08Z",
+      "warrantyStart": "2011-08-13T04:00:15Z",
+      "warrantyEnd": "2022-12-14T19:24:50Z",
+      "notes": "Removal of External Fixation Device from Right Humeral Shaft, External Approach"
+    }
+  ]
+}, {
+  "id": "5c7da45d-65a8-429a-93a7-c36f4094b77d",
+  "firstName": "Ignace",
+  "lastName": "Quinnette",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG648503",
+      "type": "Laptop",
+      "mac": "20-E0-F3-EC-EB-49",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "99331264",
+      "purchaseDate": "2013-06-14T15:32:43Z",
+      "warrantyStart": "2018-01-28T16:58:24Z",
+      "warrantyEnd": "2024-04-07T15:43:03Z",
+      "notes": "Beam Radiation of Bile Ducts using Neutrons"
+    },
+    {
+      "assetTag": "UG964845",
+      "type": "Laptop",
+      "mac": "16-39-3D-E1-48-FF",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "47297890",
+      "purchaseDate": "2018-11-18T19:21:12Z",
+      "warrantyStart": "2016-08-07T23:39:37Z",
+      "warrantyEnd": "2029-09-30T19:34:04Z",
+      "notes": "Replacement of Left Tibia with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }
+  ]
+}, {
+  "id": "6101ebe6-dbf6-4f90-8341-701ca857b157",
+  "firstName": "Maryjane",
+  "lastName": "Ghidoni",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG395690",
+      "type": "Laptop",
+      "mac": "B9-DE-95-53-FB-C3",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "10532172",
+      "purchaseDate": "2021-04-11T07:12:31Z",
+      "warrantyStart": "2015-05-29T03:36:19Z",
+      "warrantyEnd": "2030-05-13T13:31:07Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG706121",
+      "type": "Laptop",
+      "mac": "10-E4-61-F2-43-15",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "31153144",
+      "purchaseDate": "2017-12-22T03:58:19Z",
+      "warrantyStart": "2013-06-04T07:15:00Z",
+      "warrantyEnd": "2024-08-08T04:04:47Z",
+      "notes": "Beam Radiation of Brain using Electrons, Intraoperative"
+    }
+  ]
+}, {
+  "id": "3ee850e3-38d7-4d98-9dc2-4a1737ade3ca",
+  "firstName": "Shadow",
+  "lastName": "Stuehmeier",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG833792",
+      "type": "Desktop",
+      "mac": "78-5C-12-9E-DF-BC",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "29177126",
+      "purchaseDate": "2016-02-10T12:51:20Z",
+      "warrantyStart": "2020-08-12T00:56:06Z",
+      "warrantyEnd": "2025-11-12T09:26:11Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG702287",
+      "type": "Desktop",
+      "mac": "48-6C-F0-65-B5-E6",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "52071330",
+      "purchaseDate": "2017-12-14T15:47:27Z",
+      "warrantyStart": "2013-10-02T06:23:17Z",
+      "warrantyEnd": "2027-08-30T05:33:50Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "883b984c-c610-48f5-affe-ec6b97a8e996",
+  "firstName": "Kilian",
+  "lastName": "Cothey",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG933099",
+      "type": "Laptop",
+      "mac": "8A-CA-F7-89-72-3A",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "44735915",
+      "purchaseDate": "2015-01-09T22:31:21Z",
+      "warrantyStart": "2013-10-08T06:06:38Z",
+      "warrantyEnd": "2022-10-24T03:43:20Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG100212",
+      "type": "Desktop",
+      "mac": "D2-3B-6C-5F-DC-5F",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "99317580",
+      "purchaseDate": "2012-06-22T12:52:19Z",
+      "warrantyStart": "2013-05-12T21:24:40Z",
+      "warrantyEnd": "2026-03-21T05:49:09Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG132881",
+      "type": "Desktop",
+      "mac": "B2-DD-AB-D4-8E-31",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "05970316",
+      "purchaseDate": "2019-03-05T05:37:34Z",
+      "warrantyStart": "2021-07-26T04:37:50Z",
+      "warrantyEnd": "2029-05-08T21:42:59Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "d112679b-4cbd-4321-8ec6-100455380f0b",
+  "firstName": "Darline",
+  "lastName": "Mantz",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG974113",
+      "type": "Desktop",
+      "mac": "56-82-3B-6B-B5-7D",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "50436764",
+      "purchaseDate": "2020-02-03T20:51:28Z",
+      "warrantyStart": "2016-06-15T15:20:19Z",
+      "warrantyEnd": "2025-05-30T07:49:08Z",
+      "notes": "Repair Multiple Parathyroid Glands, Open Approach"
+    },
+    {
+      "assetTag": "UG475030",
+      "type": "Desktop",
+      "mac": "3D-6D-26-40-C2-50",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "40445324",
+      "purchaseDate": "2020-09-06T15:39:58Z",
+      "warrantyStart": "2016-04-17T04:52:17Z",
+      "warrantyEnd": "2024-11-03T04:09:10Z",
+      "notes": "Bypass Ascending Colon to Cutaneous with Synthetic Substitute, Open Approach"
+    }
+  ]
+}, {
+  "id": "a5127153-cc07-41dd-aa97-4a3f18d17f9b",
+  "firstName": "Stanley",
+  "lastName": "Hurn",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG424454",
+      "type": "Laptop",
+      "mac": "A8-ED-22-FE-D4-11",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "56813100",
+      "purchaseDate": "2020-09-25T13:59:56Z",
+      "warrantyStart": "2022-07-30T21:27:04Z",
+      "warrantyEnd": "2023-03-07T06:24:44Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG229052",
+      "type": "Laptop",
+      "mac": "69-EA-30-C1-06-EE",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "57463813",
+      "purchaseDate": "2018-02-13T08:58:37Z",
+      "warrantyStart": "2018-12-09T00:01:24Z",
+      "warrantyEnd": "2028-07-22T09:25:25Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "bddb4c75-3785-487e-b534-2b894a269403",
+  "firstName": "Concettina",
+  "lastName": "Muscroft",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG540959",
+      "type": "Laptop",
+      "mac": "CD-D0-85-55-72-25",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "12191150",
+      "purchaseDate": "2021-12-03T20:54:14Z",
+      "warrantyStart": "2012-09-14T13:33:22Z",
+      "warrantyEnd": "2030-08-14T14:21:19Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG686917",
+      "type": "Desktop",
+      "mac": "90-3A-49-7B-EF-8C",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "10276903",
+      "purchaseDate": "2016-11-10T05:33:36Z",
+      "warrantyStart": "2014-07-18T13:23:03Z",
+      "warrantyEnd": "2026-06-21T09:10:08Z",
+      "notes": "Computerized Tomography (CT Scan) of Brain using High Osmolar Contrast, Unenhanced and Enhanced"
+    },
+    {
+      "assetTag": "UG789669",
+      "type": "Laptop",
+      "mac": "87-BB-63-D8-01-5E",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "19890426",
+      "purchaseDate": "2011-11-17T18:41:59Z",
+      "warrantyStart": "2018-04-16T00:22:48Z",
+      "warrantyEnd": "2025-08-03T13:10:03Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "5026fcab-489a-4c50-bf23-9841cd4254e3",
+  "firstName": "Karlen",
+  "lastName": "Simao",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG413563",
+      "type": "Laptop",
+      "mac": "19-75-D6-A6-2B-E8",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "26528450",
+      "purchaseDate": "2014-12-13T17:13:25Z",
+      "warrantyStart": "2019-04-24T16:25:04Z",
+      "warrantyEnd": "2028-05-08T04:46:51Z",
+      "notes": "Extirpation of Matter from Left Mandible, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG083439",
+      "type": "Desktop",
+      "mac": "B5-83-49-16-EF-06",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "76564695",
+      "purchaseDate": "2013-02-04T22:58:52Z",
+      "warrantyStart": "2015-01-06T22:53:31Z",
+      "warrantyEnd": "2023-02-19T08:13:43Z",
+      "notes": "Supplement Right Neck Lymphatic with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG469931",
+      "type": "Laptop",
+      "mac": "AC-23-0C-06-EA-53",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "73607347",
+      "purchaseDate": "2015-03-04T11:44:20Z",
+      "warrantyStart": "2021-05-02T16:12:16Z",
+      "warrantyEnd": "2025-12-25T07:46:30Z",
+      "notes": "Insertion of Infusion Device into Right Lung, Open Approach"
+    }
+  ]
+}, {
+  "id": "70288adb-ff99-4af2-b662-e5e1fe377b96",
+  "firstName": "Roley",
+  "lastName": "Nashe",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG898425",
+      "type": "Desktop",
+      "mac": "B6-68-5A-97-BB-6F",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "93173583",
+      "purchaseDate": "2020-05-06T22:03:45Z",
+      "warrantyStart": "2014-04-09T03:43:31Z",
+      "warrantyEnd": "2028-02-20T05:03:29Z",
+      "notes": "Removal of Nonautologous Tissue Substitute from Left Breast, External Approach"
+    }
+  ]
+}, {
+  "id": "9d2cf617-2eb0-4b1e-bacd-2b19cf9bdfaf",
+  "firstName": "Tanny",
+  "lastName": "Kyles",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG577893",
+      "type": "Desktop",
+      "mac": "F9-C6-FB-31-71-C7",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "76256478",
+      "purchaseDate": "2011-07-28T13:09:53Z",
+      "warrantyStart": "2021-07-04T18:18:17Z",
+      "warrantyEnd": "2026-08-04T11:45:59Z",
+      "notes": "Beam Radiation of Pelvic Region using Neutron Capture"
+    }
+  ]
+}, {
+  "id": "73bfc7ed-5898-445b-88fb-f59960555c58",
+  "firstName": "Kial",
+  "lastName": "Townsend",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG414459",
+      "type": "Desktop",
+      "mac": "3C-8E-32-98-DC-5F",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "62991655",
+      "purchaseDate": "2019-11-06T12:28:34Z",
+      "warrantyStart": "2021-07-02T21:45:33Z",
+      "warrantyEnd": "2029-03-31T21:25:46Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG299302",
+      "type": "Laptop",
+      "mac": "B5-69-2D-89-31-6E",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "34037357",
+      "purchaseDate": "2015-03-06T15:27:50Z",
+      "warrantyStart": "2012-12-04T04:03:20Z",
+      "warrantyEnd": "2024-05-21T10:57:03Z",
+      "notes": "Removal of Synthetic Substitute from Cervical Vertebra, Open Approach"
+    }
+  ]
+}, {
+  "id": "e23cd150-23c5-4e4a-9aff-b8cce44ffff0",
+  "firstName": "Edward",
+  "lastName": "Massard",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG049675",
+      "type": "Desktop",
+      "mac": "9A-34-AC-FE-4F-5B",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "31081500",
+      "purchaseDate": "2012-11-13T04:25:11Z",
+      "warrantyStart": "2010-10-15T17:28:29Z",
+      "warrantyEnd": "2022-12-26T17:44:22Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG394365",
+      "type": "Laptop",
+      "mac": "C8-34-E7-D4-7A-EF",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "35579462",
+      "purchaseDate": "2019-04-03T15:32:47Z",
+      "warrantyStart": "2011-12-31T00:26:12Z",
+      "warrantyEnd": "2023-12-29T04:39:21Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "d91c38c3-cfde-4e34-848f-376cef9b124c",
+  "firstName": "Eudora",
+  "lastName": "Maliffe",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG630650",
+      "type": "Desktop",
+      "mac": "D6-DA-7B-3D-3C-08",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "67486946",
+      "purchaseDate": "2012-04-29T00:34:16Z",
+      "warrantyStart": "2019-03-29T01:58:16Z",
+      "warrantyEnd": "2027-10-15T05:24:36Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG486090",
+      "type": "Desktop",
+      "mac": "AF-58-65-F7-70-EB",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "31346981",
+      "purchaseDate": "2012-02-19T11:46:57Z",
+      "warrantyStart": "2017-07-09T12:54:37Z",
+      "warrantyEnd": "2027-09-22T23:29:25Z",
+      "notes": "Removal of Nonautologous Tissue Substitute from Thoracic Vertebral Joint, Percutaneous Approach"
+    },
+    {
+      "assetTag": "UG354594",
+      "type": "Desktop",
+      "mac": "0E-A8-44-54-78-C1",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "88434744",
+      "purchaseDate": "2021-09-18T03:16:59Z",
+      "warrantyStart": "2014-06-18T20:44:38Z",
+      "warrantyEnd": "2029-09-28T02:45:37Z",
+      "notes": "Repair Right Hip Joint, Open Approach"
+    }
+  ]
+}, {
+  "id": "397a31c3-1269-4021-85fa-3462a66ebf39",
+  "firstName": "Rheba",
+  "lastName": "Campkin",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG188937",
+      "type": "Laptop",
+      "mac": "53-67-B2-DD-D0-2B",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "58321910",
+      "purchaseDate": "2017-11-08T03:13:40Z",
+      "warrantyStart": "2014-09-16T15:56:29Z",
+      "warrantyEnd": "2025-07-02T02:15:29Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG079730",
+      "type": "Desktop",
+      "mac": "F9-EE-06-5A-68-2C",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "89104557",
+      "purchaseDate": "2021-06-18T05:23:37Z",
+      "warrantyStart": "2015-04-20T09:23:38Z",
+      "warrantyEnd": "2028-05-30T15:48:50Z",
+      "notes": "Drainage of Right Thyroid Gland Lobe, Percutaneous Approach, Diagnostic"
+    }
+  ]
+}, {
+  "id": "b3e0765e-e196-4001-825f-65342cd04b19",
+  "firstName": "Leontine",
+  "lastName": "Lobbe",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG209245",
+      "type": "Laptop",
+      "mac": "27-EA-04-90-6C-C6",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "81177428",
+      "purchaseDate": "2011-11-26T14:09:08Z",
+      "warrantyStart": "2014-12-18T00:24:34Z",
+      "warrantyEnd": "2027-01-18T20:52:31Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG034125",
+      "type": "Laptop",
+      "mac": "B1-4A-27-51-00-EE",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "66797956",
+      "purchaseDate": "2022-04-17T19:08:03Z",
+      "warrantyStart": "2016-02-14T07:51:45Z",
+      "warrantyEnd": "2023-04-25T00:22:42Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG852057",
+      "type": "Desktop",
+      "mac": "1E-2B-96-73-8F-6A",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "99869919",
+      "purchaseDate": "2019-04-28T20:53:43Z",
+      "warrantyStart": "2013-04-25T08:03:06Z",
+      "warrantyEnd": "2024-08-02T18:23:15Z",
+      "notes": "Extirpation of Matter from Left Superior Parathyroid Gland, Open Approach"
+    }
+  ]
+}, {
+  "id": "d922dd04-534b-4f4b-9a64-375796b3c278",
+  "firstName": "Lauryn",
+  "lastName": "Zannelli",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG243669",
+      "type": "Desktop",
+      "mac": "FC-CF-51-22-36-50",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "44456362",
+      "purchaseDate": "2014-09-15T02:01:07Z",
+      "warrantyStart": "2011-07-09T18:33:02Z",
+      "warrantyEnd": "2026-04-20T02:35:04Z",
+      "notes": "Destruction of Esophagus, Percutaneous Approach"
+    },
+    {
+      "assetTag": "UG649068",
+      "type": "Laptop",
+      "mac": "8A-7A-4E-78-8F-97",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "95839903",
+      "purchaseDate": "2020-07-11T11:25:58Z",
+      "warrantyStart": "2013-01-31T10:31:36Z",
+      "warrantyEnd": "2030-05-12T10:24:27Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "b32f495e-1f6f-4b9e-8a7f-5a28fd1900c4",
+  "firstName": "Jordan",
+  "lastName": "McGrah",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG423994",
+      "type": "Laptop",
+      "mac": "1C-A9-35-AA-C8-E1",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "05282496",
+      "purchaseDate": "2015-11-08T12:55:59Z",
+      "warrantyStart": "2012-11-11T23:12:25Z",
+      "warrantyEnd": "2023-11-20T04:00:07Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG275408",
+      "type": "Laptop",
+      "mac": "A8-B0-3A-52-1C-D0",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "84817941",
+      "purchaseDate": "2012-12-07T06:11:55Z",
+      "warrantyStart": "2019-04-24T09:02:25Z",
+      "warrantyEnd": "2030-05-22T07:53:17Z",
+      "notes": "Occlusion of Right Cephalic Vein with Intraluminal Device, Open Approach"
+    }
+  ]
+}, {
+  "id": "997422c1-0e7f-4006-a519-1a221ab5e46d",
+  "firstName": "Sergei",
+  "lastName": "Hanham",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG401951",
+      "type": "Desktop",
+      "mac": "E6-36-4A-54-4B-C5",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "73896495",
+      "purchaseDate": "2017-10-03T23:41:58Z",
+      "warrantyStart": "2021-01-06T15:02:45Z",
+      "warrantyEnd": "2024-04-29T09:11:34Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "54b41a77-f76d-4f4a-b25e-7cb89208bc70",
+  "firstName": "Celia",
+  "lastName": "Morland",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG355657",
+      "type": "Laptop",
+      "mac": "28-B4-61-B8-DA-9A",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "12438029",
+      "purchaseDate": "2017-02-15T04:06:47Z",
+      "warrantyStart": "2022-04-21T03:46:26Z",
+      "warrantyEnd": "2024-11-10T09:42:10Z",
+      "notes": "Supplement Right Trunk Bursa and Ligament with Nonautologous Tissue Substitute, Open Approach"
+    },
+    {
+      "assetTag": "UG329270",
+      "type": "Desktop",
+      "mac": "11-D2-AA-C1-DE-AF",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "47676449",
+      "purchaseDate": "2010-10-26T03:04:59Z",
+      "warrantyStart": "2019-06-02T15:19:29Z",
+      "warrantyEnd": "2029-01-18T20:50:46Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "a21ea09c-9383-47a1-83ac-a5981d540be9",
+  "firstName": "Abbott",
+  "lastName": "Pirri",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG896429",
+      "type": "Laptop",
+      "mac": "D0-A1-BA-DC-09-B7",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "73218782",
+      "purchaseDate": "2020-03-23T06:38:09Z",
+      "warrantyStart": "2017-08-15T16:55:44Z",
+      "warrantyEnd": "2027-12-28T15:04:21Z",
+      "notes": "Reposition Nasal Bone with Internal Fixation Device, Open Approach"
+    },
+    {
+      "assetTag": "UG740008",
+      "type": "Desktop",
+      "mac": "20-EE-61-F9-C4-3B",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "97288220",
+      "purchaseDate": "2015-08-08T17:21:49Z",
+      "warrantyStart": "2022-06-22T10:28:16Z",
+      "warrantyEnd": "2025-09-22T05:16:40Z",
+      "notes": "Removal of Monitoring Device from Pancreatic Duct, Percutaneous Approach"
+    }
+  ]
+}, {
+  "id": "77acb2d5-230d-4744-a3a8-a4d2100baa64",
+  "firstName": "Johnette",
+  "lastName": "Cookes",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG045027",
+      "type": "Laptop",
+      "mac": "FB-CB-8B-DF-09-9D",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "68758360",
+      "purchaseDate": "2011-10-08T11:19:17Z",
+      "warrantyStart": "2016-05-03T08:27:23Z",
+      "warrantyEnd": "2025-07-17T17:59:46Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "92384635-b657-4d05-a979-0a18cd995416",
+  "firstName": "Sondra",
+  "lastName": "Mountford",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG443406",
+      "type": "Desktop",
+      "mac": "0E-ED-33-D0-B0-A7",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "16289246",
+      "purchaseDate": "2014-04-26T06:42:57Z",
+      "warrantyStart": "2014-05-07T17:43:53Z",
+      "warrantyEnd": "2026-07-28T07:57:17Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG153070",
+      "type": "Desktop",
+      "mac": "45-CB-53-32-D3-21",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "76855701",
+      "purchaseDate": "2012-04-04T13:08:33Z",
+      "warrantyStart": "2018-10-25T10:17:25Z",
+      "warrantyEnd": "2027-02-27T00:35:58Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "31446200-95e9-4731-ba55-d2e6cf2904d0",
+  "firstName": "Lennard",
+  "lastName": "Kenlin",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG334879",
+      "type": "Desktop",
+      "mac": "5E-4C-27-50-A5-6C",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "43685955",
+      "purchaseDate": "2014-10-31T11:01:58Z",
+      "warrantyStart": "2014-05-12T13:02:59Z",
+      "warrantyEnd": "2027-05-21T03:55:52Z",
+      "notes": "Supplement Left Upper Eyelid with Nonautologous Tissue Substitute, Open Approach"
+    },
+    {
+      "assetTag": "UG618832",
+      "type": "Laptop",
+      "mac": "4C-6A-B3-69-03-77",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "71185922",
+      "purchaseDate": "2020-01-28T00:37:17Z",
+      "warrantyStart": "2022-03-09T19:46:15Z",
+      "warrantyEnd": "2028-12-07T19:11:25Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "1cc7bee9-36e4-4a29-9a42-24b965934565",
+  "firstName": "Heidie",
+  "lastName": "Nesbeth",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG124019",
+      "type": "Laptop",
+      "mac": "7E-02-64-6B-3D-FF",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "15312659",
+      "purchaseDate": "2013-09-14T08:44:23Z",
+      "warrantyStart": "2021-04-29T06:50:19Z",
+      "warrantyEnd": "2024-11-16T02:20:24Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG060533",
+      "type": "Desktop",
+      "mac": "A0-D7-BC-A6-CE-ED",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "88668628",
+      "purchaseDate": "2019-11-26T21:42:50Z",
+      "warrantyStart": "2021-09-08T16:40:48Z",
+      "warrantyEnd": "2026-01-22T17:45:25Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG437429",
+      "type": "Desktop",
+      "mac": "5C-6E-83-8C-48-BB",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "40849201",
+      "purchaseDate": "2011-09-27T12:06:57Z",
+      "warrantyStart": "2013-07-17T10:42:51Z",
+      "warrantyEnd": "2022-12-07T17:40:24Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "703c1947-b5b0-466b-a6b1-14646df39608",
+  "firstName": "Petronella",
+  "lastName": "McMillam",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG656399",
+      "type": "Desktop",
+      "mac": "9E-4A-B5-06-76-5B",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "01476088",
+      "purchaseDate": "2019-08-31T23:55:31Z",
+      "warrantyStart": "2021-04-09T00:39:11Z",
+      "warrantyEnd": "2025-01-10T16:06:02Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG215832",
+      "type": "Desktop",
+      "mac": "A6-4D-70-0B-52-50",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "30462373",
+      "purchaseDate": "2011-09-23T02:00:29Z",
+      "warrantyStart": "2011-07-07T11:00:05Z",
+      "warrantyEnd": "2023-02-28T15:05:01Z",
+      "notes": "Excision of Perineum Subcutaneous Tissue and Fascia, Open Approach"
+    }
+  ]
+}, {
+  "id": "0520f2dd-1862-4c01-b1de-de3a1b14c342",
+  "firstName": "Brewer",
+  "lastName": "Treamayne",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG504434",
+      "type": "Desktop",
+      "mac": "06-DD-DD-D1-F2-C8",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "08129423",
+      "purchaseDate": "2019-02-22T04:00:47Z",
+      "warrantyStart": "2012-01-30T12:21:26Z",
+      "warrantyEnd": "2025-11-02T13:40:57Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "277a8e54-7322-4796-93b9-da2b2c82b31f",
+  "firstName": "Carmine",
+  "lastName": "Orrow",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG536228",
+      "type": "Laptop",
+      "mac": "E9-C6-08-54-8B-EC",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "62996339",
+      "purchaseDate": "2013-01-12T22:48:30Z",
+      "warrantyStart": "2016-10-05T08:11:24Z",
+      "warrantyEnd": "2026-09-12T21:43:04Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "45457989-21f9-46c2-a23f-8a6daf9b7197",
+  "firstName": "Tiler",
+  "lastName": "Blakeley",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG210279",
+      "type": "Laptop",
+      "mac": "96-AF-67-29-4F-46",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "84937462",
+      "purchaseDate": "2014-03-01T01:23:41Z",
+      "warrantyStart": "2010-10-29T15:51:57Z",
+      "warrantyEnd": "2024-09-14T17:53:18Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG861886",
+      "type": "Laptop",
+      "mac": "80-F9-AA-A4-47-77",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "51161193",
+      "purchaseDate": "2017-08-13T18:02:51Z",
+      "warrantyStart": "2017-06-16T22:09:24Z",
+      "warrantyEnd": "2026-10-09T12:17:43Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG600011",
+      "type": "Desktop",
+      "mac": "11-AD-1F-94-C1-B0",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "43196544",
+      "purchaseDate": "2012-08-19T06:22:36Z",
+      "warrantyStart": "2020-06-23T14:31:01Z",
+      "warrantyEnd": "2024-01-03T18:52:44Z",
+      "notes": "Extirpation of Matter from Right Main Bronchus, Percutaneous Endoscopic Approach"
+    }
+  ]
+}, {
+  "id": "bd0b56ba-c099-4831-bcb8-95a9aacea42f",
+  "firstName": "Joletta",
+  "lastName": "Cersey",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG385851",
+      "type": "Desktop",
+      "mac": "BF-CF-97-A7-44-08",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "96522814",
+      "purchaseDate": "2016-01-13T08:02:20Z",
+      "warrantyStart": "2018-04-26T12:08:31Z",
+      "warrantyEnd": "2024-07-04T23:39:37Z",
+      "notes": "Drainage of Right Metacarpocarpal Joint, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG336736",
+      "type": "Laptop",
+      "mac": "41-DF-EF-5B-FA-CF",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "98911056",
+      "purchaseDate": "2012-08-05T08:16:42Z",
+      "warrantyStart": "2021-05-01T19:00:51Z",
+      "warrantyEnd": "2025-02-03T03:44:28Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG581989",
+      "type": "Desktop",
+      "mac": "1C-33-6F-C0-BF-A1",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "64182272",
+      "purchaseDate": "2014-01-03T14:34:55Z",
+      "warrantyStart": "2014-11-28T14:15:59Z",
+      "warrantyEnd": "2023-07-24T18:27:46Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "6237b3c6-12b4-4c9b-9c95-b88cbab83603",
+  "firstName": "Flo",
+  "lastName": "Castiglio",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG976223",
+      "type": "Laptop",
+      "mac": "28-9B-7C-7D-25-04",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "56826076",
+      "purchaseDate": "2012-06-20T21:43:19Z",
+      "warrantyStart": "2018-06-02T23:01:45Z",
+      "warrantyEnd": "2023-08-16T16:00:37Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG249280",
+      "type": "Desktop",
+      "mac": "52-EF-67-EB-D5-71",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "29722784",
+      "purchaseDate": "2014-07-25T09:19:51Z",
+      "warrantyStart": "2014-03-08T21:51:21Z",
+      "warrantyEnd": "2025-08-31T23:46:11Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG250977",
+      "type": "Laptop",
+      "mac": "8E-29-2C-78-52-9B",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "06705684",
+      "purchaseDate": "2018-11-14T07:41:47Z",
+      "warrantyStart": "2016-08-28T21:22:36Z",
+      "warrantyEnd": "2029-01-19T05:38:14Z",
+      "notes": "Extirpation of Matter from Right Ethmoid Sinus, Percutaneous Approach"
+    }
+  ]
+}, {
+  "id": "4b4e9c6c-6604-4b8f-8acb-525d62c413aa",
+  "firstName": "Leif",
+  "lastName": "Kliemchen",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG392015",
+      "type": "Desktop",
+      "mac": "D0-A7-F3-0F-EA-AC",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "44294344",
+      "purchaseDate": "2015-09-12T06:41:13Z",
+      "warrantyStart": "2016-07-10T04:19:58Z",
+      "warrantyEnd": "2029-02-02T13:47:08Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "dbc7d2f5-13e6-4b71-aa4a-027c6332ea3f",
+  "firstName": "Cassandry",
+  "lastName": "Jollands",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG022477",
+      "type": "Desktop",
+      "mac": "C3-64-02-E9-FB-D0",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "11249895",
+      "purchaseDate": "2010-12-23T13:05:56Z",
+      "warrantyStart": "2016-07-30T04:46:19Z",
+      "warrantyEnd": "2023-06-14T07:41:05Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG223027",
+      "type": "Desktop",
+      "mac": "9A-0E-DB-19-E2-3B",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "61568422",
+      "purchaseDate": "2019-06-22T19:52:22Z",
+      "warrantyStart": "2016-06-04T07:10:51Z",
+      "warrantyEnd": "2028-02-04T11:47:33Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG677148",
+      "type": "Laptop",
+      "mac": "83-7F-3A-F4-F7-71",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "02843158",
+      "purchaseDate": "2011-04-15T01:29:27Z",
+      "warrantyStart": "2020-03-05T23:58:56Z",
+      "warrantyEnd": "2024-07-10T01:50:19Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "227f7373-89b5-45fa-937f-e1a2b0adef8a",
+  "firstName": "Shelley",
+  "lastName": "Painswick",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG020339",
+      "type": "Laptop",
+      "mac": "E1-2F-DA-66-64-E1",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "15552117",
+      "purchaseDate": "2021-02-09T13:48:32Z",
+      "warrantyStart": "2014-05-19T21:40:02Z",
+      "warrantyEnd": "2026-03-12T15:13:28Z",
+      "notes": "Reposition Descending Colon, External Approach"
+    }
+  ]
+}, {
+  "id": "ae31a05d-99c0-48fa-8686-d8c927699ab5",
+  "firstName": "Milo",
+  "lastName": "Whitney",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG073081",
+      "type": "Laptop",
+      "mac": "73-B5-EF-A9-0A-5F",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "21646920",
+      "purchaseDate": "2016-06-30T04:33:19Z",
+      "warrantyStart": "2013-08-05T00:59:37Z",
+      "warrantyEnd": "2025-05-21T18:29:40Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG906608",
+      "type": "Desktop",
+      "mac": "86-D5-2B-31-B5-1A",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "62385016",
+      "purchaseDate": "2012-12-06T20:47:21Z",
+      "warrantyStart": "2021-02-08T12:51:36Z",
+      "warrantyEnd": "2022-11-30T11:27:30Z",
+      "notes": "Plain Radiography of Right Shoulder using Low Osmolar Contrast"
+    },
+    {
+      "assetTag": "UG661566",
+      "type": "Desktop",
+      "mac": "7C-29-9C-5E-C2-2F",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "65061571",
+      "purchaseDate": "2014-01-16T05:30:03Z",
+      "warrantyStart": "2016-02-28T17:04:46Z",
+      "warrantyEnd": "2023-04-25T10:00:28Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "6fd3be92-a917-44d4-873f-e30927952ad5",
+  "firstName": "Lotty",
+  "lastName": "Miko",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG991419",
+      "type": "Laptop",
+      "mac": "33-C6-AF-A7-1A-EC",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "86623251",
+      "purchaseDate": "2021-03-11T09:45:22Z",
+      "warrantyStart": "2020-09-20T13:52:13Z",
+      "warrantyEnd": "2023-08-18T18:48:08Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG106491",
+      "type": "Laptop",
+      "mac": "10-9D-A4-6B-D0-95",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "36147238",
+      "purchaseDate": "2020-08-09T01:34:43Z",
+      "warrantyStart": "2014-08-06T13:58:58Z",
+      "warrantyEnd": "2026-12-18T11:40:37Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "ce91c7a4-0b9b-4e9a-afec-272301e7c7f7",
+  "firstName": "Salomone",
+  "lastName": "Sandercock",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG585746",
+      "type": "Laptop",
+      "mac": "26-80-A8-D2-9A-B0",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "18931150",
+      "purchaseDate": "2015-09-21T12:50:29Z",
+      "warrantyStart": "2012-04-17T07:41:30Z",
+      "warrantyEnd": "2027-04-26T20:48:21Z",
+      "notes": "Release Cerebral Ventricle, Percutaneous Approach"
+    },
+    {
+      "assetTag": "UG389204",
+      "type": "Laptop",
+      "mac": "2E-56-18-6C-E9-7F",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "35026700",
+      "purchaseDate": "2021-04-04T21:05:32Z",
+      "warrantyStart": "2011-07-24T11:23:52Z",
+      "warrantyEnd": "2025-01-28T12:46:15Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG297815",
+      "type": "Desktop",
+      "mac": "F0-E7-71-5A-0B-66",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "11459481",
+      "purchaseDate": "2021-10-27T11:54:04Z",
+      "warrantyStart": "2016-04-25T17:18:17Z",
+      "warrantyEnd": "2030-06-04T12:13:57Z",
+      "notes": "Reposition Right Ureter, Percutaneous Endoscopic Approach"
+    }
+  ]
+}, {
+  "id": "9a98dfbe-fc7b-414f-ac46-6f7a9a5a2cbf",
+  "firstName": "Daphna",
+  "lastName": "Daniellot",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG870955",
+      "type": "Laptop",
+      "mac": "13-3F-19-4A-F7-64",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "95103509",
+      "purchaseDate": "2014-03-07T20:45:10Z",
+      "warrantyStart": "2018-11-14T22:39:38Z",
+      "warrantyEnd": "2027-10-24T11:43:39Z",
+      "notes": "Dilation of Innominate Artery, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    },
+    {
+      "assetTag": "UG939097",
+      "type": "Laptop",
+      "mac": "0A-9D-8B-AD-28-13",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "32347524",
+      "purchaseDate": "2018-08-22T08:52:58Z",
+      "warrantyStart": "2015-08-02T08:50:39Z",
+      "warrantyEnd": "2024-04-14T15:06:28Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "dc227e93-3c51-4209-81ca-6b9524f40e62",
+  "firstName": "Shawn",
+  "lastName": "Yankov",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG417378",
+      "type": "Laptop",
+      "mac": "A9-09-E7-85-31-02",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "66142660",
+      "purchaseDate": "2011-07-30T00:53:14Z",
+      "warrantyStart": "2011-11-06T22:51:59Z",
+      "warrantyEnd": "2024-09-22T07:47:54Z",
+      "notes": "Reposition Right Hepatic Duct, Percutaneous Endoscopic Approach"
+    },
+    {
+      "assetTag": "UG636990",
+      "type": "Desktop",
+      "mac": "4E-C2-8B-13-47-14",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "10186352",
+      "purchaseDate": "2020-07-02T02:15:41Z",
+      "warrantyStart": "2020-04-01T19:15:44Z",
+      "warrantyEnd": "2026-03-06T06:59:21Z",
+      "notes": "Drainage of Left External Carotid Artery, Percutaneous Endoscopic Approach, Diagnostic"
+    }
+  ]
+}, {
+  "id": "d877a7ed-162d-4a2e-9edc-14f770fc5aa7",
+  "firstName": "Izaak",
+  "lastName": "Crecy",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG541246",
+      "type": "Laptop",
+      "mac": "59-CB-7D-C5-75-76",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "79905320",
+      "purchaseDate": "2020-07-15T09:28:55Z",
+      "warrantyStart": "2018-10-25T20:07:38Z",
+      "warrantyEnd": "2027-10-23T07:00:41Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG866404",
+      "type": "Desktop",
+      "mac": "F9-FE-DC-2B-8E-83",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "27579128",
+      "purchaseDate": "2022-04-08T01:30:40Z",
+      "warrantyStart": "2012-05-01T05:34:22Z",
+      "warrantyEnd": "2022-12-01T18:57:29Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG341906",
+      "type": "Desktop",
+      "mac": "A0-8A-0F-55-00-A7",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "29708831",
+      "purchaseDate": "2020-12-02T12:13:20Z",
+      "warrantyStart": "2019-11-30T04:15:23Z",
+      "warrantyEnd": "2023-02-03T12:03:02Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "4b8dbbfa-bc4b-4ef0-8066-e442852aef78",
+  "firstName": "Caddric",
+  "lastName": "Tait",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG062827",
+      "type": "Laptop",
+      "mac": "DD-1B-F9-C4-5D-5A",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "05437041",
+      "purchaseDate": "2011-04-27T23:32:40Z",
+      "warrantyStart": "2012-06-10T00:10:22Z",
+      "warrantyEnd": "2025-05-27T21:29:37Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "1e300d33-ac7b-49cd-86ce-2d2dadee4e59",
+  "firstName": "Pyotr",
+  "lastName": "Garrett",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG734727",
+      "type": "Laptop",
+      "mac": "52-90-C3-7E-1C-97",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "97674742",
+      "purchaseDate": "2016-06-29T11:25:44Z",
+      "warrantyStart": "2015-04-09T22:52:59Z",
+      "warrantyEnd": "2026-02-25T03:54:17Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG915473",
+      "type": "Laptop",
+      "mac": "98-59-9D-BF-50-99",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "24028747",
+      "purchaseDate": "2022-07-26T13:09:47Z",
+      "warrantyStart": "2013-06-16T02:10:14Z",
+      "warrantyEnd": "2026-06-14T17:49:46Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG731600",
+      "type": "Desktop",
+      "mac": "98-79-07-CD-AB-1F",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "27873383",
+      "purchaseDate": "2022-02-19T05:55:52Z",
+      "warrantyStart": "2021-11-21T20:58:50Z",
+      "warrantyEnd": "2024-07-30T19:13:33Z",
+      "notes": "Alteration of Left Shoulder Region, Open Approach"
+    }
+  ]
+}, {
+  "id": "8b6f2cd5-03b8-4519-9701-de3e0033db9b",
+  "firstName": "Maddalena",
+  "lastName": "Godfree",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG950550",
+      "type": "Laptop",
+      "mac": "B9-DE-EC-6C-D1-21",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "08761071",
+      "purchaseDate": "2014-01-05T11:46:18Z",
+      "warrantyStart": "2014-04-19T14:51:22Z",
+      "warrantyEnd": "2027-02-05T03:37:51Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG920460",
+      "type": "Desktop",
+      "mac": "69-F8-9A-14-20-E0",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "66393406",
+      "purchaseDate": "2014-12-02T11:45:43Z",
+      "warrantyStart": "2011-04-12T09:27:20Z",
+      "warrantyEnd": "2028-10-29T11:00:41Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "7063a9eb-3d54-4fc6-9ac3-28adf3bcb8b6",
+  "firstName": "Stan",
+  "lastName": "Tidgewell",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG366023",
+      "type": "Laptop",
+      "mac": "6C-28-35-14-A8-FB",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "72042415",
+      "purchaseDate": "2016-04-14T21:21:33Z",
+      "warrantyStart": "2019-05-17T17:24:53Z",
+      "warrantyEnd": "2025-04-29T11:53:09Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG822943",
+      "type": "Desktop",
+      "mac": "77-F7-88-29-F2-7D",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "80151044",
+      "purchaseDate": "2017-12-10T07:37:14Z",
+      "warrantyStart": "2011-07-16T10:23:12Z",
+      "warrantyEnd": "2024-10-05T07:28:03Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG286148",
+      "type": "Desktop",
+      "mac": "D0-C2-A1-3D-0C-1F",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "13064255",
+      "purchaseDate": "2017-11-22T03:44:22Z",
+      "warrantyStart": "2018-10-30T16:41:38Z",
+      "warrantyEnd": "2029-08-24T20:41:57Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "9888cbfd-6fba-4ef4-8300-35c6cc754d9b",
+  "firstName": "Malinde",
+  "lastName": "Hartzogs",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG130519",
+      "type": "Desktop",
+      "mac": "5A-4B-36-1A-23-BE",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "64865134",
+      "purchaseDate": "2019-01-09T23:43:24Z",
+      "warrantyStart": "2018-08-13T00:59:47Z",
+      "warrantyEnd": "2028-02-05T08:54:29Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "61791787-e727-4465-80ad-9bbb6d10bb18",
+  "firstName": "Annmaria",
+  "lastName": "Bloxland",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG752972",
+      "type": "Desktop",
+      "mac": "CD-FD-23-28-1F-35",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "20299535",
+      "purchaseDate": "2021-05-01T10:14:30Z",
+      "warrantyStart": "2012-01-13T13:41:18Z",
+      "warrantyEnd": "2029-01-06T19:15:32Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG196039",
+      "type": "Desktop",
+      "mac": "01-94-33-66-1C-71",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "16058813",
+      "purchaseDate": "2021-11-11T19:21:05Z",
+      "warrantyStart": "2015-01-17T00:44:39Z",
+      "warrantyEnd": "2027-06-09T13:16:31Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "be95dc6d-f53d-4248-8598-2fe5d0ebe8a4",
+  "firstName": "Charisse",
+  "lastName": "Priest",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG422142",
+      "type": "Desktop",
+      "mac": "A4-3E-A1-05-8D-96",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "49044855",
+      "purchaseDate": "2020-09-05T10:11:25Z",
+      "warrantyStart": "2018-03-14T05:16:15Z",
+      "warrantyEnd": "2029-04-29T16:56:55Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG415760",
+      "type": "Laptop",
+      "mac": "A3-8C-3E-36-1B-4C",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "21470056",
+      "purchaseDate": "2022-03-31T10:36:13Z",
+      "warrantyStart": "2020-07-09T13:43:44Z",
+      "warrantyEnd": "2027-09-30T01:40:36Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG234686",
+      "type": "Desktop",
+      "mac": "3E-36-CF-29-DF-17",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "22869157",
+      "purchaseDate": "2016-01-10T02:35:40Z",
+      "warrantyStart": "2014-02-18T17:25:16Z",
+      "warrantyEnd": "2026-06-04T02:23:23Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "61fcade8-60b4-4562-940d-151a068e4d8b",
+  "firstName": "Bryna",
+  "lastName": "Torrie",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG873650",
+      "type": "Desktop",
+      "mac": "01-2E-D0-B9-F8-0B",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "60662254",
+      "purchaseDate": "2020-10-11T01:59:31Z",
+      "warrantyStart": "2016-03-12T06:05:15Z",
+      "warrantyEnd": "2026-08-13T01:02:53Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG685012",
+      "type": "Desktop",
+      "mac": "25-07-BC-2C-C1-14",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "25796468",
+      "purchaseDate": "2013-02-08T07:42:13Z",
+      "warrantyStart": "2018-04-27T13:41:16Z",
+      "warrantyEnd": "2023-02-15T20:17:58Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "78fd0496-07b1-4999-97f3-115cc529b24a",
+  "firstName": "Luca",
+  "lastName": "Hebner",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG309742",
+      "type": "Desktop",
+      "mac": "78-AD-2F-F1-D3-C6",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "46958185",
+      "purchaseDate": "2016-04-16T05:54:41Z",
+      "warrantyStart": "2013-12-04T01:51:40Z",
+      "warrantyEnd": "2023-05-04T03:09:11Z",
+      "notes": "Reposition Right Metatarsal-Phalangeal Joint with Internal Fixation Device, External Approach"
+    },
+    {
+      "assetTag": "UG947454",
+      "type": "Desktop",
+      "mac": "AB-3B-90-AF-93-A5",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "75107105",
+      "purchaseDate": "2019-07-04T05:36:23Z",
+      "warrantyStart": "2010-12-06T08:24:06Z",
+      "warrantyEnd": "2022-12-21T19:21:14Z",
+      "notes": "Insertion of Infusion Device into Spleen, Open Approach"
+    },
+    {
+      "assetTag": "UG021966",
+      "type": "Desktop",
+      "mac": "E5-07-26-9F-99-91",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "16412330",
+      "purchaseDate": "2019-08-09T01:53:23Z",
+      "warrantyStart": "2016-09-19T18:10:36Z",
+      "warrantyEnd": "2026-09-28T15:16:00Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "4e7d199d-42f1-4f16-a93b-709a988205c9",
+  "firstName": "Devora",
+  "lastName": "Esel",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG673290",
+      "type": "Laptop",
+      "mac": "39-C5-FD-2F-B3-79",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "76705911",
+      "purchaseDate": "2011-02-21T02:09:14Z",
+      "warrantyStart": "2017-10-24T23:05:07Z",
+      "warrantyEnd": "2027-05-22T21:12:42Z",
+      "notes": null
+    }
+  ]
+}, {
+  "id": "34a53bd3-de93-495c-8821-69c7364c4fa5",
+  "firstName": "Nissy",
+  "lastName": "Fellona",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG422212",
+      "type": "Desktop",
+      "mac": "1E-C7-D7-C6-F8-6A",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "57969482",
+      "purchaseDate": "2013-10-01T15:04:06Z",
+      "warrantyStart": "2021-01-19T10:27:19Z",
+      "warrantyEnd": "2023-05-14T14:02:47Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG652936",
+      "type": "Laptop",
+      "mac": "C4-E8-F4-C0-E8-46",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "92023404",
+      "purchaseDate": "2019-02-05T05:31:53Z",
+      "warrantyStart": "2020-01-18T08:56:03Z",
+      "warrantyEnd": "2028-03-12T17:12:11Z",
+      "notes": null
+    },
+    {
+      "assetTag": "UG790446",
+      "type": "Laptop",
+      "mac": "86-69-1C-C8-77-84",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "39381570",
+      "purchaseDate": "2017-01-10T13:29:04Z",
+      "warrantyStart": "2019-06-08T11:49:23Z",
+      "warrantyEnd": "2030-02-12T11:12:01Z",
+      "notes": "Replacement of Right Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach"
     }
   ]
 }]
