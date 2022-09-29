@@ -1,3101 +1,3171 @@
 [{
-  "id": "add55021-3ac0-4c4c-8cbe-bada4aeac9d6",
-  "firstName": "Lauren",
-  "lastName": "Goodie",
-  "department": "LID",
+  "id": "25b9760c-8a8d-40f1-8368-ff61e59d5b7f",
+  "firstName": "Neila",
+  "lastName": "Guly",
+  "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG452885",
-      "type": "Desktop",
-      "mac": "5D-90-27-BA-88-63",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "15704914",
-      "purchaseDate": "2020-08-03T18:42:24Z",
-      "warrantyStart": "2019-11-17T16:02:50Z",
-      "warrantyEnd": "2027-12-21T09:14:06Z",
-      "notes": "Fluoroscopy of Thoraco-Abdominal Aorta using Other Contrast, Laser Intraoperative"
+      "assetTag": "UG822364",
+      "type": "Laptop",
+      "mac": "FF-2B-37-34-4B-FB",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "16060686",
+      "purchaseDate": "2010-11-02T05:40:08Z",
+      "warrantyStart": "2016-01-16T13:20:28Z",
+      "warrantyEnd": "2028-11-05T18:55:41Z",
+      "notes": "Bypass Right Femoral Artery to Bilateral Femoral Arteries with Synthetic Substitute, Percutaneous Endoscopic Approach",
+      "archived": false
     },
     {
-      "assetTag": "UG785186",
+      "assetTag": "UG561851",
       "type": "Desktop",
-      "mac": "79-17-3E-ED-CE-0B",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "48302064",
-      "purchaseDate": "2019-10-19T03:18:51Z",
-      "warrantyStart": "2012-10-01T15:08:04Z",
-      "warrantyEnd": "2028-02-16T01:26:51Z",
-      "notes": "Supplement Right Tibia with Autologous Tissue Substitute, Percutaneous Approach"
+      "mac": "53-B8-14-15-8F-4B",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "13071110",
+      "purchaseDate": "2017-11-23T23:22:09Z",
+      "warrantyStart": "2011-02-27T21:26:42Z",
+      "warrantyEnd": "2029-12-28T17:50:53Z",
+      "notes": "Removal of External Fixation Device from Left Metatarsal-Phalangeal Joint, Percutaneous Endoscopic Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG057645",
+      "type": "Desktop",
+      "mac": "E5-9E-BD-E1-14-2C",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "04319879",
+      "purchaseDate": "2015-10-27T00:40:32Z",
+      "warrantyStart": "2018-12-11T10:53:08Z",
+      "warrantyEnd": "2027-05-10T17:24:24Z",
+      "notes": "Chiropractic Manipulation of Lumbar Region, Extra-Articular",
+      "archived": true
     }
   ]
 }, {
-  "id": "d6c5d3ad-d8b5-46a5-a539-276d5b516f43",
-  "firstName": "Avril",
-  "lastName": "Aujean",
+  "id": "27c627cb-65f3-4d22-8b83-88dbcaa4d0ec",
+  "firstName": "Saree",
+  "lastName": "Maliphant",
   "department": "STU",
   "devices": [
     {
-      "assetTag": "UG118886",
+      "assetTag": "UG579681",
+      "type": "Laptop",
+      "mac": "18-3B-A7-4F-D5-F6",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "34853117",
+      "purchaseDate": "2016-07-12T13:39:00Z",
+      "warrantyStart": "2019-11-30T20:05:23Z",
+      "warrantyEnd": "2030-02-22T07:34:29Z",
+      "notes": "Excision of Left Radial Artery, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "b478d1b3-1986-45c1-a23d-d58440fe423e",
+  "firstName": "Devlin",
+  "lastName": "Kuban",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG477052",
+      "type": "Laptop",
+      "mac": "EC-48-FB-1A-BA-93",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "98065830",
+      "purchaseDate": "2015-10-05T01:53:08Z",
+      "warrantyStart": "2013-11-20T15:40:22Z",
+      "warrantyEnd": "2023-07-23T21:35:45Z",
+      "notes": "Extirpation of Matter from Right Axillary Artery, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "eaa325e5-fcbb-427c-9717-62dbe156df19",
+  "firstName": "Bili",
+  "lastName": "Reiglar",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG155944",
+      "type": "Laptop",
+      "mac": "77-A7-78-34-64-5F",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "99591945",
+      "purchaseDate": "2017-08-05T04:02:03Z",
+      "warrantyStart": "2013-01-23T05:13:32Z",
+      "warrantyEnd": "2025-08-10T13:43:51Z",
+      "notes": "Fluoroscopy of Gallbladder and Bile Ducts using Low Osmolar Contrast",
+      "archived": false
+    },
+    {
+      "assetTag": "UG513127",
       "type": "Desktop",
-      "mac": "F8-5F-BA-58-2D-E0",
+      "mac": "A3-E3-64-96-DD-E8",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "71404059",
+      "purchaseDate": "2020-04-16T00:32:37Z",
+      "warrantyStart": "2012-11-03T09:53:12Z",
+      "warrantyEnd": "2030-08-03T03:26:07Z",
+      "notes": "Insertion of Infusion Device into Left Hip Joint, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG426984",
+      "type": "Desktop",
+      "mac": "04-49-76-7A-5A-A7",
       "manufacturer": "HP",
       "model": "ProBook",
-      "serialNumber": "31106093",
-      "purchaseDate": "2018-10-09T16:32:28Z",
-      "warrantyStart": "2022-03-25T08:56:07Z",
-      "warrantyEnd": "2026-10-19T15:42:56Z",
-      "notes": "Alteration of Right Upper Leg with Nonautologous Tissue Substitute, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG293985",
-      "type": "Desktop",
-      "mac": "9C-DC-0B-28-34-10",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "29146419",
-      "purchaseDate": "2022-06-26T06:37:52Z",
-      "warrantyStart": "2013-07-10T11:34:29Z",
-      "warrantyEnd": "2029-05-28T14:30:35Z",
-      "notes": "Dilation of Splenic Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG877281",
-      "type": "Laptop",
-      "mac": "F2-2C-35-D2-84-CE",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "93130410",
-      "purchaseDate": "2018-09-02T15:23:00Z",
-      "warrantyStart": "2011-07-15T13:23:13Z",
-      "warrantyEnd": "2024-06-01T16:27:32Z",
-      "notes": "Supplement Left Upper Extremity Bursa and Ligament with Synthetic Substitute, Open Approach"
+      "serialNumber": "49853716",
+      "purchaseDate": "2013-04-23T18:52:29Z",
+      "warrantyStart": "2020-03-27T08:59:58Z",
+      "warrantyEnd": "2027-04-09T21:15:07Z",
+      "notes": "Extirpation of Matter from Right Foot Tendon, Open Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "94595b52-469e-46b9-9c5c-b589a57c6e74",
-  "firstName": "Bendite",
-  "lastName": "Roizn",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG503750",
-      "type": "Desktop",
-      "mac": "9E-49-84-0F-21-D4",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "32177899",
-      "purchaseDate": "2020-12-16T01:10:29Z",
-      "warrantyStart": "2017-05-29T07:00:11Z",
-      "warrantyEnd": "2022-12-29T20:23:37Z",
-      "notes": "Excision of Right Brachial Artery, Percutaneous Approach, Diagnostic"
-    },
-    {
-      "assetTag": "UG616460",
-      "type": "Desktop",
-      "mac": "95-BA-6D-46-A5-12",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "79904130",
-      "purchaseDate": "2017-01-15T03:22:19Z",
-      "warrantyStart": "2020-08-30T01:35:09Z",
-      "warrantyEnd": "2030-02-01T02:34:11Z",
-      "notes": "Reposition Left Thyroid Artery, Open Approach"
-    },
-    {
-      "assetTag": "UG630927",
-      "type": "Laptop",
-      "mac": "32-89-E2-2A-4D-39",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "13263229",
-      "purchaseDate": "2011-06-06T20:05:42Z",
-      "warrantyStart": "2016-10-27T04:42:49Z",
-      "warrantyEnd": "2029-06-15T07:32:17Z",
-      "notes": "Excision of Right Lung, Via Natural or Artificial Opening Endoscopic"
-    }
-  ]
-}, {
-  "id": "36b03e0c-6182-4fbb-8c4a-f151bedf99e2",
-  "firstName": "Una",
-  "lastName": "Corkhill",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG303585",
-      "type": "Laptop",
-      "mac": "98-1F-88-AD-E6-00",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "83611465",
-      "purchaseDate": "2013-05-11T04:47:24Z",
-      "warrantyStart": "2015-02-06T20:50:07Z",
-      "warrantyEnd": "2027-12-20T05:36:26Z",
-      "notes": "Repair Right Ventricle, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG282720",
-      "type": "Laptop",
-      "mac": "EC-F6-38-CA-C2-E8",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "95326027",
-      "purchaseDate": "2017-01-13T06:46:32Z",
-      "warrantyStart": "2019-03-13T21:32:41Z",
-      "warrantyEnd": "2024-02-18T03:41:40Z",
-      "notes": "Drainage of Right Kidney Pelvis with Drainage Device, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG614811",
-      "type": "Laptop",
-      "mac": "CE-07-8D-16-72-88",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "91758024",
-      "purchaseDate": "2019-02-11T19:32:45Z",
-      "warrantyStart": "2018-05-10T20:10:51Z",
-      "warrantyEnd": "2029-08-18T21:32:09Z",
-      "notes": "Removal of Drainage Device from Lower Vein, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "0e14ae07-fc93-40ef-87f7-86bac13b0776",
-  "firstName": "Giff",
-  "lastName": "Stoodley",
+  "id": "bc711e4d-3305-45f7-a7b1-9b24f5f30212",
+  "firstName": "Zondra",
+  "lastName": "Goodburn",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG711734",
-      "type": "Desktop",
-      "mac": "01-88-4E-3E-9C-86",
-      "manufacturer": "Dell",
+      "assetTag": "UG444052",
+      "type": "Laptop",
+      "mac": "B6-52-07-39-A7-44",
+      "manufacturer": "HP",
       "model": "ProBook",
-      "serialNumber": "66800520",
-      "purchaseDate": "2020-06-07T06:32:32Z",
-      "warrantyStart": "2012-01-28T04:52:00Z",
-      "warrantyEnd": "2027-11-10T20:52:39Z",
-      "notes": "Excision of Left Colic Artery, Open Approach, Diagnostic"
-    }
-  ]
-}, {
-  "id": "0f04b309-9554-4882-9f8a-cef165460dd2",
-  "firstName": "Riordan",
-  "lastName": "Semble",
-  "department": "STU",
-  "devices": [
+      "serialNumber": "41213090",
+      "purchaseDate": "2018-05-19T17:12:24Z",
+      "warrantyStart": "2022-04-07T00:50:02Z",
+      "warrantyEnd": "2027-12-21T06:20:11Z",
+      "notes": "Dilation of Right Internal Carotid Artery, Bifurcation, with Two Intraluminal Devices, Open Approach",
+      "archived": true
+    },
     {
-      "assetTag": "UG336010",
+      "assetTag": "UG577394",
       "type": "Desktop",
-      "mac": "49-4C-FC-C2-61-C9",
-      "manufacturer": "Lenovo",
+      "mac": "1F-99-19-51-17-32",
+      "manufacturer": "Stone",
       "model": "EliteBook",
-      "serialNumber": "33698854",
-      "purchaseDate": "2011-09-20T15:52:53Z",
-      "warrantyStart": "2015-01-23T00:04:15Z",
-      "warrantyEnd": "2028-08-04T11:58:59Z",
-      "notes": "Occlusion of Inferior Mesenteric Artery, Open Approach"
+      "serialNumber": "44220124",
+      "purchaseDate": "2018-09-07T07:18:50Z",
+      "warrantyStart": "2017-12-04T05:49:17Z",
+      "warrantyEnd": "2030-03-18T16:18:19Z",
+      "notes": "Bypass Right Basilic Vein to Upper Vein with Synthetic Substitute, Open Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "19c5084a-40ca-4dac-917a-df8b8c02dcc7",
-  "firstName": "Cornelle",
-  "lastName": "Goode",
+  "id": "2c8fa1f6-3b55-4689-a4db-33bd5ffb3220",
+  "firstName": "Rachele",
+  "lastName": "MacGeffen",
   "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG881671",
-      "type": "Desktop",
-      "mac": "AA-CA-FF-A4-4E-1D",
-      "manufacturer": "Asus",
+      "assetTag": "UG141337",
+      "type": "Laptop",
+      "mac": "2D-6B-6A-D1-77-73",
+      "manufacturer": "HP",
       "model": "EliteBook",
-      "serialNumber": "08634141",
-      "purchaseDate": "2014-09-21T20:39:22Z",
-      "warrantyStart": "2022-03-11T13:55:57Z",
-      "warrantyEnd": "2028-02-12T07:34:33Z",
-      "notes": "Removal of External Fixation Device from Left Radius, Percutaneous Endoscopic Approach"
+      "serialNumber": "49092577",
+      "purchaseDate": "2018-03-21T10:29:24Z",
+      "warrantyStart": "2018-01-12T15:47:13Z",
+      "warrantyEnd": "2028-02-21T20:19:56Z",
+      "notes": "Occlusion of Inferior Vena Cava, Percutaneous Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "41757144-d6d1-4802-861d-cc19ba8650ca",
-  "firstName": "L;urette",
-  "lastName": "Peracco",
-  "department": "FMD",
+  "id": "fc7fe480-5d7a-4d8d-a28a-dfd769247881",
+  "firstName": "Marc",
+  "lastName": "Ackroyd",
+  "department": "LID",
   "devices": [
     {
-      "assetTag": "UG378038",
-      "type": "Laptop",
-      "mac": "70-FD-70-F6-B4-66",
+      "assetTag": "UG005681",
+      "type": "Desktop",
+      "mac": "D8-90-B4-FB-44-61",
       "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "18725324",
-      "purchaseDate": "2011-11-18T08:23:13Z",
-      "warrantyStart": "2022-06-27T18:23:35Z",
-      "warrantyEnd": "2030-01-14T10:00:44Z",
-      "notes": "Supplement Common Bile Duct with Nonautologous Tissue Substitute, Open Approach"
+      "model": "MiniBook",
+      "serialNumber": "28232351",
+      "purchaseDate": "2010-11-27T13:41:31Z",
+      "warrantyStart": "2021-08-30T04:14:09Z",
+      "warrantyEnd": "2024-02-23T08:01:03Z",
+      "notes": "Fusion of Right Temporomandibular Joint, Percutaneous Endoscopic Approach",
+      "archived": true
     },
     {
-      "assetTag": "UG282149",
+      "assetTag": "UG223991",
       "type": "Desktop",
-      "mac": "A9-7D-8E-01-E7-E2",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "42952265",
-      "purchaseDate": "2011-09-30T21:59:15Z",
-      "warrantyStart": "2016-05-19T01:59:44Z",
-      "warrantyEnd": "2025-04-24T12:28:59Z",
-      "notes": "Supplement of Right Foot Subcutaneous Tissue and Fascia with Autologous Tissue Substitute, Open Approach"
+      "mac": "A1-1E-49-94-2E-DD",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "62076487",
+      "purchaseDate": "2021-04-04T09:37:14Z",
+      "warrantyStart": "2015-12-09T23:09:36Z",
+      "warrantyEnd": "2028-09-29T02:51:38Z",
+      "notes": "Fluoroscopy of Bilateral External Carotid Arteries using Other Contrast, Laser Intraoperative",
+      "archived": false
     },
     {
-      "assetTag": "UG985367",
-      "type": "Desktop",
-      "mac": "68-C5-A6-24-42-06",
-      "manufacturer": "HP",
+      "assetTag": "UG747244",
+      "type": "Laptop",
+      "mac": "A7-8A-B0-A0-CC-65",
+      "manufacturer": "Acer",
       "model": "ProBook",
-      "serialNumber": "53064553",
-      "purchaseDate": "2011-12-24T07:35:07Z",
-      "warrantyStart": "2017-02-23T07:12:49Z",
-      "warrantyEnd": "2029-04-13T13:50:40Z",
-      "notes": "Drainage of Perineum Tendon, Percutaneous Endoscopic Approach, Diagnostic"
+      "serialNumber": "61342330",
+      "purchaseDate": "2012-10-29T20:14:42Z",
+      "warrantyStart": "2013-04-09T10:52:52Z",
+      "warrantyEnd": "2023-01-08T05:34:26Z",
+      "notes": "Release Right Shoulder Joint, Percutaneous Endoscopic Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "18044169-b6de-4a86-9405-be5b8086c0db",
-  "firstName": "Reynold",
-  "lastName": "Mash",
+  "id": "e4b69836-e7a0-438e-a12f-fd1f5313fdda",
+  "firstName": "Sheff",
+  "lastName": "Kanwell",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG903610",
+      "type": "Desktop",
+      "mac": "37-9F-F0-BE-45-FE",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "02989552",
+      "purchaseDate": "2016-05-10T00:34:07Z",
+      "warrantyStart": "2018-05-15T19:06:09Z",
+      "warrantyEnd": "2023-11-25T00:13:58Z",
+      "notes": "Extirpation of Matter from Accessory Pancreatic Duct, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG998664",
+      "type": "Laptop",
+      "mac": "DC-05-33-D0-A5-EB",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "70431839",
+      "purchaseDate": "2014-07-05T22:00:39Z",
+      "warrantyStart": "2018-05-23T15:13:53Z",
+      "warrantyEnd": "2027-02-17T22:12:19Z",
+      "notes": "Resection of Left Carotid Body, Percutaneous Endoscopic Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "f0d9dd8c-5d7e-4b9a-93bb-3724867110c1",
+  "firstName": "Jae",
+  "lastName": "McGragh",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG685030",
+      "type": "Desktop",
+      "mac": "57-B0-E6-F6-AD-F1",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "37715220",
+      "purchaseDate": "2010-10-22T07:06:59Z",
+      "warrantyStart": "2016-11-14T01:40:41Z",
+      "warrantyEnd": "2030-07-18T12:18:55Z",
+      "notes": "Removal of Drainage Device from Pancreas, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "0d73298f-35e1-46aa-94ff-416b772bf249",
+  "firstName": "Tabby",
+  "lastName": "Orpen",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG239225",
+      "type": "Desktop",
+      "mac": "CB-FE-9A-C3-E7-BB",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "31416060",
+      "purchaseDate": "2019-07-01T13:51:34Z",
+      "warrantyStart": "2013-09-22T19:32:54Z",
+      "warrantyEnd": "2026-12-06T12:38:19Z",
+      "notes": "Bypass Right Common Iliac Artery to Left Common Iliac Artery, Percutaneous Endoscopic Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG353155",
+      "type": "Desktop",
+      "mac": "BA-66-63-1F-4B-5E",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "65331492",
+      "purchaseDate": "2014-06-30T14:30:59Z",
+      "warrantyStart": "2021-06-25T23:07:57Z",
+      "warrantyEnd": "2027-06-15T20:00:08Z",
+      "notes": "Excision of Left Lower Extremity Bursa and Ligament, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "4b80b4c7-6f92-49ac-a62d-71d6482eb176",
+  "firstName": "Verna",
+  "lastName": "Ranstead",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG195817",
+      "assetTag": "UG226164",
       "type": "Laptop",
-      "mac": "5E-C8-AF-9F-C4-68",
-      "manufacturer": "Asus",
+      "mac": "B5-38-93-16-BB-D3",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "76575158",
+      "purchaseDate": "2022-03-16T11:39:20Z",
+      "warrantyStart": "2021-09-19T08:02:56Z",
+      "warrantyEnd": "2027-08-09T23:21:40Z",
+      "notes": "Occlusion of Left Lower Lobe Bronchus with Intraluminal Device, Percutaneous Endoscopic Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG238494",
+      "type": "Desktop",
+      "mac": "C5-FB-57-43-7D-94",
+      "manufacturer": "Dell",
       "model": "MiniBook",
-      "serialNumber": "03306106",
-      "purchaseDate": "2018-04-02T21:48:52Z",
-      "warrantyStart": "2019-12-03T23:22:01Z",
-      "warrantyEnd": "2023-07-16T21:49:37Z",
-      "notes": "Fusion of Coccygeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+      "serialNumber": "56243757",
+      "purchaseDate": "2013-09-22T23:45:04Z",
+      "warrantyStart": "2020-08-13T01:11:33Z",
+      "warrantyEnd": "2026-12-20T09:14:34Z",
+      "notes": "Extirpation of Matter from Thoracic Vertebral Joint, Open Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "2a63e7ef-c2d4-4d39-bb1a-7202c7b3be12",
-  "firstName": "Caddric",
-  "lastName": "Klimke",
+  "id": "17c4ed4a-5ba8-4ff9-8282-3888c886bf48",
+  "firstName": "Bird",
+  "lastName": "Stirling",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG753437",
+      "type": "Laptop",
+      "mac": "49-FD-DB-6A-8B-4B",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "00010515",
+      "purchaseDate": "2019-06-27T07:25:06Z",
+      "warrantyStart": "2012-05-06T12:17:39Z",
+      "warrantyEnd": "2026-12-07T23:25:36Z",
+      "notes": "Extirpation of Matter from Lumbar Nerve, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG274456",
+      "type": "Laptop",
+      "mac": "8C-C6-B1-B9-84-2B",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "06928236",
+      "purchaseDate": "2012-08-21T21:51:33Z",
+      "warrantyStart": "2014-06-17T01:56:30Z",
+      "warrantyEnd": "2024-10-08T01:37:26Z",
+      "notes": "Excision of Right Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach, Diagnostic",
+      "archived": true
+    },
+    {
+      "assetTag": "UG915947",
+      "type": "Desktop",
+      "mac": "BE-19-F4-1B-93-30",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "59724913",
+      "purchaseDate": "2013-01-20T06:28:38Z",
+      "warrantyStart": "2015-09-20T10:59:09Z",
+      "warrantyEnd": "2024-02-23T15:05:51Z",
+      "notes": "Bypass Sigmoid Colon to Rectum with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "2e1289e0-a6d1-4284-bdcf-a917164eab63",
+  "firstName": "Sharl",
+  "lastName": "Beminster",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG953134",
+      "type": "Desktop",
+      "mac": "17-6B-62-37-DB-E1",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "15797994",
+      "purchaseDate": "2018-08-03T20:24:58Z",
+      "warrantyStart": "2016-03-07T03:42:48Z",
+      "warrantyEnd": "2027-03-06T10:16:45Z",
+      "notes": "Extirpation of Matter from Colic Vein, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG401302",
+      "type": "Desktop",
+      "mac": "98-D6-33-6D-A8-B9",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "98261997",
+      "purchaseDate": "2019-04-27T15:24:11Z",
+      "warrantyStart": "2011-07-16T00:23:24Z",
+      "warrantyEnd": "2025-08-18T01:54:50Z",
+      "notes": "Supplement of Right Upper Arm Subcutaneous Tissue and Fascia with Synthetic Substitute, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG032572",
+      "type": "Laptop",
+      "mac": "DC-FB-D7-9F-8D-84",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "46450661",
+      "purchaseDate": "2018-12-31T08:40:05Z",
+      "warrantyStart": "2018-02-09T19:32:20Z",
+      "warrantyEnd": "2030-08-08T21:57:22Z",
+      "notes": "Insertion of Pedicle-Based Spinal Stabilization Device into Lumbar Vertebral Joint, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "b39c8b71-1263-421b-a76a-ff5ee5e1f9d2",
+  "firstName": "Rhiamon",
+  "lastName": "Garmans",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG355299",
+      "type": "Laptop",
+      "mac": "47-C4-7B-BA-C2-CF",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "59426509",
+      "purchaseDate": "2012-03-06T18:33:40Z",
+      "warrantyStart": "2020-04-20T10:51:37Z",
+      "warrantyEnd": "2027-08-11T05:38:15Z",
+      "notes": "Revision of Synthetic Substitute in Cervical Vertebral Disc, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "8bfa44ca-eb70-4f82-bfae-e2463ce9d7ce",
+  "firstName": "Taryn",
+  "lastName": "Kynder",
   "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG793521",
+      "assetTag": "UG960613",
       "type": "Laptop",
-      "mac": "5F-B4-92-39-E4-0D",
+      "mac": "16-8B-CF-10-26-CA",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "59336616",
+      "purchaseDate": "2021-04-26T03:48:38Z",
+      "warrantyStart": "2011-04-04T15:24:14Z",
+      "warrantyEnd": "2028-10-20T13:37:02Z",
+      "notes": "Drainage of Right Vocal Cord with Drainage Device, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG005530",
+      "type": "Desktop",
+      "mac": "2D-E1-C9-8C-67-92",
       "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "69676827",
-      "purchaseDate": "2020-05-16T01:48:45Z",
-      "warrantyStart": "2016-10-17T01:37:13Z",
-      "warrantyEnd": "2030-02-21T07:05:38Z",
-      "notes": "Repair Cardiovascular System in Products of Conception with Other Device, Via Natural or Artificial Opening"
+      "model": "EliteBook",
+      "serialNumber": "51457288",
+      "purchaseDate": "2016-05-12T12:25:36Z",
+      "warrantyStart": "2016-08-14T00:33:30Z",
+      "warrantyEnd": "2028-08-29T03:02:45Z",
+      "notes": "Removal of Autologous Tissue Substitute from Uterus and Cervix, Open Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "8fd3b600-1de8-47e0-88d3-9ded03d95c5d",
-  "firstName": "Ragnar",
-  "lastName": "Paulucci",
+  "id": "dbac6095-0604-47b5-bb6e-6099f93b7d11",
+  "firstName": "Joel",
+  "lastName": "Macias",
   "department": "STU",
   "devices": [
     {
-      "assetTag": "UG424934",
+      "assetTag": "UG910532",
       "type": "Laptop",
-      "mac": "95-A2-9A-B8-03-51",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "82585857",
-      "purchaseDate": "2016-10-27T08:56:38Z",
-      "warrantyStart": "2017-11-30T02:20:43Z",
-      "warrantyEnd": "2026-10-31T17:45:56Z",
-      "notes": "Transfer Radial Nerve to Radial Nerve, Open Approach"
-    },
-    {
-      "assetTag": "UG455078",
-      "type": "Laptop",
-      "mac": "A3-43-1E-9A-E8-23",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "77699226",
-      "purchaseDate": "2016-10-10T20:28:14Z",
-      "warrantyStart": "2013-08-25T19:08:55Z",
-      "warrantyEnd": "2028-10-03T14:59:23Z",
-      "notes": "Revision of Spacer in Left Metacarpocarpal Joint, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG359718",
-      "type": "Laptop",
-      "mac": "22-E1-53-15-39-57",
+      "mac": "53-27-A6-15-05-2C",
       "manufacturer": "Stone",
       "model": "EliteBook",
-      "serialNumber": "30717473",
-      "purchaseDate": "2017-09-13T23:28:04Z",
-      "warrantyStart": "2015-03-04T05:33:12Z",
-      "warrantyEnd": "2025-05-30T03:22:29Z",
-      "notes": "Restriction of Right Hepatic Duct with Extraluminal Device, Percutaneous Endoscopic Approach"
+      "serialNumber": "07977512",
+      "purchaseDate": "2011-01-31T22:58:55Z",
+      "warrantyStart": "2011-03-24T21:09:22Z",
+      "warrantyEnd": "2027-10-04T14:39:12Z",
+      "notes": "Inspection of Right Ear, Percutaneous Endoscopic Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "26b5b9ea-927e-440e-8d6a-dc9c12993d65",
-  "firstName": "Keven",
-  "lastName": "Tinniswood",
-  "department": "STU",
+  "id": "3c31ec86-2e15-4a66-bab1-f2014ecd788e",
+  "firstName": "Ray",
+  "lastName": "Farlane",
+  "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG427541",
-      "type": "Laptop",
-      "mac": "F8-2E-AA-2E-FD-45",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "65447997",
-      "purchaseDate": "2013-09-09T16:30:13Z",
-      "warrantyStart": "2020-04-24T22:39:08Z",
-      "warrantyEnd": "2027-05-02T08:35:11Z",
-      "notes": "Release Lumbosacral Joint, Percutaneous Endoscopic Approach"
+      "assetTag": "UG276475",
+      "type": "Desktop",
+      "mac": "71-E0-19-0E-35-86",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "79467786",
+      "purchaseDate": "2016-02-10T17:09:55Z",
+      "warrantyStart": "2011-11-09T17:11:58Z",
+      "warrantyEnd": "2026-03-24T16:00:01Z",
+      "notes": "Drainage of Left Sublingual Gland, Open Approach, Diagnostic",
+      "archived": false
     },
     {
-      "assetTag": "UG564755",
+      "assetTag": "UG667682",
       "type": "Laptop",
-      "mac": "C1-AF-FD-20-D2-82",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "70733917",
-      "purchaseDate": "2014-09-22T09:57:09Z",
-      "warrantyStart": "2020-02-06T12:46:39Z",
-      "warrantyEnd": "2029-11-12T18:16:42Z",
-      "notes": "Repair Right Adrenal Gland, Open Approach"
+      "mac": "13-EF-E2-4C-72-15",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "96021117",
+      "purchaseDate": "2017-03-16T18:42:53Z",
+      "warrantyStart": "2014-08-26T23:23:45Z",
+      "warrantyEnd": "2030-08-14T02:25:51Z",
+      "notes": "Drainage of Left Upper Arm Tendon, Percutaneous Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "276dd20f-8915-43bb-bd5b-5b885c5cc1a2",
-  "firstName": "Wilhelm",
-  "lastName": "Helleckas",
+  "id": "8f4ff87e-dd75-4ae7-a2a1-9db9045b9d2f",
+  "firstName": "Margret",
+  "lastName": "Cammack",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG941991",
+      "type": "Laptop",
+      "mac": "B7-DB-14-A5-61-C5",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "60884590",
+      "purchaseDate": "2012-09-21T21:14:22Z",
+      "warrantyStart": "2021-08-26T14:14:34Z",
+      "warrantyEnd": "2026-12-20T23:59:14Z",
+      "notes": "Removal of Synthetic Substitute from Left Metatarsal-Phalangeal Joint, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "c9cdd85f-d1de-4f93-8de0-a254ba1404bb",
+  "firstName": "Saxon",
+  "lastName": "Bidnall",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG404909",
-      "type": "Desktop",
-      "mac": "1A-3E-E4-0D-4D-44",
+      "assetTag": "UG356733",
+      "type": "Laptop",
+      "mac": "73-C8-17-D2-05-22",
       "manufacturer": "Asus",
       "model": "EliteBook",
-      "serialNumber": "54095537",
-      "purchaseDate": "2015-03-09T18:11:44Z",
-      "warrantyStart": "2017-12-21T17:06:36Z",
-      "warrantyEnd": "2025-10-08T14:41:49Z",
-      "notes": "Replacement of Left Hand Subcutaneous Tissue and Fascia with Nonautologous Tissue Substitute, Percutaneous Approach"
+      "serialNumber": "08431798",
+      "purchaseDate": "2021-05-16T04:20:18Z",
+      "warrantyStart": "2020-11-16T15:50:18Z",
+      "warrantyEnd": "2030-02-16T15:04:22Z",
+      "notes": "Fusion of Left Acromioclavicular Joint with Internal Fixation Device, Open Approach",
+      "archived": false
     },
     {
-      "assetTag": "UG373075",
+      "assetTag": "UG165704",
       "type": "Laptop",
-      "mac": "DD-5F-2B-CE-FF-68",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "44579552",
-      "purchaseDate": "2022-07-30T06:27:43Z",
-      "warrantyStart": "2018-03-12T06:29:27Z",
-      "warrantyEnd": "2025-12-23T02:44:06Z",
-      "notes": "Reposition Left Humeral Head with Intramedullary Internal Fixation Device, Open Approach"
-    },
-    {
-      "assetTag": "UG006241",
-      "type": "Desktop",
-      "mac": "49-35-63-4E-5D-68",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "90128901",
-      "purchaseDate": "2018-03-27T09:28:26Z",
-      "warrantyStart": "2015-04-15T11:49:58Z",
-      "warrantyEnd": "2026-05-01T01:51:42Z",
-      "notes": "Dilation of Lower Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "ee7be8da-6fcb-4f5f-96b1-377943d54eec",
-  "firstName": "Stanfield",
-  "lastName": "Bawles",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG695624",
-      "type": "Laptop",
-      "mac": "21-97-F2-90-1E-34",
-      "manufacturer": "Stone",
+      "mac": "6D-7A-CD-AD-8B-91",
+      "manufacturer": "Asus",
       "model": "ProBook",
-      "serialNumber": "59552658",
-      "purchaseDate": "2020-10-15T00:52:10Z",
-      "warrantyStart": "2015-06-10T14:51:03Z",
-      "warrantyEnd": "2024-03-05T18:13:45Z",
-      "notes": "Extirpation of Matter from Right Large Intestine, Percutaneous Endoscopic Approach"
+      "serialNumber": "99364203",
+      "purchaseDate": "2014-04-26T12:36:24Z",
+      "warrantyStart": "2012-09-02T04:35:57Z",
+      "warrantyEnd": "2027-05-13T13:10:47Z",
+      "notes": "Replacement of Lesser Omentum with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+      "archived": false
     },
     {
-      "assetTag": "UG767062",
-      "type": "Laptop",
-      "mac": "49-23-14-3B-8A-40",
+      "assetTag": "UG162467",
+      "type": "Desktop",
+      "mac": "FA-68-75-66-4F-0E",
       "manufacturer": "Acer",
       "model": "ProBook",
-      "serialNumber": "11404163",
-      "purchaseDate": "2022-03-19T03:13:41Z",
-      "warrantyStart": "2019-11-18T13:45:52Z",
-      "warrantyEnd": "2029-12-31T21:25:53Z",
-      "notes": "Beam Radiation of Tibia/Fibula using Photons >10 MeV"
-    },
-    {
-      "assetTag": "UG915860",
-      "type": "Desktop",
-      "mac": "57-A1-EA-7B-FB-9C",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "79416796",
-      "purchaseDate": "2010-09-20T12:38:48Z",
-      "warrantyStart": "2019-06-24T17:13:03Z",
-      "warrantyEnd": "2024-10-19T03:34:04Z",
-      "notes": "Fluoroscopy of Left Ribs"
+      "serialNumber": "61820574",
+      "purchaseDate": "2013-09-20T17:32:51Z",
+      "warrantyStart": "2013-03-14T22:02:23Z",
+      "warrantyEnd": "2029-04-24T12:35:34Z",
+      "notes": "Destruction of Left Upper Leg Tendon, Open Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "32d1e70e-1a59-4bfb-b6c2-7a85606834cd",
-  "firstName": "Justina",
-  "lastName": "Phillip",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG711582",
-      "type": "Desktop",
-      "mac": "FD-F7-04-30-6A-3B",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "77922209",
-      "purchaseDate": "2018-03-07T15:17:49Z",
-      "warrantyStart": "2019-11-01T23:20:52Z",
-      "warrantyEnd": "2026-01-23T18:58:16Z",
-      "notes": "Revision of External Fixation Device in Left Ulna, External Approach"
-    },
-    {
-      "assetTag": "UG947452",
-      "type": "Laptop",
-      "mac": "30-19-62-7A-CC-EE",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "84830536",
-      "purchaseDate": "2019-09-01T20:49:13Z",
-      "warrantyStart": "2020-07-25T21:59:36Z",
-      "warrantyEnd": "2026-08-24T18:52:02Z",
-      "notes": "Insertion of Intraluminal Device into Inferior Mesenteric Vein, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG852495",
-      "type": "Desktop",
-      "mac": "68-8A-F6-C4-05-75",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "71039039",
-      "purchaseDate": "2019-04-18T10:40:58Z",
-      "warrantyStart": "2019-05-04T18:15:00Z",
-      "warrantyEnd": "2026-03-06T12:30:01Z",
-      "notes": "Dilation of Common Bile Duct, Via Natural or Artificial Opening Endoscopic"
-    }
-  ]
-}, {
-  "id": "273a3a35-dc82-4392-8cc9-18677bc3defd",
-  "firstName": "Clara",
-  "lastName": "Ivens",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG132414",
-      "type": "Laptop",
-      "mac": "59-BE-56-5A-07-F9",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "35486822",
-      "purchaseDate": "2011-07-26T20:38:15Z",
-      "warrantyStart": "2014-02-06T23:58:43Z",
-      "warrantyEnd": "2024-02-12T09:55:40Z",
-      "notes": "Insertion of Infusion Device into Right Foot, Open Approach"
-    }
-  ]
-}, {
-  "id": "6700af62-1a32-4aea-95f8-a54883ea4c37",
-  "firstName": "Alberta",
-  "lastName": "Proudler",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG828394",
-      "type": "Laptop",
-      "mac": "6D-F7-7D-2F-82-8A",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "02697162",
-      "purchaseDate": "2013-12-29T13:02:08Z",
-      "warrantyStart": "2022-01-11T13:47:25Z",
-      "warrantyEnd": "2024-11-15T12:59:42Z",
-      "notes": "Drainage of Cervical Vertebral Disc, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG794047",
-      "type": "Laptop",
-      "mac": "FF-87-09-EA-40-BC",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "13637688",
-      "purchaseDate": "2015-11-06T04:31:33Z",
-      "warrantyStart": "2022-05-21T00:53:43Z",
-      "warrantyEnd": "2030-05-27T00:17:19Z",
-      "notes": "Supplement Right Little Finger with Autologous Tissue Substitute, Open Approach"
-    },
-    {
-      "assetTag": "UG300169",
-      "type": "Laptop",
-      "mac": "2F-B7-14-DB-FB-72",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "59325147",
-      "purchaseDate": "2022-01-16T22:37:59Z",
-      "warrantyStart": "2019-07-28T15:27:58Z",
-      "warrantyEnd": "2030-06-14T14:43:19Z",
-      "notes": "Revision of Radioactive Element in Male Perineum, External Approach"
-    }
-  ]
-}, {
-  "id": "0cab6403-ce4e-4f54-a8e7-12bf06cdbc05",
-  "firstName": "Zaneta",
-  "lastName": "Sines",
+  "id": "cfea5263-d44a-44f5-b3b2-846106038ae0",
+  "firstName": "Sondra",
+  "lastName": "Graith",
   "department": "STU",
   "devices": [
     {
-      "assetTag": "UG869625",
+      "assetTag": "UG677019",
       "type": "Desktop",
-      "mac": "BF-8A-7D-6F-1E-7C",
-      "manufacturer": "Lenovo",
+      "mac": "49-EC-0D-27-6B-6F",
+      "manufacturer": "Asus",
       "model": "MiniBook",
-      "serialNumber": "47116394",
-      "purchaseDate": "2015-03-03T07:06:02Z",
-      "warrantyStart": "2017-08-07T06:18:34Z",
-      "warrantyEnd": "2025-05-04T16:51:13Z",
-      "notes": "Excision of Common Bile Duct, Via Natural or Artificial Opening, Diagnostic"
+      "serialNumber": "34611436",
+      "purchaseDate": "2015-02-02T01:14:26Z",
+      "warrantyStart": "2018-12-30T03:27:44Z",
+      "warrantyEnd": "2024-10-11T20:32:39Z",
+      "notes": "Revision of Drainage Device in Spleen, Percutaneous Endoscopic Approach",
+      "archived": false
     },
     {
-      "assetTag": "UG931115",
-      "type": "Desktop",
-      "mac": "46-5B-C7-93-79-4A",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "98256301",
-      "purchaseDate": "2012-03-09T06:45:58Z",
-      "warrantyStart": "2022-02-21T22:46:19Z",
-      "warrantyEnd": "2028-11-13T18:56:48Z",
-      "notes": "Fusion of Thoracic Vertebral Joint, Posterior Approach, Anterior Column, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "8f800b05-ee89-4779-b33a-ad8d8c017349",
-  "firstName": "Wendell",
-  "lastName": "Maudsley",
-  "department": "STU",
-  "devices": [
+      "assetTag": "UG658265",
+      "type": "Laptop",
+      "mac": "18-91-B1-B0-2D-E4",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "27465511",
+      "purchaseDate": "2015-04-26T11:11:23Z",
+      "warrantyStart": "2017-12-31T12:24:36Z",
+      "warrantyEnd": "2030-01-29T10:47:41Z",
+      "notes": "Bypass Jejunum to Anus with Nonautologous Tissue Substitute, Open Approach",
+      "archived": true
+    },
     {
-      "assetTag": "UG675501",
+      "assetTag": "UG619088",
       "type": "Desktop",
-      "mac": "18-3E-0E-6B-16-CC",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "93656413",
-      "purchaseDate": "2016-09-12T04:55:19Z",
-      "warrantyStart": "2020-04-21T18:41:45Z",
-      "warrantyEnd": "2028-01-16T02:45:06Z",
-      "notes": "Motor Function Treatment of Integumentary System - Lower Back / Lower Extremity"
+      "mac": "AB-97-05-C8-94-45",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "89881271",
+      "purchaseDate": "2013-03-21T07:48:09Z",
+      "warrantyStart": "2016-12-30T12:42:41Z",
+      "warrantyEnd": "2025-05-24T14:09:43Z",
+      "notes": "Introduction of Destructive Agent into Products of Conception, Via Natural or Artificial Opening",
+      "archived": true
     }
   ]
 }, {
-  "id": "08599da2-b190-42a6-a36d-edb3e55cc017",
-  "firstName": "Cthrine",
-  "lastName": "MacVay",
+  "id": "5f75bdc5-0b15-40d4-9f94-8ddf9f3944d1",
+  "firstName": "Janie",
+  "lastName": "Richardon",
   "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG649193",
-      "type": "Desktop",
-      "mac": "D6-C0-34-9E-CB-B7",
-      "manufacturer": "Stone",
+      "assetTag": "UG429581",
+      "type": "Laptop",
+      "mac": "62-82-76-43-F4-23",
+      "manufacturer": "Acer",
       "model": "MiniBook",
-      "serialNumber": "47178067",
-      "purchaseDate": "2020-09-16T06:57:47Z",
-      "warrantyStart": "2020-01-28T15:16:45Z",
-      "warrantyEnd": "2029-08-27T00:05:18Z",
-      "notes": "Computerized Tomography (CT Scan) of Larynx using Other Contrast, Unenhanced and Enhanced"
+      "serialNumber": "86690846",
+      "purchaseDate": "2016-03-02T12:28:14Z",
+      "warrantyStart": "2022-09-02T11:33:01Z",
+      "warrantyEnd": "2025-12-28T12:05:25Z",
+      "notes": "Revision of Autologous Tissue Substitute in Right Humeral Head, External Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG679876",
+      "type": "Desktop",
+      "mac": "17-90-37-0F-1F-90",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "86241290",
+      "purchaseDate": "2021-08-18T15:17:40Z",
+      "warrantyStart": "2015-05-25T10:37:17Z",
+      "warrantyEnd": "2024-11-15T22:29:34Z",
+      "notes": "Reposition Right Mandible with External Fixation Device, Percutaneous Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "ebbb0063-ac20-4656-8ed2-bcca9696a78f",
-  "firstName": "Ashlie",
-  "lastName": "McWhorter",
+  "id": "9bf501b3-a82e-4f54-bbdc-40ecbadcbad4",
+  "firstName": "Bevin",
+  "lastName": "Robberts",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG229425",
+      "assetTag": "UG652911",
       "type": "Laptop",
-      "mac": "CA-9F-50-8B-D7-BA",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "48433204",
-      "purchaseDate": "2011-01-28T23:11:23Z",
-      "warrantyStart": "2018-08-23T16:25:20Z",
-      "warrantyEnd": "2023-06-25T05:01:12Z",
-      "notes": "Occlusion of Left Posterior Tibial Artery with Intraluminal Device, Open Approach"
+      "mac": "32-E9-EB-33-D9-9A",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "12528207",
+      "purchaseDate": "2015-11-21T03:37:17Z",
+      "warrantyStart": "2020-08-28T22:48:54Z",
+      "warrantyEnd": "2027-12-10T20:28:03Z",
+      "notes": "Dilation of Left Vertebral Artery, Bifurcation, with Drug-eluting Intraluminal Device, Open Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "18e65548-6e69-4310-b6c0-c224729bc059",
-  "firstName": "Lorna",
-  "lastName": "Robjohns",
+  "id": "b2c49e33-af61-47f0-acb6-0cd268183eef",
+  "firstName": "Johnette",
+  "lastName": "Madelin",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG862158",
-      "type": "Laptop",
-      "mac": "3F-39-8E-FC-06-3B",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "61160340",
-      "purchaseDate": "2011-12-17T19:31:28Z",
-      "warrantyStart": "2014-11-05T23:59:23Z",
-      "warrantyEnd": "2023-11-25T00:59:09Z",
-      "notes": "Division of Left Lacrimal Bone, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG582458",
+      "assetTag": "UG680566",
       "type": "Desktop",
-      "mac": "1F-BA-D2-99-6E-FC",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "54629899",
-      "purchaseDate": "2011-05-21T04:54:00Z",
-      "warrantyStart": "2014-04-02T16:06:31Z",
-      "warrantyEnd": "2024-08-04T14:26:03Z",
-      "notes": "Removal of Autologous Tissue Substitute from Left Metatarsal, Open Approach"
-    },
-    {
-      "assetTag": "UG647234",
-      "type": "Laptop",
-      "mac": "4C-E8-5C-8B-89-07",
+      "mac": "A9-4C-23-C3-77-3E",
       "manufacturer": "Lenovo",
       "model": "EliteBook",
-      "serialNumber": "43124467",
-      "purchaseDate": "2011-02-09T11:46:12Z",
-      "warrantyStart": "2013-05-29T14:04:44Z",
-      "warrantyEnd": "2028-07-08T09:34:07Z",
-      "notes": "Occlusion of Lower Artery, Percutaneous Endoscopic Approach"
+      "serialNumber": "75276967",
+      "purchaseDate": "2014-04-23T08:05:48Z",
+      "warrantyStart": "2021-09-10T07:58:01Z",
+      "warrantyEnd": "2029-03-26T22:45:44Z",
+      "notes": "Replacement of Right Lower Arm Subcutaneous Tissue and Fascia with Nonautologous Tissue Substitute, Percutaneous Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "2ea7aeaf-f3fd-49ed-87bc-5a9229f366de",
-  "firstName": "Decca",
-  "lastName": "Karpmann",
+  "id": "ac92dda1-40bf-4657-9a42-fb6296403c17",
+  "firstName": "Sholom",
+  "lastName": "Holdin",
   "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG451707",
-      "type": "Laptop",
-      "mac": "5F-5B-34-B1-6B-F1",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "97763368",
-      "purchaseDate": "2015-11-15T22:22:35Z",
-      "warrantyStart": "2020-04-23T13:43:31Z",
-      "warrantyEnd": "2026-05-10T16:17:04Z",
-      "notes": "Excision of Right Ovary, Via Natural or Artificial Opening, Diagnostic"
+      "assetTag": "UG308146",
+      "type": "Desktop",
+      "mac": "8A-8E-83-16-A3-FD",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "04633703",
+      "purchaseDate": "2020-07-28T02:26:53Z",
+      "warrantyStart": "2017-06-20T20:13:46Z",
+      "warrantyEnd": "2029-04-09T18:19:46Z",
+      "notes": "Repair Right Internal Iliac Artery, Percutaneous Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "b012baee-680c-4d95-b2bd-fbf8692ac82f",
-  "firstName": "Filbert",
-  "lastName": "Henrych",
+  "id": "ca5a5854-9bee-49f5-9532-61c208e4633c",
+  "firstName": "Allan",
+  "lastName": "Lockner",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG426317",
+      "type": "Desktop",
+      "mac": "DB-D5-E2-3F-0D-13",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "32322409",
+      "purchaseDate": "2020-08-28T07:48:51Z",
+      "warrantyStart": "2015-02-22T00:38:38Z",
+      "warrantyEnd": "2024-06-21T19:47:21Z",
+      "notes": "Removal of Bone Growth Stimulator from Upper Bone, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG155959",
+      "type": "Desktop",
+      "mac": "80-CC-37-F0-27-20",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "91283946",
+      "purchaseDate": "2016-02-13T17:13:30Z",
+      "warrantyStart": "2012-01-13T15:40:40Z",
+      "warrantyEnd": "2026-09-27T14:05:02Z",
+      "notes": "Restriction of Ductus Arteriosus with Extraluminal Device, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "57159be6-4f57-492f-9b84-e77d512ffc41",
+  "firstName": "Napoleon",
+  "lastName": "Sisneros",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG507615",
+      "type": "Desktop",
+      "mac": "9C-CF-2C-8E-E6-82",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "99109528",
+      "purchaseDate": "2019-03-03T17:50:37Z",
+      "warrantyStart": "2017-06-30T07:03:55Z",
+      "warrantyEnd": "2027-12-27T11:30:44Z",
+      "notes": "Division of Right Hand Bursa and Ligament, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "cce1cf8c-48c0-414f-91a3-960d41fc4518",
+  "firstName": "Alika",
+  "lastName": "Kruse",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG520620",
+      "assetTag": "UG949752",
       "type": "Laptop",
-      "mac": "CB-4F-6E-3B-9E-58",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "47179700",
-      "purchaseDate": "2021-07-07T11:56:02Z",
-      "warrantyStart": "2020-02-28T16:24:49Z",
-      "warrantyEnd": "2024-12-26T01:29:08Z",
-      "notes": "Lower Bones, Removal"
-    },
-    {
-      "assetTag": "UG397137",
-      "type": "Laptop",
-      "mac": "17-39-FD-9B-87-31",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "97825915",
-      "purchaseDate": "2021-11-24T08:32:44Z",
-      "warrantyStart": "2015-11-10T17:25:31Z",
-      "warrantyEnd": "2025-05-06T01:14:35Z",
-      "notes": "Removal of Autologous Tissue Substitute from Left Ulna, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "59fa247f-31c8-4d1d-83c9-83d3b598b1ed",
-  "firstName": "Germayne",
-  "lastName": "Edgell",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG094078",
-      "type": "Laptop",
-      "mac": "A7-AC-80-9F-01-C9",
+      "mac": "02-DA-00-86-5E-1C",
       "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "85726507",
-      "purchaseDate": "2017-02-15T01:05:38Z",
-      "warrantyStart": "2016-04-06T23:17:14Z",
-      "warrantyEnd": "2028-02-26T04:13:25Z",
-      "notes": "Repair Hepatic Artery, Open Approach"
-    },
-    {
-      "assetTag": "UG986708",
-      "type": "Desktop",
-      "mac": "AD-1C-26-FD-32-4C",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "92490154",
-      "purchaseDate": "2015-05-20T20:51:35Z",
-      "warrantyStart": "2020-04-27T03:44:35Z",
-      "warrantyEnd": "2023-01-18T19:01:12Z",
-      "notes": "Drainage of Left Metatarsal-Phalangeal Joint, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG910611",
-      "type": "Laptop",
-      "mac": "5F-3F-6A-C5-15-B8",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "17833086",
-      "purchaseDate": "2013-11-06T14:12:03Z",
-      "warrantyStart": "2012-02-28T02:11:12Z",
-      "warrantyEnd": "2023-07-23T01:18:39Z",
-      "notes": "Low Dose Rate (LDR) Brachytherapy of Sinuses using Californium 252 (Cf-252)"
-    }
-  ]
-}, {
-  "id": "6c3ab327-db19-43af-8609-970b50fd1180",
-  "firstName": "Daffie",
-  "lastName": "Shemilt",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG561072",
-      "type": "Laptop",
-      "mac": "A0-8C-41-5D-27-5D",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "80825606",
-      "purchaseDate": "2016-08-22T01:25:50Z",
-      "warrantyStart": "2020-07-13T02:53:58Z",
-      "warrantyEnd": "2025-10-12T21:59:18Z",
-      "notes": "Bypass Right Internal Iliac Artery to Bilateral Femoral Arteries with Synthetic Substitute, Open Approach"
-    }
-  ]
-}, {
-  "id": "f1e1dfa0-26a0-4c94-8ae8-73ae7de701c6",
-  "firstName": "Addy",
-  "lastName": "Hatcliffe",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG112167",
-      "type": "Laptop",
-      "mac": "A3-CE-8C-C8-1F-6B",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "24864196",
-      "purchaseDate": "2017-06-05T22:08:10Z",
-      "warrantyStart": "2012-05-23T03:43:30Z",
-      "warrantyEnd": "2025-06-07T02:27:19Z",
-      "notes": "Insertion of Infusion Device into Kidney, Via Natural or Artificial Opening Endoscopic"
-    }
-  ]
-}, {
-  "id": "9ef76943-f7e8-4964-9a8c-47796ab341e1",
-  "firstName": "Natalina",
-  "lastName": "Serginson",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG315104",
-      "type": "Desktop",
-      "mac": "79-A0-C8-B0-74-30",
-      "manufacturer": "Acer",
       "model": "ProBook",
-      "serialNumber": "23069943",
-      "purchaseDate": "2019-04-12T15:51:54Z",
-      "warrantyStart": "2010-10-16T05:30:02Z",
-      "warrantyEnd": "2028-12-08T18:13:37Z",
-      "notes": "Dilation of Splenic Artery, Open Approach"
-    }
-  ]
-}, {
-  "id": "4166b612-642c-4109-9460-d6a92e71a291",
-  "firstName": "Kimberley",
-  "lastName": "Blackmore",
-  "department": "FMD",
-  "devices": [
+      "serialNumber": "01666308",
+      "purchaseDate": "2018-11-25T12:03:15Z",
+      "warrantyStart": "2014-01-21T21:21:00Z",
+      "warrantyEnd": "2027-08-18T07:58:10Z",
+      "notes": "Repair Right Peroneal Artery, Open Approach",
+      "archived": true
+    },
     {
-      "assetTag": "UG421849",
+      "assetTag": "UG122334",
+      "type": "Desktop",
+      "mac": "A8-2D-E3-A7-21-FA",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "18381124",
+      "purchaseDate": "2014-11-02T19:26:30Z",
+      "warrantyStart": "2014-03-22T05:49:12Z",
+      "warrantyEnd": "2024-03-18T18:08:00Z",
+      "notes": "Bypass Right Temporal Artery to Intracranial Artery with Synthetic Substitute, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG311996",
       "type": "Laptop",
-      "mac": "2D-D5-0B-84-FC-A2",
+      "mac": "E3-7C-A1-3C-E0-B0",
       "manufacturer": "Stone",
       "model": "ProBook",
-      "serialNumber": "98574083",
-      "purchaseDate": "2017-01-01T22:37:33Z",
-      "warrantyStart": "2015-08-05T08:13:46Z",
-      "warrantyEnd": "2025-10-17T21:10:03Z",
-      "notes": "Osteopathic Treatment of Cervical Region using Fascial Release"
+      "serialNumber": "26808121",
+      "purchaseDate": "2014-05-16T15:52:15Z",
+      "warrantyStart": "2012-10-27T18:24:41Z",
+      "warrantyEnd": "2027-03-12T05:11:59Z",
+      "notes": "Replacement of Aortic Valve with Autologous Tissue Substitute, Percutaneous Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "b644153e-579d-447b-8e77-451d9d343ea0",
-  "firstName": "Shirline",
-  "lastName": "Gockeler",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG987374",
-      "type": "Desktop",
-      "mac": "70-5E-69-F9-05-A4",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "43362532",
-      "purchaseDate": "2019-02-04T17:27:59Z",
-      "warrantyStart": "2018-11-10T12:46:15Z",
-      "warrantyEnd": "2023-02-20T08:51:26Z",
-      "notes": "Excision of Cervical Spinal Cord, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "ed8dc2b7-81ce-429d-b4ee-09d63b5a17c4",
-  "firstName": "Victor",
-  "lastName": "Marques",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG592308",
-      "type": "Desktop",
-      "mac": "2D-1D-8A-5C-2D-58",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "85227314",
-      "purchaseDate": "2019-08-22T15:50:24Z",
-      "warrantyStart": "2016-10-04T16:28:44Z",
-      "warrantyEnd": "2029-09-08T13:17:43Z",
-      "notes": "Drainage of Accessory Nerve with Drainage Device, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG407203",
-      "type": "Desktop",
-      "mac": "64-EA-17-A7-49-0D",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "83975548",
-      "purchaseDate": "2021-08-14T04:11:27Z",
-      "warrantyStart": "2017-01-22T05:51:19Z",
-      "warrantyEnd": "2024-03-02T15:01:22Z",
-      "notes": "Extirpation of Matter from Hard Palate, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG237938",
-      "type": "Desktop",
-      "mac": "43-E3-3A-9E-C1-40",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "45505394",
-      "purchaseDate": "2015-08-06T23:55:37Z",
-      "warrantyStart": "2016-06-24T09:11:15Z",
-      "warrantyEnd": "2023-08-14T19:51:35Z",
-      "notes": "Repair Left Common Iliac Artery, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "e3ac1804-7d52-45a8-9de9-5a8b2bd3065a",
-  "firstName": "Ronnie",
-  "lastName": "Wahncke",
+  "id": "88dc2123-2949-4fcc-89ec-4d8e405dbe57",
+  "firstName": "Mose",
+  "lastName": "Dudding",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG965679",
-      "type": "Desktop",
-      "mac": "5C-E5-E3-7E-55-E7",
+      "assetTag": "UG383553",
+      "type": "Laptop",
+      "mac": "A8-91-08-D6-C5-76",
       "manufacturer": "Acer",
       "model": "MiniBook",
-      "serialNumber": "32888171",
-      "purchaseDate": "2017-10-14T10:06:06Z",
-      "warrantyStart": "2016-03-16T02:47:26Z",
-      "warrantyEnd": "2026-01-29T19:26:50Z",
-      "notes": "Supplement Lumbosacral Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+      "serialNumber": "94618023",
+      "purchaseDate": "2015-05-11T08:14:37Z",
+      "warrantyStart": "2017-11-26T02:20:43Z",
+      "warrantyEnd": "2026-03-01T12:34:31Z",
+      "notes": "Dilation of Right Common Iliac Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Approach",
+      "archived": true
     },
     {
-      "assetTag": "UG252765",
+      "assetTag": "UG282987",
       "type": "Desktop",
-      "mac": "E4-9E-78-A1-1C-3F",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "86558095",
-      "purchaseDate": "2017-11-19T07:50:34Z",
-      "warrantyStart": "2015-01-20T05:03:22Z",
-      "warrantyEnd": "2028-07-15T08:26:55Z",
-      "notes": "Supplement Right Retina with Nonautologous Tissue Substitute, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG282864",
-      "type": "Desktop",
-      "mac": "4C-A2-60-8B-B8-DB",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "64052139",
-      "purchaseDate": "2021-08-10T16:55:42Z",
-      "warrantyStart": "2017-01-09T11:22:00Z",
-      "warrantyEnd": "2027-07-24T19:58:54Z",
-      "notes": "Excision of Right Wrist Bursa and Ligament, Percutaneous Endoscopic Approach, Diagnostic"
-    }
-  ]
-}, {
-  "id": "a9568f3e-1f12-4c77-b956-83cc7128a3af",
-  "firstName": "Armstrong",
-  "lastName": "Le Marchand",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG394350",
-      "type": "Desktop",
-      "mac": "09-4D-54-02-75-F6",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "21742001",
-      "purchaseDate": "2011-09-06T10:30:17Z",
-      "warrantyStart": "2018-03-19T23:34:49Z",
-      "warrantyEnd": "2026-05-18T01:48:32Z",
-      "notes": "Drainage of Left Lower Arm and Wrist Muscle with Drainage Device, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG358857",
-      "type": "Desktop",
-      "mac": "76-65-B1-71-4E-F1",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "58688084",
-      "purchaseDate": "2012-01-07T05:52:02Z",
-      "warrantyStart": "2021-11-22T18:21:19Z",
-      "warrantyEnd": "2022-12-18T02:43:19Z",
-      "notes": "Occlusion of Left Ureter with Intraluminal Device, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "21bf8f49-91bc-4544-8fa4-757c5b972aeb",
-  "firstName": "Whittaker",
-  "lastName": "Krause",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG793982",
-      "type": "Desktop",
-      "mac": "25-00-D0-3D-79-99",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "46838993",
-      "purchaseDate": "2012-03-28T11:57:58Z",
-      "warrantyStart": "2017-02-23T12:19:17Z",
-      "warrantyEnd": "2027-01-11T03:03:38Z",
-      "notes": "Insertion of Internal Fixation Device into Right Rib, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG144756",
-      "type": "Desktop",
-      "mac": "DE-A4-48-46-37-A2",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "48448681",
-      "purchaseDate": "2014-10-09T21:55:07Z",
-      "warrantyStart": "2013-07-06T04:50:22Z",
-      "warrantyEnd": "2022-12-29T06:19:34Z",
-      "notes": "Inspection of Ureter, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "33be1159-8ce3-42b3-9280-f76d35a3a58d",
-  "firstName": "Korney",
-  "lastName": "Whitehair",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG161966",
-      "type": "Laptop",
-      "mac": "8B-1B-DA-E1-63-38",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "50986755",
-      "purchaseDate": "2017-12-03T23:56:27Z",
-      "warrantyStart": "2016-06-04T10:45:26Z",
-      "warrantyEnd": "2029-03-02T09:39:27Z",
-      "notes": "Revision of Spacer in Left Wrist Joint, External Approach"
-    },
-    {
-      "assetTag": "UG503097",
-      "type": "Desktop",
-      "mac": "37-57-9E-C1-20-D2",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "88159671",
-      "purchaseDate": "2015-06-27T02:03:17Z",
-      "warrantyStart": "2016-06-30T22:00:10Z",
-      "warrantyEnd": "2030-06-03T23:18:20Z",
-      "notes": "Revision of Synthetic Substitute in Ventricular Septum, Open Approach"
-    },
-    {
-      "assetTag": "UG225879",
-      "type": "Laptop",
-      "mac": "C4-24-C8-FC-34-DD",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "49466985",
-      "purchaseDate": "2022-03-23T12:13:17Z",
-      "warrantyStart": "2016-12-15T08:16:14Z",
-      "warrantyEnd": "2030-09-01T03:23:46Z",
-      "notes": "Bypass Jejunum to Cecum, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "cf7a3fd4-3f38-4ffc-b1b6-c906ea47e2fd",
-  "firstName": "Grannie",
-  "lastName": "Croisier",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG275987",
-      "type": "Desktop",
-      "mac": "12-B5-4F-4B-1F-9C",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "57688531",
-      "purchaseDate": "2012-09-29T18:31:35Z",
-      "warrantyStart": "2012-03-10T20:56:08Z",
-      "warrantyEnd": "2024-05-15T09:39:28Z",
-      "notes": "Supplement Cystic Duct with Nonautologous Tissue Substitute, Open Approach"
-    }
-  ]
-}, {
-  "id": "9cf3ccea-e255-4f39-93fb-3344ef363d61",
-  "firstName": "Amble",
-  "lastName": "Bussell",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG774252",
-      "type": "Laptop",
-      "mac": "93-43-DF-1A-65-B6",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "03769803",
-      "purchaseDate": "2014-06-16T22:32:38Z",
-      "warrantyStart": "2020-05-31T17:57:42Z",
-      "warrantyEnd": "2028-11-09T00:25:00Z",
-      "notes": "Bypass Gastric Vein to Lower Vein with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG429386",
-      "type": "Laptop",
-      "mac": "7E-4B-F4-57-90-FF",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "86730601",
-      "purchaseDate": "2010-12-21T20:08:41Z",
-      "warrantyStart": "2020-04-22T12:34:28Z",
-      "warrantyEnd": "2028-10-10T21:57:51Z",
-      "notes": "Drainage of Buttock Skin, External Approach"
-    },
-    {
-      "assetTag": "UG277900",
-      "type": "Laptop",
-      "mac": "D8-B5-62-AA-73-E0",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "78330440",
-      "purchaseDate": "2013-08-01T19:44:09Z",
-      "warrantyStart": "2011-09-04T04:00:39Z",
-      "warrantyEnd": "2023-02-06T12:19:31Z",
-      "notes": "Resection of Esophagogastric Junction, Via Natural or Artificial Opening Endoscopic"
-    }
-  ]
-}, {
-  "id": "133ef74f-9f0f-4baf-80a4-9151c5337d7d",
-  "firstName": "Everett",
-  "lastName": "MacDonagh",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG854288",
-      "type": "Laptop",
-      "mac": "40-80-D3-02-31-6B",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "29140654",
-      "purchaseDate": "2017-08-17T06:54:13Z",
-      "warrantyStart": "2017-08-25T09:09:02Z",
-      "warrantyEnd": "2030-08-05T13:00:05Z",
-      "notes": "Dilation of Right Popliteal Artery with Three Drug-eluting Intraluminal Devices, Open Approach"
-    }
-  ]
-}, {
-  "id": "efb0a22c-a82e-4a77-a363-22dc035cd124",
-  "firstName": "Richard",
-  "lastName": "Kinvig",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG784109",
-      "type": "Desktop",
-      "mac": "DA-B4-DF-C7-62-5A",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "41293855",
-      "purchaseDate": "2020-03-18T21:58:21Z",
-      "warrantyStart": "2016-06-25T01:59:51Z",
-      "warrantyEnd": "2027-12-03T06:13:54Z",
-      "notes": "Fusion of 2 to 7 Thoracic Vertebral Joints with Interbody Fusion Device, Anterior Approach, Anterior Column, Open Approach"
-    },
-    {
-      "assetTag": "UG594880",
-      "type": "Desktop",
-      "mac": "B9-32-C5-71-E6-20",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "05258863",
-      "purchaseDate": "2016-08-21T09:13:49Z",
-      "warrantyStart": "2013-04-13T10:31:37Z",
-      "warrantyEnd": "2029-12-07T08:08:42Z",
-      "notes": "Excision of Rectum, Open Approach, Diagnostic"
-    }
-  ]
-}, {
-  "id": "33c43433-fce8-41c3-baa0-8f117507edd5",
-  "firstName": "Dinny",
-  "lastName": "Handslip",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG825615",
-      "type": "Laptop",
-      "mac": "2F-0F-46-AB-59-EC",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "81882736",
-      "purchaseDate": "2021-03-11T08:51:02Z",
-      "warrantyStart": "2017-12-31T10:44:47Z",
-      "warrantyEnd": "2024-03-16T13:48:14Z",
-      "notes": "Drainage of Right Vitreous, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "2aed03af-6c68-476d-ab1b-6fd125423879",
-  "firstName": "Philippa",
-  "lastName": "Ashling",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG645812",
-      "type": "Laptop",
-      "mac": "BE-5B-9D-6E-F2-3B",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "61412728",
-      "purchaseDate": "2020-11-25T04:15:32Z",
-      "warrantyStart": "2017-12-28T11:50:26Z",
-      "warrantyEnd": "2025-03-30T04:04:37Z",
-      "notes": "Revision of Synthetic Substitute in Left Carpal Joint, External Approach"
-    }
-  ]
-}, {
-  "id": "74473585-3c14-484e-ac56-c9dcb70399a4",
-  "firstName": "Erich",
-  "lastName": "Gaffey",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG303374",
-      "type": "Desktop",
-      "mac": "D6-31-35-69-41-A4",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "18023276",
-      "purchaseDate": "2021-01-19T06:11:58Z",
-      "warrantyStart": "2017-01-10T08:34:37Z",
-      "warrantyEnd": "2027-08-06T15:36:05Z",
-      "notes": "Dilation of Left External Iliac Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG781079",
-      "type": "Laptop",
-      "mac": "7A-EF-DF-5F-BB-B8",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "17033136",
-      "purchaseDate": "2010-12-04T09:08:45Z",
-      "warrantyStart": "2020-05-10T14:37:59Z",
-      "warrantyEnd": "2024-11-22T21:01:12Z",
-      "notes": "Head and Facial Bones, Reposition"
-    },
-    {
-      "assetTag": "UG276545",
-      "type": "Laptop",
-      "mac": "36-B8-E8-4E-AC-81",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "73869307",
-      "purchaseDate": "2013-11-13T04:37:17Z",
-      "warrantyStart": "2016-07-27T22:33:34Z",
-      "warrantyEnd": "2027-11-24T21:15:32Z",
-      "notes": "Occlusion of Upper Esophagus with Intraluminal Device, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "a48effad-46be-4257-b31f-cb0eabe1715e",
-  "firstName": "Lennard",
-  "lastName": "Giacobilio",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG617809",
-      "type": "Desktop",
-      "mac": "C5-80-FE-CD-EF-C5",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "78195511",
-      "purchaseDate": "2015-05-04T02:09:53Z",
-      "warrantyStart": "2019-02-23T20:47:18Z",
-      "warrantyEnd": "2027-02-11T07:31:09Z",
-      "notes": "Fluoroscopy of Right Jugular Veins using Other Contrast, Guidance"
-    },
-    {
-      "assetTag": "UG793785",
-      "type": "Desktop",
-      "mac": "BC-F6-4D-1E-97-7F",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "91851064",
-      "purchaseDate": "2016-10-20T00:14:52Z",
-      "warrantyStart": "2019-11-09T04:25:05Z",
-      "warrantyEnd": "2027-06-08T15:54:53Z",
-      "notes": "Dilation of Left Hand Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG896863",
-      "type": "Laptop",
-      "mac": "05-6A-02-5E-14-2B",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "01792541",
-      "purchaseDate": "2013-02-28T06:20:02Z",
-      "warrantyStart": "2016-07-18T05:38:11Z",
-      "warrantyEnd": "2027-02-17T00:35:51Z",
-      "notes": "Distorted Speech Assessment using Audiovisual Equipment"
-    }
-  ]
-}, {
-  "id": "80b66f0b-b393-4bcf-b27d-509437eb9b32",
-  "firstName": "Diahann",
-  "lastName": "Bakeup",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG634567",
-      "type": "Laptop",
-      "mac": "EB-E6-5C-B3-66-BC",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "03490765",
-      "purchaseDate": "2014-01-19T16:50:07Z",
-      "warrantyStart": "2020-06-26T23:13:46Z",
-      "warrantyEnd": "2022-12-26T08:42:27Z",
-      "notes": "Occlusion of Right Vas Deferens with Extraluminal Device, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "c0fe472d-f0fe-4f9a-a5e0-991e56fc9801",
-  "firstName": "Carry",
-  "lastName": "Barrott",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG852006",
-      "type": "Laptop",
-      "mac": "64-57-21-22-C9-B9",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "77315076",
-      "purchaseDate": "2022-05-11T20:48:11Z",
-      "warrantyStart": "2020-12-17T09:49:32Z",
-      "warrantyEnd": "2028-01-01T17:24:12Z",
-      "notes": "Transfusion of Nonautologous Fibrinogen into Peripheral Vein, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "c8749254-78dc-497e-9644-820cd59f53a4",
-  "firstName": "Giulia",
-  "lastName": "Grist",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG220607",
-      "type": "Laptop",
-      "mac": "C8-00-BB-5B-B0-9D",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "91599653",
-      "purchaseDate": "2020-05-26T21:03:58Z",
-      "warrantyStart": "2020-06-04T17:27:22Z",
-      "warrantyEnd": "2023-12-18T06:25:15Z",
-      "notes": "Revision of Internal Fixation Device in Left Humeral Shaft, External Approach"
-    },
-    {
-      "assetTag": "UG419682",
-      "type": "Laptop",
-      "mac": "EC-B2-CA-86-4B-B8",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "59733895",
-      "purchaseDate": "2016-09-15T00:07:41Z",
-      "warrantyStart": "2018-11-15T21:30:16Z",
-      "warrantyEnd": "2025-10-24T05:40:14Z",
-      "notes": "Plain Radiography of Intracranial Arteries using Low Osmolar Contrast"
-    }
-  ]
-}, {
-  "id": "474dbd27-906f-46b7-b698-82da8d8704ec",
-  "firstName": "Aimee",
-  "lastName": "Jesper",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG101012",
-      "type": "Laptop",
-      "mac": "E3-69-C2-44-5A-B0",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "99978044",
-      "purchaseDate": "2019-01-31T17:38:10Z",
-      "warrantyStart": "2015-10-13T16:59:57Z",
-      "warrantyEnd": "2028-12-28T06:35:26Z",
-      "notes": "Drainage of Head Muscle with Drainage Device, Open Approach"
-    },
-    {
-      "assetTag": "UG341016",
-      "type": "Laptop",
-      "mac": "DF-C7-45-AF-EA-D6",
+      "mac": "BE-88-A6-BB-E3-70",
       "manufacturer": "Dell",
       "model": "MiniBook",
-      "serialNumber": "26554788",
-      "purchaseDate": "2020-07-14T16:48:28Z",
-      "warrantyStart": "2020-02-03T01:46:00Z",
-      "warrantyEnd": "2025-05-14T06:36:53Z",
-      "notes": "Bypass Abdominal Aorta to Bilateral External Iliac Arteries with Synthetic Substitute, Open Approach"
+      "serialNumber": "45801917",
+      "purchaseDate": "2019-08-31T06:55:44Z",
+      "warrantyStart": "2011-05-21T00:57:15Z",
+      "warrantyEnd": "2025-02-13T13:56:01Z",
+      "notes": "Insertion of Infusion Device into Ileum, Percutaneous Endoscopic Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "44aa6b27-8e34-4ac0-9bb6-8c8d32e4d913",
-  "firstName": "Liane",
-  "lastName": "Dandy",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG033670",
-      "type": "Laptop",
-      "mac": "52-B4-15-86-B8-8E",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "04893770",
-      "purchaseDate": "2017-04-04T01:42:28Z",
-      "warrantyStart": "2016-03-22T23:17:26Z",
-      "warrantyEnd": "2025-06-23T11:58:04Z",
-      "notes": "Insertion of Intraluminal Device into Left Face Vein, Open Approach"
-    }
-  ]
-}, {
-  "id": "31a26556-f53f-4eb1-a115-a251c12e794a",
-  "firstName": "Tobin",
-  "lastName": "Costar",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG839526",
-      "type": "Desktop",
-      "mac": "72-54-7F-51-83-FF",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "56992187",
-      "purchaseDate": "2016-03-23T11:27:33Z",
-      "warrantyStart": "2022-07-27T23:02:05Z",
-      "warrantyEnd": "2023-03-11T03:48:37Z",
-      "notes": "Therapeutic Exercise Treatment of Circulatory System - Upper Back / Upper Extremity using Mechanical or Electromechanical Equipment"
-    },
-    {
-      "assetTag": "UG814525",
-      "type": "Desktop",
-      "mac": "16-A2-5A-37-33-8F",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "92868828",
-      "purchaseDate": "2019-03-16T20:49:57Z",
-      "warrantyStart": "2015-07-27T20:05:08Z",
-      "warrantyEnd": "2029-07-20T03:58:35Z",
-      "notes": "Fluoroscopy of Bilateral Jugular Veins using Other Contrast"
-    }
-  ]
-}, {
-  "id": "9541e528-37e7-437d-8b6a-c1b0f92ac458",
-  "firstName": "Betteann",
-  "lastName": "Devas",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG958975",
-      "type": "Desktop",
-      "mac": "D4-2C-C8-2C-5E-E9",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "20415060",
-      "purchaseDate": "2019-06-26T09:22:43Z",
-      "warrantyStart": "2022-07-17T20:34:03Z",
-      "warrantyEnd": "2029-05-24T10:25:49Z",
-      "notes": "Insertion of Intraluminal Device into Innominate Artery, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG229119",
-      "type": "Desktop",
-      "mac": "90-FC-9A-AB-CF-F6",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "49480969",
-      "purchaseDate": "2014-05-02T00:06:12Z",
-      "warrantyStart": "2015-05-10T10:02:04Z",
-      "warrantyEnd": "2024-12-04T03:32:21Z",
-      "notes": "Dilation of Right Radial Artery with Intraluminal Device, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "545ad123-a05a-4276-9399-5e94a6bf8eac",
-  "firstName": "Willi",
-  "lastName": "Denerley",
-  "department": "LID",
-  "devices": [
-    {
-      "assetTag": "UG197708",
-      "type": "Laptop",
-      "mac": "62-A7-22-AB-D2-5D",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "23718349",
-      "purchaseDate": "2016-06-21T12:55:55Z",
-      "warrantyStart": "2016-03-19T04:12:59Z",
-      "warrantyEnd": "2026-10-24T15:55:22Z",
-      "notes": "Restriction of Esophagogastric Junction with Extraluminal Device, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG954523",
-      "type": "Desktop",
-      "mac": "29-A8-80-37-A5-C0",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "67090523",
-      "purchaseDate": "2014-03-04T19:24:25Z",
-      "warrantyStart": "2019-12-06T07:46:34Z",
-      "warrantyEnd": "2023-04-17T22:18:52Z",
-      "notes": "Drainage of Perineum Bursa and Ligament, Percutaneous Approach, Diagnostic"
-    }
-  ]
-}, {
-  "id": "109c6cf1-f4d2-4912-ab3f-1d23790cf041",
-  "firstName": "Barb",
-  "lastName": "Hogben",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG379961",
-      "type": "Desktop",
-      "mac": "C7-93-46-BF-C1-34",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "13211622",
-      "purchaseDate": "2017-11-08T07:09:15Z",
-      "warrantyStart": "2011-08-04T21:44:09Z",
-      "warrantyEnd": "2027-04-17T10:23:20Z",
-      "notes": "Extraction of Right Mastoid Sinus, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG184473",
-      "type": "Desktop",
-      "mac": "96-D1-18-C3-4D-F1",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "62438084",
-      "purchaseDate": "2013-12-21T02:45:15Z",
-      "warrantyStart": "2021-04-15T07:30:51Z",
-      "warrantyEnd": "2023-11-30T11:40:56Z",
-      "notes": "Drainage of Left Vertebral Vein, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG255282",
-      "type": "Laptop",
-      "mac": "73-45-8F-34-FE-4E",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "74122930",
-      "purchaseDate": "2011-08-06T00:04:03Z",
-      "warrantyStart": "2013-08-24T09:30:38Z",
-      "warrantyEnd": "2022-11-28T14:16:33Z",
-      "notes": "Excision of Femoral Nerve, Percutaneous Approach, Diagnostic"
-    }
-  ]
-}, {
-  "id": "386e7414-a534-4066-8076-e73b9c185569",
-  "firstName": "Andree",
-  "lastName": "Steffan",
+  "id": "c56b1cf7-b663-4388-ad6a-3901034f13a2",
+  "firstName": "Hurley",
+  "lastName": "Oller",
   "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG194961",
-      "type": "Laptop",
-      "mac": "F1-51-03-9A-14-1E",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "47381738",
-      "purchaseDate": "2017-10-17T22:57:27Z",
-      "warrantyStart": "2012-07-13T11:16:19Z",
-      "warrantyEnd": "2030-03-26T20:10:41Z",
-      "notes": "Low Dose Rate (LDR) Brachytherapy of Hard Palate using Iridium 192 (Ir-192)"
-    },
-    {
-      "assetTag": "UG511072",
+      "assetTag": "UG427463",
       "type": "Desktop",
-      "mac": "41-A8-2B-9F-03-97",
+      "mac": "9D-BC-B0-B0-CC-1A",
       "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "22247176",
-      "purchaseDate": "2010-10-27T07:14:54Z",
-      "warrantyStart": "2021-03-15T18:17:58Z",
-      "warrantyEnd": "2026-02-04T02:51:28Z",
-      "notes": "Resection of Bilateral Lungs, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG790846",
-      "type": "Laptop",
-      "mac": "0D-46-CF-DD-99-03",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "18226185",
-      "purchaseDate": "2020-08-23T00:02:19Z",
-      "warrantyStart": "2021-06-17T21:23:27Z",
-      "warrantyEnd": "2024-01-10T22:52:36Z",
-      "notes": "Insertion of Infusion Device into Right External Iliac Vein, Open Approach"
+      "model": "EliteBook",
+      "serialNumber": "72124371",
+      "purchaseDate": "2014-06-14T19:49:30Z",
+      "warrantyStart": "2011-11-01T10:05:41Z",
+      "warrantyEnd": "2028-03-12T07:23:17Z",
+      "notes": "Removal of Infusion Device from Right Ankle Joint, External Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "809df91f-3fe0-4cb4-9369-d023744013ad",
+  "id": "1ebc04d9-c072-4496-9dc2-a2e250b05476",
+  "firstName": "Anna-maria",
+  "lastName": "Scopyn",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG698087",
+      "type": "Laptop",
+      "mac": "24-D5-C2-0B-18-48",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "64597397",
+      "purchaseDate": "2013-09-18T19:41:15Z",
+      "warrantyStart": "2016-09-19T13:31:58Z",
+      "warrantyEnd": "2025-08-10T07:53:51Z",
+      "notes": "Excision of Right Parietal Bone, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "a16a66f0-bdcb-43d1-930d-0b13cc3d581f",
+  "firstName": "Harvey",
+  "lastName": "Houten",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG593779",
+      "type": "Desktop",
+      "mac": "30-3B-13-4B-EA-E1",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "90802442",
+      "purchaseDate": "2014-10-11T09:49:36Z",
+      "warrantyStart": "2013-05-23T04:45:31Z",
+      "warrantyEnd": "2023-11-15T15:54:38Z",
+      "notes": "Alteration of Right Lower Extremity, Percutaneous Endoscopic Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "90f7ffe3-7145-4749-af39-f0103b9fedbc",
+  "firstName": "Georgi",
+  "lastName": "Stiger",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG681581",
+      "type": "Desktop",
+      "mac": "2F-CD-6E-C9-6D-29",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "08092164",
+      "purchaseDate": "2011-03-29T03:37:33Z",
+      "warrantyStart": "2016-07-27T02:50:19Z",
+      "warrantyEnd": "2022-10-30T15:56:01Z",
+      "notes": "Revision of Nonautologous Tissue Substitute in Left Metatarsal, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG014881",
+      "type": "Desktop",
+      "mac": "DC-01-41-2B-87-24",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "91995092",
+      "purchaseDate": "2011-05-08T16:16:36Z",
+      "warrantyStart": "2014-12-09T06:25:32Z",
+      "warrantyEnd": "2026-08-03T19:29:37Z",
+      "notes": "Drainage of Thoracic Vertebra with Drainage Device, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "b828a784-3c69-4758-8e33-365b8c09b651",
+  "firstName": "Maynard",
+  "lastName": "Paulo",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG610561",
+      "type": "Laptop",
+      "mac": "2F-31-2B-7C-08-A0",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "26500394",
+      "purchaseDate": "2020-10-11T04:57:36Z",
+      "warrantyStart": "2011-08-08T17:37:12Z",
+      "warrantyEnd": "2029-11-28T07:03:31Z",
+      "notes": "Excision of Neck, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG704727",
+      "type": "Laptop",
+      "mac": "B7-E9-BA-15-14-51",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "40309838",
+      "purchaseDate": "2016-06-07T14:03:57Z",
+      "warrantyStart": "2018-05-27T02:36:46Z",
+      "warrantyEnd": "2027-05-08T14:04:57Z",
+      "notes": "Dilation of Left Posterior Tibial Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG127961",
+      "type": "Laptop",
+      "mac": "28-78-EE-24-0B-9D",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "73269526",
+      "purchaseDate": "2014-09-14T22:50:03Z",
+      "warrantyStart": "2020-09-07T03:24:42Z",
+      "warrantyEnd": "2023-04-20T09:45:59Z",
+      "notes": "Drainage of Greater Omentum, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "1531fcb4-115a-4516-8757-bfc0db7b8bd7",
+  "firstName": "Jorry",
+  "lastName": "Dunsford",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG598689",
+      "type": "Laptop",
+      "mac": "98-EA-18-DB-60-45",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "50990238",
+      "purchaseDate": "2020-03-10T14:44:10Z",
+      "warrantyStart": "2014-01-02T20:31:18Z",
+      "warrantyEnd": "2023-12-05T15:24:43Z",
+      "notes": "Revision of Nonautologous Tissue Substitute in Lumbosacral Disc, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG285807",
+      "type": "Laptop",
+      "mac": "E8-79-F3-B2-67-B1",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "22247597",
+      "purchaseDate": "2014-10-12T20:18:52Z",
+      "warrantyStart": "2014-08-07T20:50:00Z",
+      "warrantyEnd": "2024-02-26T07:43:28Z",
+      "notes": "Removal of Nonautologous Tissue Substitute from Skull, Percutaneous Endoscopic Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "e76c6547-dbe6-4b85-9fcf-16a7ca6ee7cc",
+  "firstName": "Saxe",
+  "lastName": "Moffett",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG864073",
+      "type": "Desktop",
+      "mac": "D2-C3-32-E9-73-62",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "63639530",
+      "purchaseDate": "2015-04-22T09:23:23Z",
+      "warrantyStart": "2021-03-24T21:01:10Z",
+      "warrantyEnd": "2029-04-04T18:31:17Z",
+      "notes": "Immobilization of Right Finger using Cast",
+      "archived": true
+    },
+    {
+      "assetTag": "UG344317",
+      "type": "Desktop",
+      "mac": "C2-54-21-AF-5C-18",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "88090521",
+      "purchaseDate": "2019-02-01T14:43:42Z",
+      "warrantyStart": "2018-06-02T13:24:16Z",
+      "warrantyEnd": "2028-10-09T15:18:09Z",
+      "notes": "Repair Left Temporomandibular Joint, External Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "e19ca30b-2e31-4d59-a3da-828804b054e2",
+  "firstName": "Albertine",
+  "lastName": "Yelding",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG506492",
+      "type": "Desktop",
+      "mac": "14-AB-11-06-F6-3D",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "06353413",
+      "purchaseDate": "2019-06-23T16:41:29Z",
+      "warrantyStart": "2017-12-22T12:31:16Z",
+      "warrantyEnd": "2029-02-17T18:04:38Z",
+      "notes": "Reposition Right Upper Leg Muscle, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "b5f7d6d8-3888-46c2-92d6-40fc9b5578e4",
+  "firstName": "Ailey",
+  "lastName": "Fountain",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG976770",
+      "type": "Desktop",
+      "mac": "DD-D4-93-08-B1-49",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "34524932",
+      "purchaseDate": "2016-06-19T20:56:20Z",
+      "warrantyStart": "2018-09-09T07:34:59Z",
+      "warrantyEnd": "2026-10-08T00:49:33Z",
+      "notes": "Extirpation of Matter from Right Hand Bursa and Ligament, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG466437",
+      "type": "Desktop",
+      "mac": "31-4F-0C-92-2C-25",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "90056543",
+      "purchaseDate": "2010-11-09T18:09:05Z",
+      "warrantyStart": "2013-09-05T08:21:39Z",
+      "warrantyEnd": "2024-03-21T15:03:21Z",
+      "notes": "Revision of Radioactive Element in Gastrointestinal Tract, Via Natural or Artificial Opening Endoscopic",
+      "archived": false
+    },
+    {
+      "assetTag": "UG104488",
+      "type": "Desktop",
+      "mac": "49-01-D3-98-5F-D9",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "42978294",
+      "purchaseDate": "2017-04-09T15:09:52Z",
+      "warrantyStart": "2016-09-10T08:49:12Z",
+      "warrantyEnd": "2029-04-10T09:50:46Z",
+      "notes": "Repair Cervical Spinal Cord, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "770b9f4a-ff14-408d-92d2-4110dc1a09d1",
+  "firstName": "Jeanne",
+  "lastName": "Seary",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG193200",
+      "type": "Desktop",
+      "mac": "77-13-10-D1-CE-58",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "93183116",
+      "purchaseDate": "2014-02-19T03:19:53Z",
+      "warrantyStart": "2021-06-27T16:35:09Z",
+      "warrantyEnd": "2023-06-24T04:12:28Z",
+      "notes": "Repair Left Renal Vein, Percutaneous Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "9f3e12e8-eb0f-4003-ad58-8c5968a7b685",
+  "firstName": "Kaine",
+  "lastName": "Stothert",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG529948",
+      "type": "Desktop",
+      "mac": "B9-4F-B9-13-CC-42",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "04272756",
+      "purchaseDate": "2015-10-23T03:31:04Z",
+      "warrantyStart": "2011-03-24T23:13:43Z",
+      "warrantyEnd": "2025-06-04T02:22:41Z",
+      "notes": "Revision of Drainage Device in Tracheobronchial Tree, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG528293",
+      "type": "Laptop",
+      "mac": "59-6B-19-DE-7B-CB",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "60824897",
+      "purchaseDate": "2013-09-16T05:56:36Z",
+      "warrantyStart": "2019-02-09T17:35:33Z",
+      "warrantyEnd": "2025-04-11T22:04:29Z",
+      "notes": "Change Other Device in Lower Bone, External Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "0b6630c8-71ac-4620-9702-2ba92de05958",
+  "firstName": "Marcella",
+  "lastName": "Fahy",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG792222",
+      "type": "Desktop",
+      "mac": "76-84-08-78-27-9E",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "96964909",
+      "purchaseDate": "2021-07-01T04:56:29Z",
+      "warrantyStart": "2017-01-01T15:48:37Z",
+      "warrantyEnd": "2029-01-22T16:25:34Z",
+      "notes": "Extraction of Trochlear Nerve, Percutaneous Endoscopic Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG408668",
+      "type": "Laptop",
+      "mac": "9F-32-CD-62-1E-E7",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "27720128",
+      "purchaseDate": "2018-03-19T00:36:04Z",
+      "warrantyStart": "2018-01-14T21:52:51Z",
+      "warrantyEnd": "2028-01-10T14:56:02Z",
+      "notes": "Fusion of Right Wrist Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG108962",
+      "type": "Desktop",
+      "mac": "95-EC-0F-14-C3-12",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "33547782",
+      "purchaseDate": "2011-10-28T09:15:41Z",
+      "warrantyStart": "2011-05-31T16:09:41Z",
+      "warrantyEnd": "2030-04-10T02:36:49Z",
+      "notes": "Occlusion of Right Pulmonary Vein with Intraluminal Device, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "d61ef367-bd33-452b-a572-f311e2a885c7",
+  "firstName": "Lorita",
+  "lastName": "McGillecole",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG207476",
+      "type": "Desktop",
+      "mac": "48-F5-02-C4-BC-47",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "67975208",
+      "purchaseDate": "2022-04-03T23:20:33Z",
+      "warrantyStart": "2022-02-01T03:53:51Z",
+      "warrantyEnd": "2022-10-29T12:38:53Z",
+      "notes": "Revision of Autologous Tissue Substitute in Right Toe Phalangeal Joint, External Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG608299",
+      "type": "Laptop",
+      "mac": "0C-F6-2B-17-F4-75",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "42232631",
+      "purchaseDate": "2016-04-02T02:16:29Z",
+      "warrantyStart": "2016-08-22T18:03:44Z",
+      "warrantyEnd": "2026-01-17T09:36:52Z",
+      "notes": "Division of Basal Ganglia, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "de640599-34e3-4064-bd12-5c8d0ee80da8",
+  "firstName": "Rubina",
+  "lastName": "Birdis",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG561652",
+      "type": "Laptop",
+      "mac": "AF-8F-6E-4C-FF-05",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "16193093",
+      "purchaseDate": "2017-07-01T09:05:09Z",
+      "warrantyStart": "2016-09-09T23:42:32Z",
+      "warrantyEnd": "2022-10-10T08:01:43Z",
+      "notes": "Revision of Infusion Device in Upper Jaw, External Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "02c606e9-676c-484c-a2f2-20243a8ea9c3",
+  "firstName": "Milo",
+  "lastName": "Clemas",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG663308",
+      "type": "Laptop",
+      "mac": "79-99-5F-8F-48-A1",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "13341471",
+      "purchaseDate": "2010-11-07T22:26:43Z",
+      "warrantyStart": "2013-08-28T06:30:14Z",
+      "warrantyEnd": "2030-02-23T10:03:45Z",
+      "notes": "Bypass Hemiazygos Vein to Upper Vein with Autologous Arterial Tissue, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "524271ac-34f6-4a70-b373-abd2eb07aa02",
+  "firstName": "Darcy",
+  "lastName": "Palethorpe",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG063559",
+      "type": "Laptop",
+      "mac": "E5-B1-43-03-95-99",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "02390930",
+      "purchaseDate": "2015-10-17T19:07:17Z",
+      "warrantyStart": "2013-10-18T17:31:40Z",
+      "warrantyEnd": "2026-12-06T14:40:15Z",
+      "notes": "Bypass Right Axillary Artery to Bilateral Lower Arm Artery with Nonautologous Tissue Substitute, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "284a1758-3827-428f-bd2a-50b0a285880a",
+  "firstName": "Ana",
+  "lastName": "Milner",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG233108",
+      "type": "Desktop",
+      "mac": "A3-F7-19-F0-05-5E",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "41698258",
+      "purchaseDate": "2015-03-08T03:16:05Z",
+      "warrantyStart": "2018-05-10T05:55:51Z",
+      "warrantyEnd": "2025-11-05T08:46:31Z",
+      "notes": "Release Bilateral Carotid Bodies, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG948816",
+      "type": "Laptop",
+      "mac": "C4-50-EC-24-C9-A5",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "28395535",
+      "purchaseDate": "2011-12-22T08:13:50Z",
+      "warrantyStart": "2021-05-29T16:57:44Z",
+      "warrantyEnd": "2029-12-14T07:35:25Z",
+      "notes": "Supplement Right Femoral Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "c7889ce6-3bba-4386-b5a1-2b7fcc0a74fc",
+  "firstName": "Jase",
+  "lastName": "Barrowcliffe",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG373472",
+      "type": "Laptop",
+      "mac": "97-F6-14-69-0C-13",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "06542702",
+      "purchaseDate": "2013-06-11T04:49:55Z",
+      "warrantyStart": "2016-02-03T18:53:32Z",
+      "warrantyEnd": "2029-10-16T22:31:10Z",
+      "notes": "Insertion of Intraluminal Device into Colic Vein, Percutaneous Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "25ec61ba-52f6-4556-97f7-36e234b0a14e",
+  "firstName": "Kaine",
+  "lastName": "Winterbottom",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG520534",
+      "type": "Laptop",
+      "mac": "CB-27-82-20-94-C1",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "94378084",
+      "purchaseDate": "2021-10-23T15:10:36Z",
+      "warrantyStart": "2017-11-19T04:35:40Z",
+      "warrantyEnd": "2024-05-24T15:26:26Z",
+      "notes": "Drainage of Right Clavicle with Drainage Device, Percutaneous Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG166025",
+      "type": "Desktop",
+      "mac": "55-1C-44-C1-00-2A",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "43041580",
+      "purchaseDate": "2016-01-18T20:32:13Z",
+      "warrantyStart": "2012-04-09T20:57:17Z",
+      "warrantyEnd": "2025-10-02T22:50:57Z",
+      "notes": "Transplantation of Esophagus, Allogeneic, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG742168",
+      "type": "Desktop",
+      "mac": "8A-C7-C9-AC-F9-B3",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "60096156",
+      "purchaseDate": "2012-09-09T19:37:06Z",
+      "warrantyStart": "2016-07-04T19:23:03Z",
+      "warrantyEnd": "2024-02-28T22:38:59Z",
+      "notes": "Extirpation of Matter from Innominate Artery, Percutaneous Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "4fd72b1e-ed9d-45f4-b8cc-b051d3f076b4",
+  "firstName": "Karoly",
+  "lastName": "Cockshutt",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG181085",
+      "type": "Laptop",
+      "mac": "86-86-C4-B1-B5-87",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "61526279",
+      "purchaseDate": "2013-04-28T13:35:46Z",
+      "warrantyStart": "2019-10-03T08:54:59Z",
+      "warrantyEnd": "2027-08-28T20:27:53Z",
+      "notes": "Drainage of Abdomen Subcutaneous Tissue and Fascia, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG908513",
+      "type": "Desktop",
+      "mac": "40-1C-DE-6F-67-3B",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "93492810",
+      "purchaseDate": "2011-11-02T14:49:02Z",
+      "warrantyStart": "2011-12-24T16:56:20Z",
+      "warrantyEnd": "2026-08-28T00:46:16Z",
+      "notes": "Dilation of Face Artery with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "b52d0197-aa02-44de-b96e-972bb4fc68f5",
+  "firstName": "Loren",
+  "lastName": "Singleton",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG893866",
+      "type": "Laptop",
+      "mac": "5F-24-30-DF-A8-04",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "23085137",
+      "purchaseDate": "2012-02-10T16:01:41Z",
+      "warrantyStart": "2012-03-01T11:14:45Z",
+      "warrantyEnd": "2025-05-03T07:00:18Z",
+      "notes": "Division of Right Shoulder Tendon, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG977361",
+      "type": "Laptop",
+      "mac": "B3-51-A4-C9-8A-E2",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "38164441",
+      "purchaseDate": "2019-07-07T10:46:55Z",
+      "warrantyStart": "2019-07-29T16:42:32Z",
+      "warrantyEnd": "2025-03-08T01:01:38Z",
+      "notes": "Performance of Urinary Filtration, Multiple",
+      "archived": true
+    },
+    {
+      "assetTag": "UG797527",
+      "type": "Desktop",
+      "mac": "EC-DC-42-BA-A4-99",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "63151516",
+      "purchaseDate": "2011-01-09T09:55:30Z",
+      "warrantyStart": "2014-04-07T23:15:17Z",
+      "warrantyEnd": "2029-07-13T05:22:56Z",
+      "notes": "Revision of Infusion Device in Respiratory Tract, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "737f5844-c2e0-4602-8ead-9bf00bf3d090",
+  "firstName": "Isabelita",
+  "lastName": "Aspinwall",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG536936",
+      "type": "Laptop",
+      "mac": "0E-F7-1E-71-FC-32",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "72228967",
+      "purchaseDate": "2022-01-03T00:46:25Z",
+      "warrantyStart": "2011-04-17T15:52:46Z",
+      "warrantyEnd": "2028-05-05T08:51:30Z",
+      "notes": "Destruction of Right Knee Bursa and Ligament, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "1a7d8b69-309e-45e2-9f65-8bb66c120e9b",
+  "firstName": "Eldridge",
+  "lastName": "Greenhaugh",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG614698",
+      "type": "Desktop",
+      "mac": "5A-AF-D5-99-34-64",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "41882762",
+      "purchaseDate": "2015-05-26T18:31:08Z",
+      "warrantyStart": "2018-01-27T17:51:57Z",
+      "warrantyEnd": "2027-07-01T20:54:36Z",
+      "notes": "Revision of Autologous Tissue Substitute in Thoracic Vertebral Disc, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG924323",
+      "type": "Desktop",
+      "mac": "13-47-42-3C-B0-BA",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "95495873",
+      "purchaseDate": "2021-02-11T10:06:38Z",
+      "warrantyStart": "2010-10-28T21:23:28Z",
+      "warrantyEnd": "2023-09-30T11:49:29Z",
+      "notes": "Extraction of Sciatic Nerve, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "cdbc2a1d-8cad-47df-be45-589fb0d0b71e",
+  "firstName": "Lanny",
+  "lastName": "Ramey",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG827507",
+      "type": "Laptop",
+      "mac": "11-73-4B-2F-95-7A",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "86765193",
+      "purchaseDate": "2014-10-24T15:30:45Z",
+      "warrantyStart": "2017-03-22T13:05:03Z",
+      "warrantyEnd": "2026-11-30T02:00:04Z",
+      "notes": "Subcutaneous Tissue and Fascia, Supplement",
+      "archived": true
+    },
+    {
+      "assetTag": "UG089238",
+      "type": "Desktop",
+      "mac": "7B-CC-53-A8-12-4C",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "22474112",
+      "purchaseDate": "2015-01-03T01:41:52Z",
+      "warrantyStart": "2018-02-13T23:00:11Z",
+      "warrantyEnd": "2029-01-03T22:26:26Z",
+      "notes": "Magnetic Resonance Imaging (MRI) of Bilateral Pulmonary Veins",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "c7902480-af51-4e69-b703-56e5e48ae18f",
+  "firstName": "Haze",
+  "lastName": "Kenion",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG809152",
+      "type": "Desktop",
+      "mac": "4B-65-DE-17-29-F4",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "93187110",
+      "purchaseDate": "2016-08-03T01:02:07Z",
+      "warrantyStart": "2016-10-19T09:11:00Z",
+      "warrantyEnd": "2029-10-06T07:49:00Z",
+      "notes": "Transfer Head and Neck Bursa and Ligament, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG027453",
+      "type": "Desktop",
+      "mac": "62-B3-F5-13-BD-27",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "34001325",
+      "purchaseDate": "2020-04-18T14:34:16Z",
+      "warrantyStart": "2021-08-25T19:46:33Z",
+      "warrantyEnd": "2028-03-24T20:18:45Z",
+      "notes": "Reposition Left Lacrimal Bone with Internal Fixation Device, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG578642",
+      "type": "Desktop",
+      "mac": "51-0A-F5-8A-6B-3B",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "25340585",
+      "purchaseDate": "2012-07-22T05:12:09Z",
+      "warrantyStart": "2020-10-19T13:02:21Z",
+      "warrantyEnd": "2023-03-06T13:58:59Z",
+      "notes": "Replacement of Right Occipital Bone with Nonautologous Tissue Substitute, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "28ca78b1-831b-4718-9f7d-d1743529677e",
+  "firstName": "Harlen",
+  "lastName": "Tomala",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG436995",
+      "type": "Desktop",
+      "mac": "3E-B4-70-D4-12-3C",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "25773313",
+      "purchaseDate": "2022-04-19T14:28:42Z",
+      "warrantyStart": "2014-11-03T06:48:52Z",
+      "warrantyEnd": "2027-06-01T02:25:27Z",
+      "notes": "Supplement Left Foot Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "916b9eca-9383-4973-a890-fd15c86ce987",
+  "firstName": "Portia",
+  "lastName": "Vasilyonok",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG253508",
+      "type": "Laptop",
+      "mac": "18-8A-8B-5F-5D-02",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "41090773",
+      "purchaseDate": "2016-07-30T09:54:39Z",
+      "warrantyStart": "2015-05-13T13:29:51Z",
+      "warrantyEnd": "2029-09-22T07:30:59Z",
+      "notes": "Extirpation of Matter from Right Greater Saphenous Vein, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG243430",
+      "type": "Laptop",
+      "mac": "C1-F9-8A-EC-BA-65",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "38069991",
+      "purchaseDate": "2011-11-11T15:47:24Z",
+      "warrantyStart": "2012-09-06T02:38:23Z",
+      "warrantyEnd": "2025-03-31T20:42:17Z",
+      "notes": "Fusion of Right Toe Phalangeal Joint with External Fixation Device, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "a98573aa-f7dc-403d-a697-f5c89c78e96c",
+  "firstName": "Leshia",
+  "lastName": "Armiger",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG485269",
+      "type": "Desktop",
+      "mac": "5B-C7-6B-4E-58-53",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "52149642",
+      "purchaseDate": "2019-07-05T13:03:43Z",
+      "warrantyStart": "2014-11-18T16:29:00Z",
+      "warrantyEnd": "2022-12-27T00:35:58Z",
+      "notes": "Fluoroscopy of Bilateral Lower Extremity Veins, Guidance",
+      "archived": true
+    },
+    {
+      "assetTag": "UG002837",
+      "type": "Desktop",
+      "mac": "D7-4F-74-7B-CD-B5",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "63977874",
+      "purchaseDate": "2019-10-28T13:14:58Z",
+      "warrantyStart": "2014-06-21T19:59:33Z",
+      "warrantyEnd": "2025-06-28T18:14:44Z",
+      "notes": "Drainage of Right Upper Leg, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "fbb14b89-4da0-4012-b729-5e908a4b8382",
+  "firstName": "Paige",
+  "lastName": "Whetson",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG411341",
+      "type": "Desktop",
+      "mac": "00-65-B7-AA-93-A7",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "48359460",
+      "purchaseDate": "2015-02-14T13:40:40Z",
+      "warrantyStart": "2017-02-01T19:36:28Z",
+      "warrantyEnd": "2024-06-29T20:05:58Z",
+      "notes": "Fusion of Thoracolumbar Vertebral Joint with Autologous Tissue Substitute, Posterior Approach, Posterior Column, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "f3eddf7d-008d-40fb-b85b-bb8eb9f73929",
+  "firstName": "Roberto",
+  "lastName": "Dartnall",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG629864",
+      "type": "Desktop",
+      "mac": "A3-69-1A-58-17-C7",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "74532823",
+      "purchaseDate": "2014-03-23T11:58:28Z",
+      "warrantyStart": "2015-05-01T08:23:43Z",
+      "warrantyEnd": "2028-10-27T21:30:55Z",
+      "notes": "Hepatobiliary System and Pancreas, Supplement",
+      "archived": true
+    },
+    {
+      "assetTag": "UG108449",
+      "type": "Laptop",
+      "mac": "D7-C5-56-E4-66-AC",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "17513941",
+      "purchaseDate": "2015-10-24T16:45:30Z",
+      "warrantyStart": "2015-07-24T14:01:37Z",
+      "warrantyEnd": "2028-08-01T23:23:17Z",
+      "notes": "Revision of External Fixation Device in Right Ulna, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "b30b3490-a432-4f4b-a250-6548bddaa038",
+  "firstName": "Rhianna",
+  "lastName": "Gazey",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG295015",
+      "type": "Desktop",
+      "mac": "E6-EC-B7-CF-05-22",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "84074167",
+      "purchaseDate": "2016-09-25T14:35:25Z",
+      "warrantyStart": "2016-01-16T20:03:40Z",
+      "warrantyEnd": "2025-05-27T01:13:45Z",
+      "notes": "Supplement Left Subclavian Artery with Synthetic Substitute, Percutaneous Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "cbf50004-f4a8-485f-8523-b869f3551cdd",
+  "firstName": "Aili",
+  "lastName": "Thackray",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG503030",
+      "type": "Laptop",
+      "mac": "2E-49-1E-C9-C0-8F",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "37262781",
+      "purchaseDate": "2017-04-20T21:07:21Z",
+      "warrantyStart": "2020-04-11T09:24:21Z",
+      "warrantyEnd": "2025-09-30T14:32:34Z",
+      "notes": "Repair Left Middle Finger, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG683002",
+      "type": "Laptop",
+      "mac": "48-88-7F-78-2C-00",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "07877486",
+      "purchaseDate": "2021-07-13T09:49:54Z",
+      "warrantyStart": "2021-11-21T01:45:25Z",
+      "warrantyEnd": "2026-10-09T13:37:28Z",
+      "notes": "Drainage of Upper Esophagus, Percutaneous Endoscopic Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG075839",
+      "type": "Laptop",
+      "mac": "01-58-B1-CE-90-DE",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "17090442",
+      "purchaseDate": "2015-05-11T14:44:38Z",
+      "warrantyStart": "2011-06-03T03:49:44Z",
+      "warrantyEnd": "2028-02-10T03:19:40Z",
+      "notes": "Dilation of Left Common Iliac Artery, Percutaneous Endoscopic Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "520e72d6-97e0-46b3-81fa-15816b3a635e",
+  "firstName": "Danika",
+  "lastName": "Battle",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG761849",
+      "type": "Desktop",
+      "mac": "DD-21-30-C9-83-79",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "39147154",
+      "purchaseDate": "2015-12-14T03:05:15Z",
+      "warrantyStart": "2016-10-08T22:52:31Z",
+      "warrantyEnd": "2028-05-17T01:41:30Z",
+      "notes": "Removal of Nonautologous Tissue Substitute from Left Femoral Shaft, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "108ea8f9-de5b-42cf-8b63-97ae56191c8a",
+  "firstName": "Raimund",
+  "lastName": "Fassbindler",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG359367",
+      "type": "Desktop",
+      "mac": "37-D8-B9-31-1A-F5",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "82548513",
+      "purchaseDate": "2012-01-13T15:18:32Z",
+      "warrantyStart": "2011-06-19T01:25:21Z",
+      "warrantyEnd": "2023-12-21T00:58:51Z",
+      "notes": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG826731",
+      "type": "Laptop",
+      "mac": "42-A9-B9-A6-DA-E5",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "46922017",
+      "purchaseDate": "2014-04-01T15:28:24Z",
+      "warrantyStart": "2016-03-26T14:24:36Z",
+      "warrantyEnd": "2024-04-26T14:39:55Z",
+      "notes": "Resection of Anal Sphincter, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG998559",
+      "type": "Laptop",
+      "mac": "AC-F9-AB-F0-58-BF",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "84229922",
+      "purchaseDate": "2011-05-25T13:32:09Z",
+      "warrantyStart": "2019-09-19T20:51:23Z",
+      "warrantyEnd": "2029-12-25T01:22:14Z",
+      "notes": "Therapeutic Exercise Treatment of Respiratory System - Lower Back / Lower Extremity using Aerobic Endurance and Conditioning Equipment",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "b2bafbaf-5a13-45b1-96ff-8d9cf903ac0e",
+  "firstName": "Torr",
+  "lastName": "Chettoe",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG698428",
+      "type": "Desktop",
+      "mac": "29-BF-9E-73-D3-4D",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "44768502",
+      "purchaseDate": "2022-02-01T19:22:42Z",
+      "warrantyStart": "2021-10-10T23:55:46Z",
+      "warrantyEnd": "2029-03-27T09:47:59Z",
+      "notes": "Excision of Left Glenoid Cavity, Percutaneous Approach, Diagnostic",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "76b26c4c-fe07-4e1a-b814-dad5fe02c009",
+  "firstName": "Nerti",
+  "lastName": "Heaven",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG832640",
+      "type": "Desktop",
+      "mac": "75-40-BA-A0-71-03",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "25879400",
+      "purchaseDate": "2021-10-11T17:11:50Z",
+      "warrantyStart": "2012-05-30T11:47:29Z",
+      "warrantyEnd": "2024-03-13T03:29:11Z",
+      "notes": "Measurement of Arterial Pressure, Peripheral, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG003187",
+      "type": "Desktop",
+      "mac": "32-0A-F2-10-EA-D1",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "92474728",
+      "purchaseDate": "2015-04-28T15:11:39Z",
+      "warrantyStart": "2017-08-13T14:31:55Z",
+      "warrantyEnd": "2024-03-26T03:44:58Z",
+      "notes": "Removal of Synthetic Substitute from Left Knee Joint, Femoral Surface, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "6b80e671-1bcb-47fd-8ccd-9b8790130cad",
+  "firstName": "Reagen",
+  "lastName": "Treske",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG342523",
+      "type": "Desktop",
+      "mac": "FA-0B-F7-85-30-BD",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "51433952",
+      "purchaseDate": "2013-04-24T04:00:51Z",
+      "warrantyStart": "2022-01-03T10:08:41Z",
+      "warrantyEnd": "2026-08-11T22:13:09Z",
+      "notes": "Occlusion of Carina, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG713642",
+      "type": "Laptop",
+      "mac": "BB-DA-49-84-99-98",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "33028539",
+      "purchaseDate": "2013-10-18T03:07:21Z",
+      "warrantyStart": "2012-01-25T19:06:09Z",
+      "warrantyEnd": "2026-08-17T05:27:27Z",
+      "notes": "Excision of Left Hand Subcutaneous Tissue and Fascia, Open Approach, Diagnostic",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "ca2a9a03-cfe9-4fc8-ad68-26aaef78589d",
+  "firstName": "Alina",
+  "lastName": "Cleveley",
+  "department": "DIR",
+  "devices": [
+    {
+      "assetTag": "UG612215",
+      "type": "Laptop",
+      "mac": "C0-04-BD-CC-BA-56",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "60885618",
+      "purchaseDate": "2011-02-03T07:46:00Z",
+      "warrantyStart": "2012-04-22T15:22:29Z",
+      "warrantyEnd": "2026-09-18T20:49:46Z",
+      "notes": "Bypass Left Axillary Artery to Right Upper Leg Artery with Nonautologous Tissue Substitute, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG231263",
+      "type": "Desktop",
+      "mac": "68-57-0E-67-E5-93",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "78638087",
+      "purchaseDate": "2019-08-12T14:11:32Z",
+      "warrantyStart": "2011-08-25T21:02:02Z",
+      "warrantyEnd": "2029-06-06T07:50:57Z",
+      "notes": "Transfer Left Elbow Bursa and Ligament, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "18c6899b-b230-4bb7-b0b1-6b78e185b17c",
+  "firstName": "Susannah",
+  "lastName": "Luisetti",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG954681",
+      "type": "Desktop",
+      "mac": "45-18-67-9B-89-06",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "99706386",
+      "purchaseDate": "2011-07-13T13:52:10Z",
+      "warrantyStart": "2011-04-30T18:49:19Z",
+      "warrantyEnd": "2029-05-24T08:31:32Z",
+      "notes": "Drainage of Right Pleural Cavity, Percutaneous Endoscopic Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG697285",
+      "type": "Laptop",
+      "mac": "4A-60-B7-1F-00-B5",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "17758991",
+      "purchaseDate": "2012-12-27T06:06:08Z",
+      "warrantyStart": "2020-02-19T01:40:33Z",
+      "warrantyEnd": "2029-04-17T18:49:54Z",
+      "notes": "Drainage of Cystic Duct, Percutaneous Approach, Diagnostic",
+      "archived": false
+    },
+    {
+      "assetTag": "UG193448",
+      "type": "Laptop",
+      "mac": "93-9B-B5-F5-1B-AF",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "29494353",
+      "purchaseDate": "2018-07-23T14:43:05Z",
+      "warrantyStart": "2022-08-05T17:32:01Z",
+      "warrantyEnd": "2023-08-28T11:08:59Z",
+      "notes": "Beam Radiation of Chest using Photons >10 MeV",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "e9642015-a015-4d53-9e8e-ae04b607ba33",
+  "firstName": "Christian",
+  "lastName": "Jaulmes",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG083621",
+      "type": "Desktop",
+      "mac": "7A-75-D4-DB-D1-12",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "44592379",
+      "purchaseDate": "2012-07-23T14:07:43Z",
+      "warrantyStart": "2019-09-14T10:08:24Z",
+      "warrantyEnd": "2025-07-14T13:07:44Z",
+      "notes": "Supplement Right Ankle Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "26e9a69b-0344-4817-9833-95a604384b25",
+  "firstName": "Valentino",
+  "lastName": "Rutley",
+  "department": "AHED",
+  "devices": [
+    {
+      "assetTag": "UG363753",
+      "type": "Laptop",
+      "mac": "C4-DE-2E-C9-00-8F",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "20846655",
+      "purchaseDate": "2014-05-03T16:25:05Z",
+      "warrantyStart": "2017-04-05T10:58:37Z",
+      "warrantyEnd": "2027-06-11T10:12:55Z",
+      "notes": "Revision of Nonautologous Tissue Substitute in Left Metacarpal, Open Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG937412",
+      "type": "Desktop",
+      "mac": "30-8A-38-76-0B-D8",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "03377256",
+      "purchaseDate": "2012-05-10T13:13:38Z",
+      "warrantyStart": "2015-11-18T18:34:56Z",
+      "warrantyEnd": "2029-06-15T18:32:14Z",
+      "notes": "Revision of Autologous Tissue Substitute in Toe Nail, External Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "6c88e319-f79b-4c3c-9d26-87c1ba7f3c6a",
+  "firstName": "Allina",
+  "lastName": "Josowitz",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG951698",
+      "type": "Desktop",
+      "mac": "15-8A-3F-3D-F6-72",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "27396704",
+      "purchaseDate": "2017-09-19T09:55:09Z",
+      "warrantyStart": "2018-10-01T21:56:44Z",
+      "warrantyEnd": "2029-04-05T00:47:13Z",
+      "notes": "Removal of Feeding Device from Esophagus, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG035895",
+      "type": "Desktop",
+      "mac": "FF-BF-C2-B0-9C-66",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "68767245",
+      "purchaseDate": "2012-09-19T08:24:43Z",
+      "warrantyStart": "2015-11-30T06:09:07Z",
+      "warrantyEnd": "2026-04-09T00:37:54Z",
+      "notes": "Reposition Right Knee Joint, Open Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG406624",
+      "type": "Laptop",
+      "mac": "1F-12-5A-ED-00-37",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "94593475",
+      "purchaseDate": "2015-04-05T16:09:12Z",
+      "warrantyStart": "2019-06-07T04:38:58Z",
+      "warrantyEnd": "2027-12-30T16:40:05Z",
+      "notes": "Supplement Upper Lip with Nonautologous Tissue Substitute, External Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "c895ad61-d56e-411f-9782-746f83e866bb",
+  "firstName": "Dill",
+  "lastName": "Gourdon",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG387567",
+      "type": "Desktop",
+      "mac": "48-60-3E-E6-C0-80",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "72501791",
+      "purchaseDate": "2014-02-14T13:32:46Z",
+      "warrantyStart": "2014-12-29T08:17:52Z",
+      "warrantyEnd": "2024-06-11T14:42:31Z",
+      "notes": "Extirpation of Matter from Endometrium, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "b62dba4f-895e-42ea-bf55-a19993180dbd",
+  "firstName": "Raff",
+  "lastName": "Cholton",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG618992",
+      "type": "Desktop",
+      "mac": "F8-88-4D-EC-77-34",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "58803298",
+      "purchaseDate": "2014-04-23T15:39:43Z",
+      "warrantyStart": "2011-05-13T18:56:45Z",
+      "warrantyEnd": "2023-07-15T14:48:28Z",
+      "notes": "Removal of Synthetic Substitute from Female Perineum, Percutaneous Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG235346",
+      "type": "Desktop",
+      "mac": "D3-E8-B0-75-2F-6E",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "62053508",
+      "purchaseDate": "2011-01-05T20:37:09Z",
+      "warrantyStart": "2022-07-15T14:43:30Z",
+      "warrantyEnd": "2027-03-17T04:54:10Z",
+      "notes": "Drainage of Left Ureter, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG365325",
+      "type": "Laptop",
+      "mac": "E5-0F-AB-0B-3E-13",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "52442322",
+      "purchaseDate": "2015-11-17T11:55:42Z",
+      "warrantyStart": "2014-10-23T18:02:10Z",
+      "warrantyEnd": "2023-01-08T21:08:48Z",
+      "notes": "Dilation of Left Internal Mammary Artery with Three Drug-eluting Intraluminal Devices, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "6c2f73fb-78c1-4122-947f-c75989185c5f",
+  "firstName": "Alla",
+  "lastName": "Rash",
+  "department": "LID",
+  "devices": [
+    {
+      "assetTag": "UG449953",
+      "type": "Laptop",
+      "mac": "B3-42-F9-0D-4D-96",
+      "manufacturer": "Dell",
+      "model": "EliteBook",
+      "serialNumber": "47367360",
+      "purchaseDate": "2021-02-16T16:51:21Z",
+      "warrantyStart": "2019-02-09T22:16:35Z",
+      "warrantyEnd": "2029-05-18T21:25:37Z",
+      "notes": "Restriction of Left Femoral Vein with Extraluminal Device, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "9edbe806-f317-4a26-b511-b7d8d81b7a9e",
   "firstName": "Annabella",
-  "lastName": "Schwant",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG197151",
-      "type": "Laptop",
-      "mac": "13-5C-E1-24-2D-3E",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "88029038",
-      "purchaseDate": "2019-11-13T10:35:14Z",
-      "warrantyStart": "2021-06-10T18:29:22Z",
-      "warrantyEnd": "2029-09-18T03:21:44Z",
-      "notes": "Drainage of Left Upper Arm, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG848580",
-      "type": "Desktop",
-      "mac": "8F-FC-38-F0-4B-6F",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "05469206",
-      "purchaseDate": "2012-02-01T10:45:49Z",
-      "warrantyStart": "2022-09-04T08:16:59Z",
-      "warrantyEnd": "2029-10-22T02:30:15Z",
-      "notes": "Excision of Face, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG016191",
-      "type": "Laptop",
-      "mac": "A1-F3-02-84-A7-D7",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "20745728",
-      "purchaseDate": "2015-06-05T10:30:50Z",
-      "warrantyStart": "2018-05-22T20:01:00Z",
-      "warrantyEnd": "2028-06-04T05:41:42Z",
-      "notes": "Revision of Infusion Device in Right Shoulder Joint, External Approach"
-    }
-  ]
-}, {
-  "id": "6ae1d3e3-1224-48ed-8b58-4b24080fa7d5",
-  "firstName": "Sasha",
-  "lastName": "Medforth",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG571032",
-      "type": "Desktop",
-      "mac": "DE-BA-BA-FC-38-6C",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "11530534",
-      "purchaseDate": "2012-05-04T18:44:03Z",
-      "warrantyStart": "2017-10-18T03:38:16Z",
-      "warrantyEnd": "2023-08-13T22:18:30Z",
-      "notes": "Excision of Cerebellum, Open Approach"
-    }
-  ]
-}, {
-  "id": "a2d3b5c0-a2f3-4f62-af9f-ef0f18ac6d2a",
-  "firstName": "Tatiana",
-  "lastName": "Hattam",
+  "lastName": "Eastwood",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG746625",
-      "type": "Desktop",
-      "mac": "46-96-95-ED-86-3C",
-      "manufacturer": "Acer",
+      "assetTag": "UG689999",
+      "type": "Laptop",
+      "mac": "8B-A3-FE-B4-C0-98",
+      "manufacturer": "Stone",
       "model": "MiniBook",
-      "serialNumber": "09231886",
-      "purchaseDate": "2019-03-30T13:02:19Z",
-      "warrantyStart": "2021-08-17T04:34:37Z",
-      "warrantyEnd": "2024-06-28T20:25:37Z",
-      "notes": "Computerized Tomography (CT Scan) of Inferior Vena Cava using High Osmolar Contrast, Unenhanced and Enhanced"
-    }
-  ]
-}, {
-  "id": "590b5843-ead2-4901-9f01-f66ad60a1420",
-  "firstName": "Adolf",
-  "lastName": "Goldfinch",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG222111",
-      "type": "Desktop",
-      "mac": "FF-3E-33-99-AD-CD",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "45571439",
-      "purchaseDate": "2018-08-22T11:11:46Z",
-      "warrantyStart": "2016-05-04T21:03:14Z",
-      "warrantyEnd": "2030-02-07T08:19:08Z",
-      "notes": "Supplement Right Internal Mammary Artery with Nonautologous Tissue Substitute, Open Approach"
-    }
-  ]
-}, {
-  "id": "d276f96d-3f6f-4d38-aef9-a73695f8ad9f",
-  "firstName": "Goldy",
-  "lastName": "Douthwaite",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG854637",
-      "type": "Desktop",
-      "mac": "31-EA-0D-76-B3-15",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "59435386",
-      "purchaseDate": "2014-12-09T03:03:43Z",
-      "warrantyStart": "2012-08-24T22:30:56Z",
-      "warrantyEnd": "2028-03-09T19:12:52Z",
-      "notes": "Therapeutic Exercise Treatment of Neurological System - Whole Body using Mechanical Equipment"
+      "serialNumber": "66496901",
+      "purchaseDate": "2017-07-17T13:30:30Z",
+      "warrantyStart": "2011-12-23T17:21:15Z",
+      "warrantyEnd": "2025-12-09T14:36:50Z",
+      "notes": "Occlusion of Stomach with Intraluminal Device, Via Natural or Artificial Opening",
+      "archived": true
     },
     {
-      "assetTag": "UG788755",
+      "assetTag": "UG967240",
+      "type": "Laptop",
+      "mac": "F8-3B-98-23-D5-52",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "28217856",
+      "purchaseDate": "2021-03-18T10:54:52Z",
+      "warrantyStart": "2022-03-06T13:48:07Z",
+      "warrantyEnd": "2025-12-19T09:31:59Z",
+      "notes": "Insertion of Diaphragmatic Pacemaker Lead into Left Diaphragm, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG164425",
       "type": "Desktop",
-      "mac": "12-B4-73-28-17-65",
+      "mac": "AD-6D-D5-0F-94-2E",
       "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "03464411",
-      "purchaseDate": "2016-09-06T01:38:04Z",
-      "warrantyStart": "2017-07-17T07:09:12Z",
-      "warrantyEnd": "2024-09-21T23:46:26Z",
-      "notes": "Revision of Infusion Device in Left Ankle Joint, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG442393",
-      "type": "Desktop",
-      "mac": "99-C5-F3-9C-5D-23",
-      "manufacturer": "Dell",
       "model": "EliteBook",
-      "serialNumber": "60100630",
-      "purchaseDate": "2020-02-08T18:38:38Z",
-      "warrantyStart": "2017-03-05T08:21:58Z",
-      "warrantyEnd": "2023-01-28T03:07:29Z",
-      "notes": "Narcosynthesis"
+      "serialNumber": "51050118",
+      "purchaseDate": "2014-04-13T11:43:26Z",
+      "warrantyStart": "2014-10-31T11:36:20Z",
+      "warrantyEnd": "2025-07-30T04:22:54Z",
+      "notes": "Occlusion of Hemiazygos Vein with Intraluminal Device, Percutaneous Endoscopic Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "16ae85d8-8a50-434e-8e0d-0d6f94d77660",
-  "firstName": "Marianne",
-  "lastName": "Buffey",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG621197",
-      "type": "Desktop",
-      "mac": "8D-EF-5D-FF-80-1A",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "00786951",
-      "purchaseDate": "2015-03-04T23:53:35Z",
-      "warrantyStart": "2018-09-11T07:25:40Z",
-      "warrantyEnd": "2025-04-22T05:19:25Z",
-      "notes": "Excision of Left Radial Artery, Percutaneous Approach, Diagnostic"
-    },
-    {
-      "assetTag": "UG835346",
-      "type": "Laptop",
-      "mac": "6C-D2-63-FE-D6-1A",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "99657465",
-      "purchaseDate": "2014-10-21T01:58:32Z",
-      "warrantyStart": "2014-02-22T11:17:08Z",
-      "warrantyEnd": "2024-12-20T09:45:21Z",
-      "notes": "Bypass Right Ventricle to Pulmonary Trunk with Zooplastic Tissue, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "b727979e-fd66-407b-b914-ea81c90024c6",
-  "firstName": "Benny",
-  "lastName": "McMeyler",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG345714",
-      "type": "Laptop",
-      "mac": "FC-50-7F-9F-8A-56",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "79145837",
-      "purchaseDate": "2021-08-10T03:23:49Z",
-      "warrantyStart": "2017-10-12T11:41:42Z",
-      "warrantyEnd": "2027-01-01T10:16:50Z",
-      "notes": "Beam Radiation of Inguinal Lymphatics using Photons 1 - 10 MeV"
-    }
-  ]
-}, {
-  "id": "9ba8723b-f323-49f8-ae7f-27f113c3e246",
-  "firstName": "Valencia",
-  "lastName": "McMechan",
+  "id": "9cd5376b-b75f-44af-be3c-0e47c26f8f2e",
+  "firstName": "Blinny",
+  "lastName": "McGilvra",
   "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG999345",
-      "type": "Desktop",
-      "mac": "0C-EE-83-25-FE-82",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "21643105",
-      "purchaseDate": "2019-03-31T21:58:40Z",
-      "warrantyStart": "2017-04-14T04:16:56Z",
-      "warrantyEnd": "2022-11-05T04:07:30Z",
-      "notes": "Drainage of Back Skin, External Approach"
+      "assetTag": "UG898042",
+      "type": "Laptop",
+      "mac": "95-86-4A-0A-71-6C",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "72500992",
+      "purchaseDate": "2021-12-08T04:01:22Z",
+      "warrantyStart": "2019-10-19T00:25:46Z",
+      "warrantyEnd": "2025-04-22T14:11:01Z",
+      "notes": "Fusion of 2 or more Lumbar Vertebral Joints with Synthetic Substitute, Posterior Approach, Posterior Column, Percutaneous Approach",
+      "archived": true
     },
     {
-      "assetTag": "UG985855",
+      "assetTag": "UG697722",
       "type": "Desktop",
-      "mac": "80-3D-6A-D2-E3-D2",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "08709840",
-      "purchaseDate": "2014-06-10T23:36:00Z",
-      "warrantyStart": "2019-12-01T11:06:11Z",
-      "warrantyEnd": "2028-06-21T09:34:45Z",
-      "notes": "Revision of Internal Fixation Device in Right Tarsal Joint, Percutaneous Endoscopic Approach"
+      "mac": "AF-17-70-84-FD-5C",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "28304672",
+      "purchaseDate": "2021-11-22T18:45:31Z",
+      "warrantyStart": "2012-04-15T13:44:06Z",
+      "warrantyEnd": "2029-01-05T13:35:46Z",
+      "notes": "Supplement Esophageal Vein with Autologous Tissue Substitute, Percutaneous Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "8f278c4f-ac65-49cc-b2d3-003882ac70b5",
-  "firstName": "Eduardo",
-  "lastName": "Moultrie",
-  "department": "DIR",
+  "id": "b91b52a3-e86b-4b70-8542-f851371b87c9",
+  "firstName": "Roselin",
+  "lastName": "Tippings",
+  "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG642617",
-      "type": "Desktop",
-      "mac": "48-9A-B5-2E-33-65",
-      "manufacturer": "Lenovo",
+      "assetTag": "UG081139",
+      "type": "Laptop",
+      "mac": "6E-D7-B8-8D-4F-54",
+      "manufacturer": "Stone",
       "model": "MiniBook",
-      "serialNumber": "48914363",
-      "purchaseDate": "2016-11-28T05:47:49Z",
-      "warrantyStart": "2017-09-03T15:41:13Z",
-      "warrantyEnd": "2024-05-13T18:27:44Z",
-      "notes": "Supplement Intracranial Vein with Synthetic Substitute, Open Approach"
+      "serialNumber": "27803533",
+      "purchaseDate": "2020-12-13T09:25:08Z",
+      "warrantyStart": "2014-09-08T07:35:43Z",
+      "warrantyEnd": "2023-03-08T11:18:49Z",
+      "notes": "Introduction of Monoclonal Antibody into Cranial Cavity and Brain, Open Approach",
+      "archived": false
     },
     {
-      "assetTag": "UG679399",
+      "assetTag": "UG512514",
       "type": "Desktop",
-      "mac": "F6-51-70-BC-75-5C",
+      "mac": "22-A1-8B-9B-1F-25",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "55776481",
+      "purchaseDate": "2018-09-24T15:16:26Z",
+      "warrantyStart": "2018-03-03T11:24:45Z",
+      "warrantyEnd": "2026-10-29T04:19:18Z",
+      "notes": "Extirpation of Matter from Right Trunk Muscle, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "5586eed1-932d-4770-a0fa-4ab1fb3eeab1",
+  "firstName": "Dukey",
+  "lastName": "Pashbee",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG833722",
+      "type": "Laptop",
+      "mac": "15-5E-30-58-FA-99",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "23089109",
+      "purchaseDate": "2019-01-20T00:51:53Z",
+      "warrantyStart": "2017-06-04T05:43:44Z",
+      "warrantyEnd": "2025-06-30T08:04:45Z",
+      "notes": "Drainage of Left Acetabulum with Drainage Device, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG226546",
+      "type": "Desktop",
+      "mac": "C3-B5-2E-D8-4C-6B",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "74487247",
+      "purchaseDate": "2016-02-27T03:00:50Z",
+      "warrantyStart": "2022-01-13T04:22:54Z",
+      "warrantyEnd": "2028-06-06T01:05:57Z",
+      "notes": "Removal of Drainage Device from Left Metacarpocarpal Joint, External Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG406634",
+      "type": "Laptop",
+      "mac": "A9-76-93-E9-F7-57",
       "manufacturer": "Asus",
       "model": "ProBook",
-      "serialNumber": "61513685",
-      "purchaseDate": "2021-04-17T00:18:01Z",
-      "warrantyStart": "2022-03-16T14:51:23Z",
-      "warrantyEnd": "2027-09-05T14:11:18Z",
-      "notes": "Replacement of Right Palatine Bone with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+      "serialNumber": "02153190",
+      "purchaseDate": "2014-01-28T17:53:45Z",
+      "warrantyStart": "2013-02-15T19:08:30Z",
+      "warrantyEnd": "2027-04-08T10:03:02Z",
+      "notes": "Insertion of Internal Fixation Device into Left Thumb Phalanx, Percutaneous Endoscopic Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "27a8e7eb-8ae1-4be4-b62d-f978a6afa3ab",
-  "firstName": "Andrus",
-  "lastName": "Vanyushin",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG336485",
-      "type": "Laptop",
-      "mac": "69-41-5C-F9-BC-64",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "46790002",
-      "purchaseDate": "2015-06-17T04:28:50Z",
-      "warrantyStart": "2020-02-21T01:57:10Z",
-      "warrantyEnd": "2027-10-19T14:27:55Z",
-      "notes": "Dilation of Cecum with Intraluminal Device, Via Natural or Artificial Opening Endoscopic"
-    },
-    {
-      "assetTag": "UG799436",
-      "type": "Desktop",
-      "mac": "95-62-D6-88-01-42",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "62070114",
-      "purchaseDate": "2013-05-08T00:54:33Z",
-      "warrantyStart": "2020-03-25T03:30:36Z",
-      "warrantyEnd": "2025-05-04T15:08:28Z",
-      "notes": "Bypass Sigmoid Colon to Sigmoid Colon, Open Approach"
-    }
-  ]
-}, {
-  "id": "06d847ce-0188-43f3-a845-9721081a2606",
-  "firstName": "Keri",
-  "lastName": "Antoniottii",
+  "id": "1d06d581-b404-4cf8-b0e9-7c51e0bb3b4e",
+  "firstName": "Sissie",
+  "lastName": "Labrone",
   "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG238310",
+      "assetTag": "UG860488",
       "type": "Desktop",
-      "mac": "88-06-C1-40-32-AE",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "66604452",
-      "purchaseDate": "2014-02-16T16:41:43Z",
-      "warrantyStart": "2018-06-30T10:10:52Z",
-      "warrantyEnd": "2025-10-20T13:19:25Z",
-      "notes": "Division of Left Lower Arm and Wrist Muscle, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG585304",
-      "type": "Desktop",
-      "mac": "B3-10-BA-D6-74-D0",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "19990215",
-      "purchaseDate": "2020-09-16T16:56:03Z",
-      "warrantyStart": "2015-04-05T17:44:45Z",
-      "warrantyEnd": "2028-05-05T16:55:33Z",
-      "notes": "Removal of Autologous Tissue Substitute from Upper Back, Percutaneous Endoscopic Approach"
+      "mac": "52-DC-EA-17-90-A6",
+      "manufacturer": "Asus",
+      "model": "ProBook",
+      "serialNumber": "48041828",
+      "purchaseDate": "2018-06-30T00:33:27Z",
+      "warrantyStart": "2015-11-11T05:58:02Z",
+      "warrantyEnd": "2024-07-19T06:47:04Z",
+      "notes": "Excision of Left Hand Vein, Percutaneous Endoscopic Approach, Diagnostic",
+      "archived": false
     }
   ]
 }, {
-  "id": "0d8d4bbd-3acc-4008-9778-884a11eb54ed",
-  "firstName": "Rafa",
-  "lastName": "Balog",
+  "id": "32319e5b-2944-4b7a-a6ba-efc703a0c5d5",
+  "firstName": "Coleen",
+  "lastName": "Bissell",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG812794",
+      "assetTag": "UG157444",
       "type": "Laptop",
-      "mac": "1F-84-8D-A2-3C-11",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "15496211",
-      "purchaseDate": "2017-11-29T23:13:43Z",
-      "warrantyStart": "2017-06-15T13:02:01Z",
-      "warrantyEnd": "2025-10-28T22:44:11Z",
-      "notes": "Resection of Left Kidney, Percutaneous Endoscopic Approach"
+      "mac": "5E-10-67-B0-C0-56",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "50384200",
+      "purchaseDate": "2021-05-24T05:09:08Z",
+      "warrantyStart": "2014-01-14T22:36:01Z",
+      "warrantyEnd": "2024-01-29T18:19:38Z",
+      "notes": "Excision of Colic Vein, Percutaneous Approach, Diagnostic",
+      "archived": true
     },
     {
-      "assetTag": "UG267763",
+      "assetTag": "UG784084",
       "type": "Desktop",
-      "mac": "DB-1A-17-C2-B5-CF",
+      "mac": "34-A5-57-5A-BE-FA",
       "manufacturer": "Stone",
       "model": "ProBook",
-      "serialNumber": "08083422",
-      "purchaseDate": "2010-12-29T17:07:59Z",
-      "warrantyStart": "2015-09-30T17:00:48Z",
-      "warrantyEnd": "2028-05-18T06:06:32Z",
-      "notes": "Fluoroscopy of Right Brachiocephalic-Subclavian Artery using Low Osmolar Contrast"
+      "serialNumber": "02721955",
+      "purchaseDate": "2013-09-16T05:53:46Z",
+      "warrantyStart": "2012-08-31T05:12:53Z",
+      "warrantyEnd": "2025-04-26T06:20:48Z",
+      "notes": "Resection of Vagina, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG021454",
+      "type": "Laptop",
+      "mac": "AE-25-25-6C-43-A7",
+      "manufacturer": "Dell",
+      "model": "ProBook",
+      "serialNumber": "19125525",
+      "purchaseDate": "2019-02-28T23:18:47Z",
+      "warrantyStart": "2019-10-07T21:25:38Z",
+      "warrantyEnd": "2026-01-17T14:17:53Z",
+      "notes": "Revision of Drainage Device in Cranial Nerve, Percutaneous Endoscopic Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "15df4234-9b75-4dc5-a615-30dd426be332",
-  "firstName": "Emilia",
-  "lastName": "MacIntosh",
+  "id": "98796815-b9af-44c7-8947-33f381199d65",
+  "firstName": "Antonius",
+  "lastName": "Rorke",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG885897",
+      "type": "Desktop",
+      "mac": "20-14-AD-E3-A8-46",
+      "manufacturer": "Asus",
+      "model": "EliteBook",
+      "serialNumber": "26863121",
+      "purchaseDate": "2022-02-24T15:04:41Z",
+      "warrantyStart": "2020-03-29T07:00:29Z",
+      "warrantyEnd": "2022-10-07T12:12:27Z",
+      "notes": "Urinary System, Replacement",
+      "archived": true
+    },
+    {
+      "assetTag": "UG653972",
+      "type": "Desktop",
+      "mac": "B6-9A-94-FD-61-FC",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "47014869",
+      "purchaseDate": "2018-07-11T05:25:57Z",
+      "warrantyStart": "2021-01-14T04:13:06Z",
+      "warrantyEnd": "2025-01-13T07:23:35Z",
+      "notes": "Dilation of Left Lacrimal Duct, Via Natural or Artificial Opening Endoscopic",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "c23c74ce-da4b-41d4-b759-12f8d8975920",
+  "firstName": "Freddi",
+  "lastName": "Sellman",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG229126",
+      "type": "Desktop",
+      "mac": "70-A3-63-F3-96-B7",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "60263632",
+      "purchaseDate": "2016-08-09T04:48:41Z",
+      "warrantyStart": "2016-04-09T14:04:29Z",
+      "warrantyEnd": "2028-11-07T15:04:25Z",
+      "notes": "Revision of Synthetic Substitute in Thoracic Duct, External Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG681857",
+      "type": "Laptop",
+      "mac": "BC-7B-E4-FC-33-07",
+      "manufacturer": "Lenovo",
+      "model": "EliteBook",
+      "serialNumber": "31911895",
+      "purchaseDate": "2012-01-04T08:38:15Z",
+      "warrantyStart": "2016-07-03T00:37:51Z",
+      "warrantyEnd": "2024-05-12T15:10:52Z",
+      "notes": "Removal of Nonautologous Tissue Substitute from Left Hip Joint, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "9a1b18a5-5dbe-4d77-abf9-a3391d02ed67",
+  "firstName": "Walliw",
+  "lastName": "Trittam",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG467103",
+      "type": "Laptop",
+      "mac": "10-31-EF-A5-2C-29",
+      "manufacturer": "Acer",
+      "model": "MiniBook",
+      "serialNumber": "89588715",
+      "purchaseDate": "2016-06-12T16:02:56Z",
+      "warrantyStart": "2011-08-20T13:58:19Z",
+      "warrantyEnd": "2027-03-21T13:50:44Z",
+      "notes": "Replacement of Left Cornea with Autologous Tissue Substitute, Percutaneous Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "0cea54dc-7029-46a4-a76f-b51c5360d456",
+  "firstName": "Milty",
+  "lastName": "Mertgen",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG056418",
+      "type": "Desktop",
+      "mac": "4F-DC-CF-5F-98-1B",
+      "manufacturer": "HP",
+      "model": "MiniBook",
+      "serialNumber": "97559633",
+      "purchaseDate": "2016-02-19T00:47:27Z",
+      "warrantyStart": "2019-11-07T02:33:50Z",
+      "warrantyEnd": "2025-12-24T20:45:33Z",
+      "notes": "Excision of Left Ethmoid Sinus, Percutaneous Endoscopic Approach, Diagnostic",
+      "archived": false
+    },
+    {
+      "assetTag": "UG463882",
+      "type": "Desktop",
+      "mac": "02-29-CF-E4-35-35",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "82790768",
+      "purchaseDate": "2011-11-13T06:17:08Z",
+      "warrantyStart": "2021-10-19T01:12:11Z",
+      "warrantyEnd": "2028-10-27T00:14:36Z",
+      "notes": "Replacement of Urethra with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG770939",
+      "type": "Laptop",
+      "mac": "3B-7D-9A-54-E6-9A",
+      "manufacturer": "Stone",
+      "model": "MiniBook",
+      "serialNumber": "50488108",
+      "purchaseDate": "2021-11-26T18:00:30Z",
+      "warrantyStart": "2021-10-08T10:25:37Z",
+      "warrantyEnd": "2026-02-27T10:48:27Z",
+      "notes": "Revision of Radioactive Element in Respiratory Tract, Via Natural or Artificial Opening Endoscopic",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "656bb177-7ceb-4e20-8bf9-79f2b686847b",
+  "firstName": "Jennifer",
+  "lastName": "Degue",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG131270",
+      "assetTag": "UG706106",
       "type": "Laptop",
-      "mac": "C5-9A-2D-FD-2B-08",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "99740719",
-      "purchaseDate": "2014-09-25T23:33:07Z",
-      "warrantyStart": "2018-11-27T05:27:52Z",
-      "warrantyEnd": "2027-04-02T18:22:04Z",
-      "notes": "Replacement of Left Tympanic Membrane with Synthetic Substitute, Open Approach"
+      "mac": "D4-88-AE-C4-82-8E",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "67072955",
+      "purchaseDate": "2021-02-03T03:19:06Z",
+      "warrantyStart": "2016-08-18T19:35:31Z",
+      "warrantyEnd": "2029-04-09T17:37:47Z",
+      "notes": "Bypass Upper Esophagus to Stomach with Nonautologous Tissue Substitute, Open Approach",
+      "archived": true
     },
     {
-      "assetTag": "UG731803",
-      "type": "Desktop",
-      "mac": "52-49-88-04-5F-A6",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "18571220",
-      "purchaseDate": "2011-09-02T19:30:27Z",
-      "warrantyStart": "2011-06-28T12:19:52Z",
-      "warrantyEnd": "2027-09-29T21:35:18Z",
-      "notes": "Resection of Left Lobe Liver, Open Approach"
-    },
-    {
-      "assetTag": "UG194191",
-      "type": "Desktop",
-      "mac": "A4-12-7A-45-6F-5D",
+      "assetTag": "UG891084",
+      "type": "Laptop",
+      "mac": "31-80-96-B6-2D-91",
       "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "40954545",
-      "purchaseDate": "2017-10-15T02:07:13Z",
-      "warrantyStart": "2016-01-02T22:34:49Z",
-      "warrantyEnd": "2026-09-20T19:04:56Z",
-      "notes": "Revision of External Fixation Device in Left Humeral Shaft, Percutaneous Endoscopic Approach"
+      "model": "EliteBook",
+      "serialNumber": "27401101",
+      "purchaseDate": "2021-06-09T13:36:41Z",
+      "warrantyStart": "2017-12-06T13:47:55Z",
+      "warrantyEnd": "2027-02-22T13:16:30Z",
+      "notes": "Reattachment of Right 3rd Toe, Open Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "20f1c237-2e17-44df-9f9b-f31e5a535938",
-  "firstName": "Sarette",
-  "lastName": "O'Gavin",
+  "id": "b47a14e4-cc6e-458a-b217-88c3adf3322e",
+  "firstName": "Putnem",
+  "lastName": "Mackrell",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG808720",
+      "assetTag": "UG819554",
       "type": "Desktop",
-      "mac": "65-8F-D1-B1-AB-85",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "41588239",
-      "purchaseDate": "2015-09-01T16:06:16Z",
-      "warrantyStart": "2016-12-23T13:55:01Z",
-      "warrantyEnd": "2024-01-24T08:50:30Z",
-      "notes": "Division of Abdomen Skin, External Approach"
-    },
-    {
-      "assetTag": "UG675725",
-      "type": "Laptop",
-      "mac": "9D-FD-28-97-B5-65",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "19095252",
-      "purchaseDate": "2011-04-14T17:41:52Z",
-      "warrantyStart": "2018-07-02T06:27:56Z",
-      "warrantyEnd": "2027-08-21T23:13:54Z",
-      "notes": "Extraction of Left Ethmoid Sinus, Open Approach"
-    },
-    {
-      "assetTag": "UG829216",
-      "type": "Desktop",
-      "mac": "38-97-CB-1D-24-C7",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "95648097",
-      "purchaseDate": "2014-06-19T13:50:04Z",
-      "warrantyStart": "2021-06-10T05:25:50Z",
-      "warrantyEnd": "2029-04-18T15:10:55Z",
-      "notes": "Supplement Stomach with Autologous Tissue Substitute, Open Approach"
-    }
-  ]
-}, {
-  "id": "85cc18b1-caca-43c7-adf3-56593107d81f",
-  "firstName": "Roderick",
-  "lastName": "Forsythe",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG237789",
-      "type": "Laptop",
-      "mac": "08-A7-F9-C2-AA-BD",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "02331506",
-      "purchaseDate": "2016-02-01T12:31:51Z",
-      "warrantyStart": "2022-01-08T21:32:42Z",
-      "warrantyEnd": "2023-08-18T13:34:01Z",
-      "notes": "Removal of Synthetic Substitute from Left Clavicle, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG664816",
-      "type": "Laptop",
-      "mac": "52-F9-77-F0-1D-74",
+      "mac": "54-66-FB-AF-BF-F8",
       "manufacturer": "HP",
       "model": "ProBook",
-      "serialNumber": "59051764",
-      "purchaseDate": "2022-02-21T13:14:21Z",
-      "warrantyStart": "2022-07-18T17:40:01Z",
-      "warrantyEnd": "2023-10-30T21:28:27Z",
-      "notes": "Removal of Autologous Tissue Substitute from Right Breast, Via Natural or Artificial Opening Endoscopic"
+      "serialNumber": "78848688",
+      "purchaseDate": "2014-08-19T18:27:32Z",
+      "warrantyStart": "2020-03-24T14:20:23Z",
+      "warrantyEnd": "2028-12-26T12:37:13Z",
+      "notes": "Insertion of Spacer into Right Metacarpophalangeal Joint, Open Approach",
+      "archived": false
     },
     {
-      "assetTag": "UG695668",
-      "type": "Laptop",
-      "mac": "63-D9-51-C6-02-D9",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "93079105",
-      "purchaseDate": "2021-07-01T09:16:04Z",
-      "warrantyStart": "2012-07-06T04:40:22Z",
-      "warrantyEnd": "2025-04-29T20:00:11Z",
-      "notes": "Reposition Right Fibula with Internal Fixation Device, Open Approach"
-    }
-  ]
-}, {
-  "id": "a9f51069-2b8c-47a8-b945-7d49cea0f39b",
-  "firstName": "Axe",
-  "lastName": "Grave",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG623701",
+      "assetTag": "UG161753",
       "type": "Desktop",
-      "mac": "FD-B2-2B-C6-FE-BF",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "96665444",
-      "purchaseDate": "2021-12-05T20:37:41Z",
-      "warrantyStart": "2014-08-28T13:10:19Z",
-      "warrantyEnd": "2026-03-25T04:27:36Z",
-      "notes": "Revision of External Fixation Device in Right Upper Femur, Open Approach"
-    }
-  ]
-}, {
-  "id": "bad661c5-dd4b-425d-930b-07795e98b3da",
-  "firstName": "Elsie",
-  "lastName": "Junkison",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG709253",
-      "type": "Laptop",
-      "mac": "D8-DE-42-CB-18-E2",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "14050490",
-      "purchaseDate": "2021-10-07T11:00:53Z",
-      "warrantyStart": "2011-01-25T19:20:08Z",
-      "warrantyEnd": "2028-02-03T11:21:30Z",
-      "notes": "Revision of Synthetic Substitute in Abdominal Wall, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG218249",
-      "type": "Desktop",
-      "mac": "93-63-54-5E-83-52",
-      "manufacturer": "Asus",
-      "model": "EliteBook",
-      "serialNumber": "63885651",
-      "purchaseDate": "2011-05-25T03:01:33Z",
-      "warrantyStart": "2018-12-14T14:48:15Z",
-      "warrantyEnd": "2028-11-26T10:43:42Z",
-      "notes": "Removal of Infusion Device from Respiratory Tract, Via Natural or Artificial Opening"
-    }
-  ]
-}, {
-  "id": "5669e905-f7bd-4b31-a3e7-8d60a3964821",
-  "firstName": "Victoria",
-  "lastName": "Signoret",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG657579",
-      "type": "Desktop",
-      "mac": "78-18-23-39-D5-A2",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "40895047",
-      "purchaseDate": "2012-02-06T04:48:52Z",
-      "warrantyStart": "2011-04-26T06:42:12Z",
-      "warrantyEnd": "2023-04-15T19:46:40Z",
-      "notes": "Removal of Nonautologous Tissue Substitute from Lower Jaw, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG374767",
-      "type": "Laptop",
-      "mac": "98-98-71-9B-7B-AD",
+      "mac": "8A-72-72-DB-78-7F",
       "manufacturer": "Lenovo",
       "model": "MiniBook",
-      "serialNumber": "53485345",
-      "purchaseDate": "2013-01-18T03:08:45Z",
-      "warrantyStart": "2011-09-01T14:59:28Z",
-      "warrantyEnd": "2023-02-21T12:34:04Z",
-      "notes": "Insertion of Infusion Pump into Left Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+      "serialNumber": "11208662",
+      "purchaseDate": "2014-04-24T21:56:44Z",
+      "warrantyStart": "2020-03-04T07:49:15Z",
+      "warrantyEnd": "2025-06-09T23:05:01Z",
+      "notes": "Removal of Infusion Device from Kidney, Percutaneous Endoscopic Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "31b0a102-5866-4941-968b-332a7fd04102",
-  "firstName": "Dorthy",
-  "lastName": "Rainey",
+  "id": "439b1553-2131-4608-bd0e-48205a6dac34",
+  "firstName": "Sebastian",
+  "lastName": "Sartin",
   "department": "DIR",
   "devices": [
     {
-      "assetTag": "UG096251",
-      "type": "Desktop",
-      "mac": "1C-1F-15-E3-62-6F",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "49809271",
-      "purchaseDate": "2020-10-15T20:48:12Z",
-      "warrantyStart": "2017-04-28T16:57:58Z",
-      "warrantyEnd": "2026-04-21T08:27:36Z",
-      "notes": "Reposition Right Occipital Bone, Open Approach"
-    },
-    {
-      "assetTag": "UG352910",
-      "type": "Desktop",
-      "mac": "BD-BB-3B-5B-2E-95",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "86891402",
-      "purchaseDate": "2020-11-15T05:05:12Z",
-      "warrantyStart": "2022-06-25T09:31:58Z",
-      "warrantyEnd": "2028-04-05T15:56:32Z",
-      "notes": "Supplement Left Foot Vein with Nonautologous Tissue Substitute, Open Approach"
-    },
-    {
-      "assetTag": "UG787863",
-      "type": "Desktop",
-      "mac": "FC-4A-31-43-52-3C",
+      "assetTag": "UG728174",
+      "type": "Laptop",
+      "mac": "73-3A-4E-73-F2-83",
       "manufacturer": "Asus",
       "model": "EliteBook",
-      "serialNumber": "10797439",
-      "purchaseDate": "2013-10-04T02:46:43Z",
-      "warrantyStart": "2016-02-04T17:58:03Z",
-      "warrantyEnd": "2028-05-23T13:13:12Z",
-      "notes": "Removal of Autologous Tissue Substitute from Right Sternoclavicular Joint, Open Approach"
+      "serialNumber": "25799840",
+      "purchaseDate": "2018-09-15T23:16:23Z",
+      "warrantyStart": "2011-02-03T19:57:47Z",
+      "warrantyEnd": "2028-09-14T18:44:20Z",
+      "notes": "Extirpation of Matter from Left Frontal Sinus, Percutaneous Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "abbaa60f-d83a-4218-be5a-45869d7896fe",
-  "firstName": "Vonnie",
-  "lastName": "Lieber",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG677999",
-      "type": "Laptop",
-      "mac": "8C-F3-26-CD-03-55",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "90958536",
-      "purchaseDate": "2011-10-20T15:03:08Z",
-      "warrantyStart": "2011-07-11T08:51:21Z",
-      "warrantyEnd": "2023-04-16T15:44:41Z",
-      "notes": "Magnetic Resonance Imaging (MRI) of Bilateral Submandibular Glands using Other Contrast"
-    },
-    {
-      "assetTag": "UG118495",
-      "type": "Desktop",
-      "mac": "02-C6-91-00-68-D7",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "29304960",
-      "purchaseDate": "2021-04-23T14:46:28Z",
-      "warrantyStart": "2019-11-15T04:24:41Z",
-      "warrantyEnd": "2028-12-08T12:47:31Z",
-      "notes": "Bypass Left External Iliac Artery to Bilateral External Iliac Arteries with Nonautologous Tissue Substitute, Open Approach"
-    },
-    {
-      "assetTag": "UG816195",
-      "type": "Laptop",
-      "mac": "38-34-E6-88-09-02",
-      "manufacturer": "HP",
-      "model": "MiniBook",
-      "serialNumber": "16625723",
-      "purchaseDate": "2018-11-03T05:01:09Z",
-      "warrantyStart": "2017-06-19T14:39:09Z",
-      "warrantyEnd": "2025-01-17T22:10:37Z",
-      "notes": "Division of Left Temporal Bone, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "0db883b6-800c-42d3-8120-4673be0e33ea",
-  "firstName": "Rollie",
-  "lastName": "Holtaway",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG372559",
-      "type": "Laptop",
-      "mac": "AA-C0-3E-E5-89-E8",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "66014015",
-      "purchaseDate": "2011-03-30T05:13:42Z",
-      "warrantyStart": "2012-01-21T05:57:23Z",
-      "warrantyEnd": "2028-04-05T09:35:14Z",
-      "notes": "Oscillating Tracking Assessment"
-    },
-    {
-      "assetTag": "UG849633",
-      "type": "Desktop",
-      "mac": "A9-27-85-E7-2C-8A",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "81825341",
-      "purchaseDate": "2014-10-23T12:03:26Z",
-      "warrantyStart": "2016-06-05T04:59:04Z",
-      "warrantyEnd": "2025-07-12T04:43:06Z",
-      "notes": "Restriction of Upper Vein with Intraluminal Device, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG849037",
-      "type": "Desktop",
-      "mac": "57-22-D5-69-1C-C9",
-      "manufacturer": "Asus",
-      "model": "MiniBook",
-      "serialNumber": "33457333",
-      "purchaseDate": "2016-05-17T00:17:24Z",
-      "warrantyStart": "2020-10-06T20:45:08Z",
-      "warrantyEnd": "2026-01-29T06:29:33Z",
-      "notes": "Revision of Autologous Tissue Substitute in Left Ulna, Open Approach"
-    }
-  ]
-}, {
-  "id": "d59bad9c-0778-4de9-be8f-c35a621235fd",
-  "firstName": "Fania",
-  "lastName": "Kehri",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG496915",
-      "type": "Laptop",
-      "mac": "68-A1-D8-B8-84-57",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "83378446",
-      "purchaseDate": "2013-09-18T04:14:10Z",
-      "warrantyStart": "2014-02-15T21:13:14Z",
-      "warrantyEnd": "2028-08-10T21:33:08Z",
-      "notes": "Resection of Right Knee Joint, Open Approach"
-    },
-    {
-      "assetTag": "UG496782",
-      "type": "Laptop",
-      "mac": "BB-0E-82-00-EE-E9",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "29122006",
-      "purchaseDate": "2013-10-24T16:02:58Z",
-      "warrantyStart": "2016-03-26T09:11:01Z",
-      "warrantyEnd": "2026-06-19T14:33:56Z",
-      "notes": "Division of Right Hip Bursa and Ligament, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "d823947c-f822-4a2a-b4b1-1988f14df6c2",
-  "firstName": "Pall",
-  "lastName": "Yapp",
+  "id": "5e3e53f1-aab7-4be8-a6d5-8e0ced125caf",
+  "firstName": "Gannon",
+  "lastName": "Doumenc",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG686240",
-      "type": "Laptop",
-      "mac": "D4-C1-95-36-FE-E3",
+      "assetTag": "UG713067",
+      "type": "Desktop",
+      "mac": "F3-E8-52-EA-18-B4",
       "manufacturer": "Asus",
       "model": "EliteBook",
-      "serialNumber": "69528565",
-      "purchaseDate": "2018-03-08T06:00:22Z",
-      "warrantyStart": "2014-02-17T09:37:14Z",
-      "warrantyEnd": "2027-09-15T08:47:21Z",
-      "notes": "Occlusion of Left Femoral Artery with Intraluminal Device, Open Approach"
+      "serialNumber": "91127254",
+      "purchaseDate": "2016-10-17T03:56:23Z",
+      "warrantyStart": "2015-11-04T02:52:05Z",
+      "warrantyEnd": "2023-05-08T23:40:59Z",
+      "notes": "Division of Right Hip Tendon, Percutaneous Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG269152",
+      "type": "Desktop",
+      "mac": "8B-A0-4D-D7-F1-EF",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "59329289",
+      "purchaseDate": "2020-07-24T18:49:53Z",
+      "warrantyStart": "2013-10-20T23:39:43Z",
+      "warrantyEnd": "2028-01-11T20:48:40Z",
+      "notes": "Transfusion of Autologous Plasma Cryoprecipitate into Peripheral Vein, Percutaneous Approach",
+      "archived": false
     }
   ]
 }, {
-  "id": "e78bcaa5-662a-4f25-b25f-76a4dc48382f",
-  "firstName": "Corbett",
-  "lastName": "Skaife",
+  "id": "dfa80da3-652d-455a-bf01-c7dc000f1fc4",
+  "firstName": "Nicholle",
+  "lastName": "Mcwhinney",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG702682",
+      "type": "Laptop",
+      "mac": "CA-83-0E-16-B3-84",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "96975476",
+      "purchaseDate": "2020-10-21T01:35:31Z",
+      "warrantyStart": "2021-11-25T17:44:32Z",
+      "warrantyEnd": "2030-02-04T07:58:36Z",
+      "notes": "New Technology, Joints, Fusion",
+      "archived": false
+    },
+    {
+      "assetTag": "UG559791",
+      "type": "Desktop",
+      "mac": "6D-DB-0E-06-8B-46",
+      "manufacturer": "HP",
+      "model": "EliteBook",
+      "serialNumber": "28197789",
+      "purchaseDate": "2015-08-21T10:07:37Z",
+      "warrantyStart": "2011-08-28T07:36:17Z",
+      "warrantyEnd": "2024-08-14T09:29:01Z",
+      "notes": "Resection of Upper Lip, External Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG895450",
+      "type": "Laptop",
+      "mac": "0C-66-62-C8-AE-70",
+      "manufacturer": "Stone",
+      "model": "ProBook",
+      "serialNumber": "59478822",
+      "purchaseDate": "2018-02-14T21:04:49Z",
+      "warrantyStart": "2022-03-05T02:17:41Z",
+      "warrantyEnd": "2027-03-21T13:56:10Z",
+      "notes": "Bypass Right Hypogastric Vein to Lower Vein with Synthetic Substitute, Open Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "2535a76e-18a5-416f-be99-52b74a077185",
+  "firstName": "Augustus",
+  "lastName": "Scadden",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG342311",
+      "type": "Laptop",
+      "mac": "63-32-60-F9-D3-EC",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "00374345",
+      "purchaseDate": "2015-09-26T05:13:48Z",
+      "warrantyStart": "2020-10-22T05:59:16Z",
+      "warrantyEnd": "2024-10-01T07:52:14Z",
+      "notes": "Drainage of Right Lower Leg Muscle with Drainage Device, Percutaneous Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG245157",
+      "type": "Laptop",
+      "mac": "2D-16-BB-A2-FE-0C",
+      "manufacturer": "Stone",
+      "model": "EliteBook",
+      "serialNumber": "64068623",
+      "purchaseDate": "2014-01-03T13:21:21Z",
+      "warrantyStart": "2017-09-15T05:20:17Z",
+      "warrantyEnd": "2029-01-01T15:57:04Z",
+      "notes": "Extirpation of Matter from Left Frontal Sinus, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "9b986eb9-f1e1-4607-996e-9378f2331e42",
+  "firstName": "Kelvin",
+  "lastName": "Casassa",
+  "department": "FMD",
+  "devices": [
+    {
+      "assetTag": "UG911919",
+      "type": "Desktop",
+      "mac": "E5-15-75-1D-41-7A",
+      "manufacturer": "Acer",
+      "model": "EliteBook",
+      "serialNumber": "72435882",
+      "purchaseDate": "2015-12-22T16:41:12Z",
+      "warrantyStart": "2011-03-06T05:42:03Z",
+      "warrantyEnd": "2024-06-07T11:56:44Z",
+      "notes": "Excision of Pineal Body, Percutaneous Endoscopic Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG465725",
+      "type": "Desktop",
+      "mac": "73-F1-83-D1-46-B4",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "17930513",
+      "purchaseDate": "2020-10-11T20:45:57Z",
+      "warrantyStart": "2017-08-08T06:24:46Z",
+      "warrantyEnd": "2029-12-29T18:42:51Z",
+      "notes": "Removal of External Fixation Device from Left Fibula, Percutaneous Approach",
+      "archived": true
+    },
+    {
+      "assetTag": "UG548485",
+      "type": "Laptop",
+      "mac": "AE-4A-2B-EC-FD-C9",
+      "manufacturer": "Acer",
+      "model": "ProBook",
+      "serialNumber": "81430928",
+      "purchaseDate": "2017-12-23T00:10:36Z",
+      "warrantyStart": "2013-02-17T01:49:50Z",
+      "warrantyEnd": "2027-03-03T12:45:25Z",
+      "notes": "Excision of Rectum, Percutaneous Endoscopic Approach, Diagnostic",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "d8e236db-b65e-45f9-a2fb-0ecc6a72425e",
+  "firstName": "Bobbe",
+  "lastName": "Horrod",
   "department": "AHED",
   "devices": [
     {
-      "assetTag": "UG069586",
+      "assetTag": "UG653376",
       "type": "Desktop",
-      "mac": "6D-89-32-E0-05-00",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "19788492",
-      "purchaseDate": "2018-01-14T02:51:19Z",
-      "warrantyStart": "2020-08-20T06:32:59Z",
-      "warrantyEnd": "2028-06-24T23:15:58Z",
-      "notes": "Insertion of Infusion Device into Hepatic Vein, Open Approach"
-    }
-  ]
-}, {
-  "id": "87834357-4307-419a-9e9d-8c090663fb05",
-  "firstName": "Aryn",
-  "lastName": "Ralestone",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG652406",
-      "type": "Laptop",
-      "mac": "9C-9E-1A-7C-44-8B",
+      "mac": "3A-99-2C-42-F0-35",
       "manufacturer": "Lenovo",
       "model": "MiniBook",
-      "serialNumber": "50848772",
-      "purchaseDate": "2013-12-10T09:09:32Z",
-      "warrantyStart": "2021-12-04T15:14:37Z",
-      "warrantyEnd": "2024-01-24T17:12:14Z",
-      "notes": "Fluoroscopy of Portal and Splanchnic Veins using Low Osmolar Contrast, Guidance"
+      "serialNumber": "32267265",
+      "purchaseDate": "2010-09-12T01:33:28Z",
+      "warrantyStart": "2021-05-14T09:57:49Z",
+      "warrantyEnd": "2023-10-24T08:23:09Z",
+      "notes": "Traction of Back",
+      "archived": true
+    },
+    {
+      "assetTag": "UG730556",
+      "type": "Laptop",
+      "mac": "89-8E-E3-90-58-B8",
+      "manufacturer": "Lenovo",
+      "model": "MiniBook",
+      "serialNumber": "11873015",
+      "purchaseDate": "2012-05-07T12:01:35Z",
+      "warrantyStart": "2019-08-16T10:59:51Z",
+      "warrantyEnd": "2028-02-05T20:38:01Z",
+      "notes": "Inspection of Respiratory Tract, Via Natural or Artificial Opening Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG523089",
+      "type": "Desktop",
+      "mac": "1C-A6-AC-A8-E4-64",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "72633438",
+      "purchaseDate": "2015-07-28T03:39:21Z",
+      "warrantyStart": "2016-10-21T02:01:55Z",
+      "warrantyEnd": "2025-10-30T22:24:24Z",
+      "notes": "Fluoroscopy of Right Subclavian Vein, Guidance",
+      "archived": true
     }
   ]
 }, {
-  "id": "3dc94bca-42c5-4d88-8bda-a3348287c943",
-  "firstName": "Gray",
-  "lastName": "MacDuffie",
+  "id": "59614603-ada2-43ee-863f-014667b7bf26",
+  "firstName": "Chilton",
+  "lastName": "Foukx",
+  "department": "STU",
+  "devices": [
+    {
+      "assetTag": "UG990581",
+      "type": "Laptop",
+      "mac": "68-CC-AD-40-B4-75",
+      "manufacturer": "HP",
+      "model": "ProBook",
+      "serialNumber": "67723476",
+      "purchaseDate": "2020-11-11T07:51:43Z",
+      "warrantyStart": "2019-04-15T07:42:55Z",
+      "warrantyEnd": "2030-02-03T20:34:57Z",
+      "notes": "Removal of Synthetic Substitute from Right Pelvic Bone, Percutaneous Approach",
+      "archived": false
+    },
+    {
+      "assetTag": "UG505019",
+      "type": "Laptop",
+      "mac": "8A-30-9F-FB-49-B3",
+      "manufacturer": "Lenovo",
+      "model": "ProBook",
+      "serialNumber": "72418475",
+      "purchaseDate": "2021-05-19T22:58:55Z",
+      "warrantyStart": "2013-04-25T09:02:31Z",
+      "warrantyEnd": "2027-02-14T06:27:23Z",
+      "notes": "Restriction of Left Parotid Duct, Percutaneous Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "944578a4-89b9-4f01-bcb9-0c4f346dc859",
+  "firstName": "Matthaeus",
+  "lastName": "Mocker",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG609659",
-      "type": "Laptop",
-      "mac": "7B-E1-80-61-49-88",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "92981553",
-      "purchaseDate": "2021-09-24T00:34:37Z",
-      "warrantyStart": "2018-05-02T13:27:40Z",
-      "warrantyEnd": "2028-11-08T22:01:50Z",
-      "notes": "Excision of Clitoris, External Approach"
-    },
-    {
-      "assetTag": "UG693064",
+      "assetTag": "UG341975",
       "type": "Desktop",
-      "mac": "D8-CA-3D-54-4D-12",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "73436253",
-      "purchaseDate": "2019-08-22T23:41:07Z",
-      "warrantyStart": "2015-06-02T00:48:09Z",
-      "warrantyEnd": "2027-04-16T03:03:48Z",
-      "notes": "Revision of Synthetic Substitute in Right Tympanic Membrane, Via Natural or Artificial Opening"
-    }
-  ]
-}, {
-  "id": "1c75a9bb-a031-4e86-a16f-43d5a1e4e7a6",
-  "firstName": "Bordy",
-  "lastName": "Phlippsen",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG092801",
-      "type": "Desktop",
-      "mac": "37-5C-50-58-F0-AE",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "96583197",
-      "purchaseDate": "2022-05-02T15:08:37Z",
-      "warrantyStart": "2017-07-29T07:02:15Z",
-      "warrantyEnd": "2029-03-29T22:57:51Z",
-      "notes": "Release Right Common Iliac Vein, Open Approach"
-    },
-    {
-      "assetTag": "UG754554",
-      "type": "Desktop",
-      "mac": "2C-46-BE-2F-9F-C5",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "32343367",
-      "purchaseDate": "2013-11-02T10:56:48Z",
-      "warrantyStart": "2014-05-19T22:44:48Z",
-      "warrantyEnd": "2026-04-03T19:57:16Z",
-      "notes": "Replacement of Left Nipple with Synthetic Substitute, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "2dfb3e63-eafe-4dd9-97af-f6574d1c59f1",
-  "firstName": "Jolyn",
-  "lastName": "Swayne",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG519301",
-      "type": "Laptop",
-      "mac": "21-89-11-44-32-01",
-      "manufacturer": "Lenovo",
-      "model": "MiniBook",
-      "serialNumber": "31305121",
-      "purchaseDate": "2018-05-22T08:04:11Z",
-      "warrantyStart": "2018-01-15T16:05:42Z",
-      "warrantyEnd": "2026-10-08T07:01:47Z",
-      "notes": "Repair Bilateral Seminal Vesicles, Open Approach"
-    }
-  ]
-}, {
-  "id": "9fda67b3-c17b-45c8-b763-83f26bdf9806",
-  "firstName": "Lezlie",
-  "lastName": "Amer",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG034125",
-      "type": "Desktop",
-      "mac": "3A-30-CE-FF-0A-53",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "31607295",
-      "purchaseDate": "2014-01-08T00:58:41Z",
-      "warrantyStart": "2021-10-02T15:02:26Z",
-      "warrantyEnd": "2027-04-09T05:26:53Z",
-      "notes": "Extirpation of Matter from Aortic Body, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG695808",
-      "type": "Desktop",
-      "mac": "E1-47-D5-0F-AC-32",
-      "manufacturer": "Stone",
-      "model": "MiniBook",
-      "serialNumber": "58256634",
-      "purchaseDate": "2010-11-07T12:57:53Z",
-      "warrantyStart": "2016-08-18T06:15:45Z",
-      "warrantyEnd": "2030-01-21T23:40:14Z",
-      "notes": "Beam Radiation of Gallbladder using Photons 1 - 10 MeV"
-    }
-  ]
-}, {
-  "id": "1a647af4-2ed5-4f84-9e8c-579f9c9d225e",
-  "firstName": "Cristionna",
-  "lastName": "Fealey",
-  "department": "DIR",
-  "devices": [
-    {
-      "assetTag": "UG384874",
-      "type": "Laptop",
-      "mac": "10-61-49-97-0D-8E",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "58792708",
-      "purchaseDate": "2022-05-23T15:56:16Z",
-      "warrantyStart": "2015-05-26T03:14:10Z",
-      "warrantyEnd": "2025-07-25T03:18:11Z",
-      "notes": "Drainage of Left Internal Mammary Lymphatic, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG465749",
-      "type": "Desktop",
-      "mac": "E7-7F-EA-09-9D-A9",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "11176752",
-      "purchaseDate": "2020-12-17T18:19:10Z",
-      "warrantyStart": "2020-08-13T09:04:17Z",
-      "warrantyEnd": "2026-10-15T00:31:48Z",
-      "notes": "Revision of Synthetic Substitute in Vagina and Cul-de-sac, External Approach"
-    }
-  ]
-}, {
-  "id": "fc2d9543-ca22-4d63-b99b-9a08b260d6db",
-  "firstName": "Sybille",
-  "lastName": "Ashforth",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG685173",
-      "type": "Laptop",
-      "mac": "FD-44-EF-26-BF-34",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "64696617",
-      "purchaseDate": "2014-10-27T06:52:11Z",
-      "warrantyStart": "2018-09-03T20:23:11Z",
-      "warrantyEnd": "2030-05-06T01:33:30Z",
-      "notes": "Occlusion of Right Foot Vein, Open Approach"
-    },
-    {
-      "assetTag": "UG197829",
-      "type": "Laptop",
-      "mac": "63-78-27-E1-0D-AC",
+      "mac": "C4-21-E7-2B-26-C9",
       "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "46274534",
-      "purchaseDate": "2020-05-14T06:42:32Z",
-      "warrantyStart": "2017-04-07T01:12:58Z",
-      "warrantyEnd": "2024-08-30T10:44:38Z",
-      "notes": "Inspection of Right Ear, Open Approach"
-    }
-  ]
-}, {
-  "id": "f6962604-0d1f-4872-8293-a4cf5666437a",
-  "firstName": "Beryle",
-  "lastName": "Sawney",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG525768",
-      "type": "Laptop",
-      "mac": "D9-E7-DD-93-0C-3D",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "74879498",
-      "purchaseDate": "2012-09-09T07:50:51Z",
-      "warrantyStart": "2017-06-11T20:48:37Z",
-      "warrantyEnd": "2024-09-13T16:17:41Z",
-      "notes": "Repair Right Shoulder Muscle, Percutaneous Approach"
+      "model": "MiniBook",
+      "serialNumber": "27709487",
+      "purchaseDate": "2011-12-08T09:51:33Z",
+      "warrantyStart": "2019-04-06T05:23:55Z",
+      "warrantyEnd": "2025-10-01T01:08:40Z",
+      "notes": "Drainage of Cerebral Ventricle with Drainage Device, Percutaneous Approach",
+      "archived": true
     },
     {
-      "assetTag": "UG998199",
+      "assetTag": "UG410723",
       "type": "Desktop",
-      "mac": "A1-F6-80-6F-DA-67",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "41659807",
-      "purchaseDate": "2015-09-10T06:19:30Z",
-      "warrantyStart": "2020-02-08T01:42:00Z",
-      "warrantyEnd": "2027-04-08T19:19:22Z",
-      "notes": "Extirpation of Matter from Left Hand Vein, Open Approach"
-    },
-    {
-      "assetTag": "UG388180",
-      "type": "Desktop",
-      "mac": "AB-DD-11-5C-ED-ED",
-      "manufacturer": "HP",
-      "model": "ProBook",
-      "serialNumber": "09954615",
-      "purchaseDate": "2022-09-07T01:28:15Z",
-      "warrantyStart": "2017-12-01T18:40:36Z",
-      "warrantyEnd": "2022-11-18T16:35:13Z",
-      "notes": "Plain Radiography of Bilateral Parotid Glands using High Osmolar Contrast"
-    }
-  ]
-}, {
-  "id": "8d1af962-9b79-4f96-aae4-9ec0cede28ee",
-  "firstName": "Denys",
-  "lastName": "Brewer",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG628400",
-      "type": "Laptop",
-      "mac": "78-F2-34-7B-88-4E",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "10327755",
-      "purchaseDate": "2010-12-27T15:15:29Z",
-      "warrantyStart": "2018-08-16T11:14:54Z",
-      "warrantyEnd": "2026-06-19T12:08:47Z",
-      "notes": "Revision of Nonautologous Tissue Substitute in Cervical Vertebral Disc, External Approach"
-    },
-    {
-      "assetTag": "UG514521",
-      "type": "Desktop",
-      "mac": "BF-09-89-0B-45-3E",
-      "manufacturer": "Asus",
-      "model": "ProBook",
-      "serialNumber": "86414276",
-      "purchaseDate": "2013-08-23T20:39:31Z",
-      "warrantyStart": "2016-02-24T13:55:10Z",
-      "warrantyEnd": "2029-07-04T22:44:57Z",
-      "notes": "Removal of Extraluminal Device from Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic"
-    }
-  ]
-}, {
-  "id": "1d5c1fe4-8443-4a65-8e22-f38431c03ea1",
-  "firstName": "Bidget",
-  "lastName": "Goulbourne",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG744657",
-      "type": "Laptop",
-      "mac": "84-BB-26-44-1B-44",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "63494167",
-      "purchaseDate": "2014-10-28T23:50:59Z",
-      "warrantyStart": "2022-01-22T15:32:08Z",
-      "warrantyEnd": "2029-08-08T16:25:41Z",
-      "notes": "Reposition Sternum, Open Approach"
-    },
-    {
-      "assetTag": "UG947437",
-      "type": "Desktop",
-      "mac": "85-85-A2-04-4D-8A",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "63631418",
-      "purchaseDate": "2013-02-15T09:55:24Z",
-      "warrantyStart": "2021-03-27T16:45:57Z",
-      "warrantyEnd": "2025-12-26T19:59:49Z",
-      "notes": "Dilation of Left Brachial Artery, Bifurcation, with Drug-eluting Intraluminal Device, Open Approach"
-    },
-    {
-      "assetTag": "UG747387",
-      "type": "Laptop",
-      "mac": "D8-34-DF-08-E5-97",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "22348836",
-      "purchaseDate": "2016-02-26T22:23:56Z",
-      "warrantyStart": "2015-01-10T19:47:11Z",
-      "warrantyEnd": "2025-11-27T05:12:50Z",
-      "notes": "Dilation of Left Femoral Artery with Intraluminal Device, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "8dec43af-24c1-4c52-a9dc-9b67b22c5d81",
-  "firstName": "Avigdor",
-  "lastName": "Reiners",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG901520",
-      "type": "Desktop",
-      "mac": "2B-03-30-09-76-34",
+      "mac": "29-CC-00-38-D9-E3",
       "manufacturer": "Acer",
       "model": "MiniBook",
-      "serialNumber": "97823833",
-      "purchaseDate": "2018-05-10T04:15:03Z",
-      "warrantyStart": "2021-08-17T07:15:52Z",
-      "warrantyEnd": "2027-05-04T01:18:10Z",
-      "notes": "Dilation of Right Posterior Tibial Artery with Intraluminal Device, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG644936",
-      "type": "Desktop",
-      "mac": "2F-9B-79-FA-0E-2E",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "35827301",
-      "purchaseDate": "2021-09-14T18:35:12Z",
-      "warrantyStart": "2015-03-11T07:00:07Z",
-      "warrantyEnd": "2029-05-12T15:52:08Z",
-      "notes": "Fluoroscopy of Inferior Vena Cava using Other Contrast, Guidance"
-    },
-    {
-      "assetTag": "UG000887",
-      "type": "Desktop",
-      "mac": "34-F4-AF-12-51-8F",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "03355168",
-      "purchaseDate": "2017-08-28T07:29:38Z",
-      "warrantyStart": "2017-06-04T21:50:48Z",
-      "warrantyEnd": "2024-09-03T21:48:08Z",
-      "notes": "Insertion of Tissue Expander into Bilateral Breast, Via Natural or Artificial Opening Endoscopic"
+      "serialNumber": "58690384",
+      "purchaseDate": "2020-06-24T15:49:37Z",
+      "warrantyStart": "2022-04-27T02:31:06Z",
+      "warrantyEnd": "2028-11-26T16:07:45Z",
+      "notes": "Computerized Tomography (CT Scan) of Trachea/Airways using Other Contrast",
+      "archived": true
     }
   ]
 }, {
-  "id": "8965b3d6-9de1-4d9c-b1af-c08eb46eb8de",
-  "firstName": "Andreana",
-  "lastName": "Jiggins",
+  "id": "e4de381a-cbda-4ff1-851a-8fe3cab1b697",
+  "firstName": "Tiphani",
+  "lastName": "Manderson",
   "department": "LID",
   "devices": [
     {
-      "assetTag": "UG259636",
+      "assetTag": "UG194611",
       "type": "Laptop",
-      "mac": "2C-4F-56-CE-6F-EB",
-      "manufacturer": "Dell",
-      "model": "ProBook",
-      "serialNumber": "95292580",
-      "purchaseDate": "2011-11-23T20:44:13Z",
-      "warrantyStart": "2014-05-19T01:38:02Z",
-      "warrantyEnd": "2029-10-25T17:41:17Z",
-      "notes": "Drainage of Accessory Nerve, Open Approach"
+      "mac": "22-AE-18-65-A0-B7",
+      "manufacturer": "Asus",
+      "model": "MiniBook",
+      "serialNumber": "61212689",
+      "purchaseDate": "2019-12-06T07:24:09Z",
+      "warrantyStart": "2012-04-20T05:31:04Z",
+      "warrantyEnd": "2026-07-16T14:57:12Z",
+      "notes": "Extraction of Perineum Bursa and Ligament, Percutaneous Approach",
+      "archived": true
     },
     {
-      "assetTag": "UG698696",
+      "assetTag": "UG438101",
       "type": "Desktop",
-      "mac": "DB-13-E7-D8-52-61",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "39463038",
-      "purchaseDate": "2022-03-20T16:26:06Z",
-      "warrantyStart": "2014-12-10T12:57:55Z",
-      "warrantyEnd": "2026-10-08T11:25:57Z",
-      "notes": "Monitoring of Arterial Pressure, Pulmonary, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG144551",
-      "type": "Laptop",
-      "mac": "06-8C-61-0C-85-51",
+      "mac": "61-33-60-3B-37-A2",
       "manufacturer": "HP",
       "model": "MiniBook",
-      "serialNumber": "65373397",
-      "purchaseDate": "2021-01-30T09:36:07Z",
-      "warrantyStart": "2016-04-09T03:12:48Z",
-      "warrantyEnd": "2030-08-10T06:58:55Z",
-      "notes": "Drainage of Left Axilla, Percutaneous Approach, Diagnostic"
+      "serialNumber": "34927243",
+      "purchaseDate": "2012-06-23T14:21:35Z",
+      "warrantyStart": "2022-07-30T21:13:32Z",
+      "warrantyEnd": "2030-09-08T13:51:34Z",
+      "notes": "Fluoroscopy of Left Common Carotid Artery using High Osmolar Contrast",
+      "archived": false
     }
   ]
 }, {
-  "id": "1913fd67-a1d3-4dda-a604-57325ba0ce3b",
-  "firstName": "Barton",
-  "lastName": "Benedikt",
+  "id": "e23ac9f5-6f78-492b-8d78-24e75fbe745b",
+  "firstName": "Jakob",
+  "lastName": "Gard",
   "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG229154",
-      "type": "Laptop",
-      "mac": "59-12-1D-1C-0F-BC",
-      "manufacturer": "Lenovo",
-      "model": "ProBook",
-      "serialNumber": "72855675",
-      "purchaseDate": "2011-05-10T17:39:39Z",
-      "warrantyStart": "2013-01-10T15:44:49Z",
-      "warrantyEnd": "2029-08-17T23:58:21Z",
-      "notes": "Planar Nuclear Medicine Imaging of Whole Body using Iodine 131 (I-131)"
-    },
-    {
-      "assetTag": "UG201176",
+      "assetTag": "UG248373",
       "type": "Desktop",
-      "mac": "C1-7B-D0-AA-E7-9B",
-      "manufacturer": "Stone",
-      "model": "ProBook",
-      "serialNumber": "00651785",
-      "purchaseDate": "2011-01-12T23:55:36Z",
-      "warrantyStart": "2012-01-07T17:31:27Z",
-      "warrantyEnd": "2028-08-12T01:28:11Z",
-      "notes": "Revision of Autologous Tissue Substitute in Lower Back, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "b66376f8-fbd8-4380-8b9c-a34879ffc2ef",
-  "firstName": "Rikki",
-  "lastName": "Gajownik",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG919572",
-      "type": "Desktop",
-      "mac": "39-F3-23-E7-50-BE",
-      "manufacturer": "Dell",
+      "mac": "65-5A-75-AF-A5-81",
+      "manufacturer": "Asus",
       "model": "MiniBook",
-      "serialNumber": "11679859",
-      "purchaseDate": "2012-06-01T01:25:14Z",
-      "warrantyStart": "2018-01-26T20:26:28Z",
-      "warrantyEnd": "2030-03-25T15:03:42Z",
-      "notes": "Repair Left Thyroid Gland Lobe, Open Approach"
-    },
+      "serialNumber": "85626074",
+      "purchaseDate": "2012-01-05T10:44:21Z",
+      "warrantyStart": "2015-07-11T08:37:50Z",
+      "warrantyEnd": "2023-06-07T02:05:16Z",
+      "notes": "Supplement Sciatic Nerve with Autologous Tissue Substitute, Percutaneous Approach",
+      "archived": false
+    }
+  ]
+}, {
+  "id": "749f6132-d50a-4327-9177-4199911ca1b3",
+  "firstName": "Erin",
+  "lastName": "Widdowfield",
+  "department": "LID",
+  "devices": [
     {
-      "assetTag": "UG011561",
+      "assetTag": "UG935297",
       "type": "Laptop",
-      "mac": "83-D3-04-05-3E-22",
-      "manufacturer": "Acer",
-      "model": "ProBook",
-      "serialNumber": "66451438",
-      "purchaseDate": "2017-01-25T07:25:18Z",
-      "warrantyStart": "2021-01-19T08:20:56Z",
-      "warrantyEnd": "2027-12-30T05:21:00Z",
-      "notes": "Introduction of Local Anesthetic into Eye, Via Natural or Artificial Opening"
-    }
-  ]
-}, {
-  "id": "937da357-a772-401c-9293-c2a218ac56d7",
-  "firstName": "Ferdie",
-  "lastName": "Aleixo",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG460008",
-      "type": "Desktop",
-      "mac": "5F-67-22-F6-D5-1C",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "53748328",
-      "purchaseDate": "2017-07-04T10:20:26Z",
-      "warrantyStart": "2011-01-07T15:17:13Z",
-      "warrantyEnd": "2029-07-17T19:59:32Z",
-      "notes": "Removal of Implantable Heart Assist System from Heart, Open Approach"
-    }
-  ]
-}, {
-  "id": "e9f6fa3d-4295-4d18-bc86-ae0f86c7a4aa",
-  "firstName": "Alyson",
-  "lastName": "Spehr",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG144918",
-      "type": "Desktop",
-      "mac": "BD-C0-E0-00-BC-07",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "53596571",
-      "purchaseDate": "2020-03-20T15:40:21Z",
-      "warrantyStart": "2014-11-17T17:15:35Z",
-      "warrantyEnd": "2025-04-19T14:47:45Z",
-      "notes": "Supplement Left Subclavian Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG832252",
-      "type": "Laptop",
-      "mac": "2A-E4-C9-9A-5F-7B",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "90532465",
-      "purchaseDate": "2011-11-13T07:19:09Z",
-      "warrantyStart": "2013-01-11T00:48:35Z",
-      "warrantyEnd": "2029-04-25T07:54:30Z",
-      "notes": "Destruction of Left Temporal Bone, Open Approach"
-    },
-    {
-      "assetTag": "UG481189",
-      "type": "Laptop",
-      "mac": "C0-D9-6F-30-63-44",
-      "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "31512741",
-      "purchaseDate": "2018-04-04T17:06:00Z",
-      "warrantyStart": "2011-07-16T15:22:29Z",
-      "warrantyEnd": "2024-04-09T12:20:07Z",
-      "notes": "Aural Rehabilitation Treatment"
-    }
-  ]
-}, {
-  "id": "498cb3fd-3e81-4770-a476-5ce3d8ff949d",
-  "firstName": "Gilburt",
-  "lastName": "D'Aubney",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG019601",
-      "type": "Desktop",
-      "mac": "D5-30-DF-8B-C4-2D",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "78644882",
-      "purchaseDate": "2018-01-24T22:04:59Z",
-      "warrantyStart": "2017-05-18T06:38:57Z",
-      "warrantyEnd": "2028-01-28T05:40:05Z",
-      "notes": "Revision of Synthetic Substitute in Right Tibia, Percutaneous Approach"
-    }
-  ]
-}, {
-  "id": "5676117c-92ec-441c-b281-a82d0ae43fc2",
-  "firstName": "Tallia",
-  "lastName": "Danne",
-  "department": "FMD",
-  "devices": [
-    {
-      "assetTag": "UG941873",
-      "type": "Desktop",
-      "mac": "42-D6-CC-D6-FD-BE",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "11575272",
-      "purchaseDate": "2022-01-02T21:37:21Z",
-      "warrantyStart": "2012-09-20T15:12:38Z",
-      "warrantyEnd": "2024-05-13T05:25:14Z",
-      "notes": "Fusion of Right Finger Phalangeal Joint with Internal Fixation Device, Percutaneous Endoscopic Approach"
-    },
-    {
-      "assetTag": "UG741261",
-      "type": "Desktop",
-      "mac": "BB-F3-86-D0-BD-BC",
+      "mac": "39-E5-1C-CB-B4-DB",
       "manufacturer": "HP",
       "model": "EliteBook",
-      "serialNumber": "67291119",
-      "purchaseDate": "2020-04-02T18:56:44Z",
-      "warrantyStart": "2013-03-16T23:04:47Z",
-      "warrantyEnd": "2024-02-10T06:45:18Z",
-      "notes": "Excision of Left Parotid Gland, Percutaneous Approach, Diagnostic"
-    }
-  ]
-}, {
-  "id": "ff55aefc-94c9-4f7e-80ae-1444d4772243",
-  "firstName": "Glynn",
-  "lastName": "Clohissy",
-  "department": "STU",
-  "devices": [
-    {
-      "assetTag": "UG762144",
-      "type": "Laptop",
-      "mac": "82-D2-C9-3B-AC-DF",
-      "manufacturer": "Acer",
-      "model": "EliteBook",
-      "serialNumber": "48719188",
-      "purchaseDate": "2021-01-05T01:09:30Z",
-      "warrantyStart": "2013-01-12T05:42:29Z",
-      "warrantyEnd": "2025-10-02T01:49:36Z",
-      "notes": "Beam Radiation of Bile Ducts using Heavy Particles (Protons,Ions)"
+      "serialNumber": "37542530",
+      "purchaseDate": "2012-12-06T01:38:33Z",
+      "warrantyStart": "2011-12-17T04:45:15Z",
+      "warrantyEnd": "2029-11-15T05:12:49Z",
+      "notes": "Drainage of Tibial Nerve, Percutaneous Endoscopic Approach, Diagnostic",
+      "archived": false
     },
     {
-      "assetTag": "UG257594",
-      "type": "Desktop",
-      "mac": "A2-B9-3C-88-92-0C",
+      "assetTag": "UG344482",
+      "type": "Laptop",
+      "mac": "1F-7B-C9-7A-3B-F8",
       "manufacturer": "Asus",
       "model": "ProBook",
-      "serialNumber": "16334562",
-      "purchaseDate": "2017-11-07T13:19:31Z",
-      "warrantyStart": "2019-01-18T01:49:03Z",
-      "warrantyEnd": "2027-12-18T19:35:08Z",
-      "notes": "Supplement Left Vas Deferens with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+      "serialNumber": "40425705",
+      "purchaseDate": "2015-07-06T06:29:49Z",
+      "warrantyStart": "2017-12-14T20:24:31Z",
+      "warrantyEnd": "2026-11-09T20:17:15Z",
+      "notes": "Reposition Left Upper Femur, External Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "5f1137af-c242-4843-83c2-264908b68218",
-  "firstName": "Benji",
-  "lastName": "Bruhn",
-  "department": "AHED",
+  "id": "f02c6836-65e3-43db-a558-6496e0577f4c",
+  "firstName": "Godard",
+  "lastName": "Handasyde",
+  "department": "FMD",
   "devices": [
     {
-      "assetTag": "UG010248",
+      "assetTag": "UG704993",
       "type": "Laptop",
-      "mac": "81-EC-5F-F1-BC-E7",
+      "mac": "C7-B8-E2-2D-BC-D5",
       "manufacturer": "Stone",
       "model": "ProBook",
-      "serialNumber": "54854650",
-      "purchaseDate": "2017-11-19T03:46:11Z",
-      "warrantyStart": "2015-11-16T05:24:10Z",
-      "warrantyEnd": "2022-10-18T08:19:00Z",
-      "notes": "Beam Radiation of Prostate using Neutron Capture"
+      "serialNumber": "64744149",
+      "purchaseDate": "2014-06-19T00:04:13Z",
+      "warrantyStart": "2015-10-30T16:29:00Z",
+      "warrantyEnd": "2022-12-12T07:01:49Z",
+      "notes": "Reposition Left Lower Extremity Bursa and Ligament, Percutaneous Endoscopic Approach",
+      "archived": true
     },
     {
-      "assetTag": "UG653069",
-      "type": "Laptop",
-      "mac": "1E-71-EF-1E-89-55",
-      "manufacturer": "Acer",
-      "model": "MiniBook",
-      "serialNumber": "03529953",
-      "purchaseDate": "2020-01-05T22:50:09Z",
-      "warrantyStart": "2010-11-10T15:25:50Z",
-      "warrantyEnd": "2027-11-29T19:56:03Z",
-      "notes": "Contact Radiation of Jejunum"
-    },
-    {
-      "assetTag": "UG921180",
+      "assetTag": "UG438962",
       "type": "Desktop",
-      "mac": "59-68-7C-73-63-8C",
-      "manufacturer": "Lenovo",
-      "model": "EliteBook",
-      "serialNumber": "83546374",
-      "purchaseDate": "2010-12-28T22:59:52Z",
-      "warrantyStart": "2021-02-26T09:10:36Z",
-      "warrantyEnd": "2027-08-17T16:31:42Z",
-      "notes": "Drainage of Left Tarsal Joint with Drainage Device, Percutaneous Endoscopic Approach"
-    }
-  ]
-}, {
-  "id": "51c8e900-ae61-4e0d-8a33-8bbbb5e91a80",
-  "firstName": "Benjamin",
-  "lastName": "O'Concannon",
-  "department": "AHED",
-  "devices": [
-    {
-      "assetTag": "UG737492",
-      "type": "Desktop",
-      "mac": "46-07-DF-81-F9-3E",
+      "mac": "A4-FF-B2-26-F4-2A",
       "manufacturer": "Stone",
       "model": "MiniBook",
-      "serialNumber": "91098243",
-      "purchaseDate": "2021-10-15T00:31:46Z",
-      "warrantyStart": "2015-07-22T18:16:47Z",
-      "warrantyEnd": "2029-02-08T20:31:57Z",
-      "notes": "Bypass Right Femoral Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach"
+      "serialNumber": "06932978",
+      "purchaseDate": "2014-06-25T18:56:11Z",
+      "warrantyStart": "2020-01-16T23:13:38Z",
+      "warrantyEnd": "2028-06-01T19:02:08Z",
+      "notes": "Alteration of Male Perineum with Autologous Tissue Substitute, Open Approach",
+      "archived": true
     }
   ]
 }, {
-  "id": "ebdf8b94-19b0-4e51-a4c7-f52a6698dbf5",
-  "firstName": "Noland",
-  "lastName": "Wintersgill",
+  "id": "148b9525-e58d-464d-8bf1-13f7654e754b",
+  "firstName": "Mathew",
+  "lastName": "Toomey",
   "department": "STU",
   "devices": [
     {
-      "assetTag": "UG701181",
-      "type": "Laptop",
-      "mac": "96-DD-CB-D5-32-A1",
-      "manufacturer": "Stone",
-      "model": "EliteBook",
-      "serialNumber": "58637782",
-      "purchaseDate": "2011-03-23T22:22:13Z",
-      "warrantyStart": "2019-06-17T14:58:13Z",
-      "warrantyEnd": "2026-01-19T00:21:54Z",
-      "notes": "Replacement of Left Tarsal with Autologous Tissue Substitute, Open Approach"
-    },
-    {
-      "assetTag": "UG767469",
-      "type": "Laptop",
-      "mac": "B7-7A-EE-39-BC-E9",
-      "manufacturer": "Dell",
-      "model": "EliteBook",
-      "serialNumber": "22079180",
-      "purchaseDate": "2016-01-03T05:39:39Z",
-      "warrantyStart": "2018-02-05T10:09:25Z",
-      "warrantyEnd": "2024-09-06T11:39:18Z",
-      "notes": "Repair Abducens Nerve, Percutaneous Approach"
-    },
-    {
-      "assetTag": "UG891723",
+      "assetTag": "UG747911",
       "type": "Desktop",
-      "mac": "82-59-8C-9B-A3-72",
-      "manufacturer": "HP",
-      "model": "EliteBook",
-      "serialNumber": "55445884",
-      "purchaseDate": "2019-07-31T15:45:17Z",
-      "warrantyStart": "2021-11-08T19:35:17Z",
-      "warrantyEnd": "2024-10-09T19:55:02Z",
-      "notes": "Revision of Synthetic Substitute in Right Rib, Percutaneous Endoscopic Approach"
+      "mac": "29-4C-2A-FB-F1-C0",
+      "manufacturer": "Dell",
+      "model": "MiniBook",
+      "serialNumber": "71117845",
+      "purchaseDate": "2018-06-25T17:35:11Z",
+      "warrantyStart": "2011-09-14T18:25:06Z",
+      "warrantyEnd": "2023-10-21T13:14:23Z",
+      "notes": "Revision of Other Device in Gastrointestinal Tract, Via Natural or Artificial Opening",
+      "archived": true
     }
   ]
 }, {
-  "id": "39582d21-4734-434e-a61c-e398754d6f42",
-  "firstName": "Dorette",
-  "lastName": "Bosnell",
+  "id": "31a8abc3-ae95-4f40-8dc3-912c7bee497f",
+  "firstName": "Frederik",
+  "lastName": "Caccavella",
   "department": "STU",
   "devices": [
     {
-      "assetTag": "UG787191",
+      "assetTag": "UG376443",
       "type": "Laptop",
-      "mac": "74-6E-4C-BC-06-05",
+      "mac": "11-4D-C8-16-FC-6B",
       "manufacturer": "Dell",
-      "model": "MiniBook",
-      "serialNumber": "62312103",
-      "purchaseDate": "2022-02-04T11:46:10Z",
-      "warrantyStart": "2021-09-17T04:23:07Z",
-      "warrantyEnd": "2022-10-24T03:44:43Z",
-      "notes": "Staggered Spondaic Word Assessment using Audiovisual Equipment"
-    },
+      "model": "ProBook",
+      "serialNumber": "43359551",
+      "purchaseDate": "2015-02-18T11:26:50Z",
+      "warrantyStart": "2019-10-11T23:50:36Z",
+      "warrantyEnd": "2030-05-23T18:37:55Z",
+      "notes": "Supplement Scrotum with Autologous Tissue Substitute, Open Approach",
+      "archived": true
+    }
+  ]
+}, {
+  "id": "603cf849-ec95-4788-8013-a27d7403398f",
+  "firstName": "Emmalee",
+  "lastName": "Fosdyke",
+  "department": "STU",
+  "devices": [
     {
-      "assetTag": "UG184649",
+      "assetTag": "UG213241",
       "type": "Laptop",
-      "mac": "E5-94-81-1C-00-B6",
-      "manufacturer": "Lenovo",
+      "mac": "3F-C2-21-0B-15-B6",
+      "manufacturer": "Asus",
       "model": "EliteBook",
-      "serialNumber": "36261838",
-      "purchaseDate": "2018-08-11T03:36:10Z",
-      "warrantyStart": "2018-07-20T03:11:11Z",
-      "warrantyEnd": "2030-02-20T02:53:42Z",
-      "notes": "Reposition Perineum Tendon, Open Approach"
+      "serialNumber": "24156275",
+      "purchaseDate": "2022-07-22T15:09:08Z",
+      "warrantyStart": "2015-06-23T11:33:50Z",
+      "warrantyEnd": "2023-11-02T00:58:03Z",
+      "notes": "Extirpation of Matter from Left Nipple, Percutaneous Approach",
+      "archived": true
     }
   ]
 }]
